@@ -1,0 +1,1326 @@
+###the mighty eq###
+You are using:
+<wielded>            a shiny dagger (brand new)
+<worn as shield>     a full metal shield (used)
+<worn on head>       a plain hood (brand new)
+<worn on body>       a guardsman's shirt (worn out)               ### bree guards, yummy ###
+<worn about body>    a forest green cloak (brand new)
+<worn on arms>       a plain pair of sleeves (brand new)
+<worn on hands>      a thin pair of leather gloves (used)
+<worn on legs>       a pair of guardsman's pants (used)
+<worn on feet>       a black pair of padded boots (brand new)
+<worn on wrist>      a keyring with a set of lock picks
+<worn on finger>     a ring
+<worn on back>       a longbow
+<worn across back>   a quiver
+<worn as belt>       a plain leather belt
+<worn on belt>       a lantern
+<worn on belt>       a fragrant-smelling bag
+<worn on belt>       a pan
+<worn on belt>       a water skin
+
+
+* W S C HP:Fine Mana:Warm>scp:506m
+The ground no longer feels frosty.
+
+* W S C HP:Fine Mana:Warm>p:624m168/228 hit, 30/80 mana, and 100/132 moves.
+
+* W S C HP:Fine Mana:Warm>snp:1180msneak
+
+wp:355mYou stop sneaking.
+
+* W C HP:Fine Mana:Warm>p:415m[32mOn a Low Plateau[0m
+Exits: North East South West.
+
+* W C HP:Fine Mana:Warm>np:996m[32mNear the Border of a Small Wood[0m
+A finch flies low above the ground.
+Exits: North East South West.
+A finch panics, and attempts to flee.
+A finch leaves east.
+
+* W C HP:Fine Mana:Warm>np:999m[32mIn the Eaves of a Small Wood[0m
+You see two piles of wild strawberries on the ground.
+A clear spring babbles as cool water trickles out of the ground.
+A brown fox is here, looking for some rabbits to chew up.
+Exits: East South West.
+A brown fox has arrived from the west.
+
+* W C HP:Fine Mana:Warm>p:755m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+
+* W C HP:Fine Mana:Warm>wp:480m[32mBushy Plains[0m
+A large thorny branched shrub is growing here.
+A small animal, all covered in spines, snuffles amongst the undergrowth.
+Exits: East South West.
+
+* W C HP:Fine Mana:Warm>snp:1231msneak
+Ok, you'll try to move silently for a while.
+
+* W S C HP:Fine Mana:Warm>ep:559m[32mIn the Eaves of a Small Wood[0m
+There are two piles of wild strawberries here.
+A clear spring babbles as cool water trickles out of the ground.
+A brown fox is here, looking for some rabbits to chew up.
+A brown fox is here, looking for some rabbits to chew up.
+[1m*Gimilzór the Black Númenórean*[0m is standing here.
+Exits: East South West.
+
+* W S C HP:Fine Mana:Warm>9p:495m
+[1m*Gimilzór the Black Númenórean*[0m passes dangerously close to your hiding place.
+
+* W S C HP:Fine Mana:Warm>p:385mbackstab *man*
+You begin to move silently to the back of your victim...
+
+p:630mYour victim has disappeared!
+[1m*Gimilzór the Black Númenórean*[0m leaves east.
+
+* W S C HP:Fine Mana:Warm>p:380m
+A black raven squawks desperately!
+
+* W S C HP:Fine Mana:Warm>p:990m
+A black raven squawks loudly in response!
+
+* W S C HP:Fine Mana:Warm>edbp:660m[32mAt an Old Encampment[0m
+A dense carpet of blue flowers dip their heads in the breeze.
+On the ground, there are three piles of wild strawberries.
+The corpse of a black raven is lying here.
+A small animal, all covered in spines, snuffles amongst the undergrowth.
+A lone hawk soars high above you.
+A black raven is walking across the ground, looking for carrion.
+A black raven is here, fighting Taras.
+Taras the Elf is here, fighting a black raven.
+p:445m[1m*Gimilzór the Black Númenórean*[0m is standing here.
+Exits: South West.
+
+* W S C HP:Fine Mana:Warm>
+A black raven squawks loudly in response!
+
+* W S C HP:Fine Mana:Warm>[1m*Gimilzór the Black Númenórean*[0m opens the tangledshrubs.
+draw bow
+p:415m[1m*Gimilzór the Black Númenórean*[0m leaves east.
+
+Taras panics, and attempts to flee.
+Taras leaves west.
+You remove a shiny dagger.
+You swiftly draw a longbow from across your back.
+
+* W S C HP:Fine Mana:Warm>0p:810mshoot *man*
+Shoot whom?
+
+* W S C HP:Fine Mana:Warm>ep:520m
+A black raven squawks loudly in response!
+
+* W S C HP:Fine Mana:Warm>0p:365m[32mGloomy Woods[0m
+Some thick writhing vines whip all around you.
+[1m*Gimilzór the Black Númenórean*[0m is standing here.
+Exits: East South West.
+
+* W S C HP:Fine Mana:Warm>p:940m
+[1m*Gimilzór the Black Númenórean*[0m passes dangerously close to your hiding place.
+[31mYou swiftly dodge [1m*Gimilzór the Black Númenórean*[0m[31m's attempt to slash you.[0m
+
+* W S C HP:Fine Mana:Warm [1m*Gimilzór the Black Númenórean*[0m:Fine>p:350mshoot *man*
+
+p:417m[1m*a Man*[0m has arrived from the east.
+
+p:653m[36mYou lightly shoot [1m*Gimilzór the Black Númenórean*[0m[36m's right foot and tickle it.[0m
+
+* W S C HP:Fine Mana:Warm [1m*Gimilzór the Black Númenórean*[0m:Fine>fp:670m
+[1m*Gimilzór the Black Númenórean*[0m closes the tangledshrubs.
+
+* W S C HP:Fine Mana:Warm [1m*Gimilzór the Black Númenórean*[0m:Fine>wp:360mYou flee head over heels.
+It is pitch black...
+You are in a forest.
+Something is here.
+
+o W S C HP:Fine Mana:Warm>p:415m[32mGloomy Woods[0m
+Some thick writhing vines whip all around you.
+[1m*Gimilzór the Black Númenórean*[0m is standing here.
+[1m*a Man*[0m is standing here.
+Exits: East South.
+
+* W S C HP:Fine Mana:Warm>yell shot!p:1485m[1m*a Man*[0m leaves east.
+
+p:380mOk.
+
+* W S C HP:Fine Mana:Warm>wp:370m[yell shot]
+Ok.
+A thick tangle of vines tries to hit [1m*Gimilzór the Black Númenórean*[0m, but he
+parries successfully.
+
+* W S C HP:Fine Mana:Warm>p:342mAlas, you cannot go that way...
+
+* W S C HP:Fine Mana:Warm>wp:343m
+[1m*Gimilzór the Black Númenórean*[0m slashes a thick tangle of vines' trunk and
+tickles it.
+
+* W S C HP:Fine Mana:Warm>fp:450mAlas, you cannot go that way...
+
+* W S C HP:Fine Mana:Warm>p:410mYou flee head over heels.
+[32mAt the Heart of the Woods[0m
+A mass of wriggling vines drops on you from the trees.
+[1m*a Man*[0m is standing here.
+Exits: South West.
+
+o W S C HP:Fine Mana:Warm>wp:721m[32mGloomy Woods[0m
+A thick tangle of vines is here, fighting [1m*Gimilzór the Black Númenórean*[0m.
+[1m*Gimilzór the Black Númenórean*[0m is here, fighting a thick tangle of vines.
+[1m*a Man*[0m is standing here.
+Exits: East South.
+
+* W S C HP:Fine Mana:Warm>sp:954m[32mAt the Edge of a Clearing[0m
+Exits: North.
+
+* W S C HP:Fine Mana:Warm>np:2005m[32mGloomy Woods[0m
+A thick tangle of vines is here, fighting [1m*Gimilzór the Black Númenórean*[0m.
+[1m*Gimilzór the Black Númenórean*[0m is here, fighting a thick tangle of vines.
+[1m*a Man*[0m is standing here.
+Exits: East South.
+
+* W S C HP:Fine Mana:Warm>ep:770mIt is pitch black...
+You are in a forest.
+Something is here.
+
+o W S C HP:Fine Mana:Warm>np:965mAlas, you cannot go that way...
+
+o W S C HP:Fine Mana:Warm>p:555m
+[1m*a Man*[0m has arrived from the west.
+
+* W S C HP:Fine Mana:Warm>p:451m
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Fine Mana:Warm>wp:1039m[32mGloomy Woods[0m
+A thick tangle of vines is here, fighting [1m*Gimilzór the Black Númenórean*[0m.
+[1m*Gimilzór the Black Númenórean*[0m is here, fighting a thick tangle of vines.
+Exits: East South.
+
+* W S C HP:Fine Mana:Hot>ep:715m
+[1m*a Man*[0m has arrived from the east.
+
+* W S C HP:Fine Mana:Hot>p:420mIt is pitch black...
+You are in a forest.
+Something is here.
+
+o W S C HP:Fine Mana:Hot>p:410m
+[1m*a Man*[0m has arrived from the west.
+
+* W S C HP:Fine Mana:Hot>
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Fine Mana:Hot>ep:1121mAlas, you cannot go that way...
+
+* W S C HP:Fine Mana:Hot>p:419m
+[1m*a Man*[0m utters the words 'diesilla barh'
+[31m[1m*a Man*[0m[31m sends a powerful lightning bolt at you, you stagger from the impact.[0m
+
+* W S C HP:Hurt Mana:Hot [1m*a Man*[0m:Healthy>np:626mNo way! You are fighting for your life!
+
+* W S C HP:Hurt Mana:Hot [1m*a Man*[0m:Healthy>fp:744mYou flee head over heels.
+PANIC! You couldn't escape!
+
+* W S C HP:Hurt Mana:Hot [1m*a Man*[0m:Healthy>np:405m
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Hurt Mana:Hot [1m*a Man*[0m:Healthy>p:385mNo way! You are fighting for your life!
+
+* W S C HP:Hurt Mana:Hot [1m*a Man*[0m:Healthy>laughp:975mYou fall down laughing.
+
+* W S C HP:Hurt Mana:Hot [1m*a Man*[0m:Healthy>fp:500mYou flee head over heels.
+[32mGloomy Woods[0m
+A thick tangle of vines is here, fighting [1m*Gimilzór the Black Númenórean*[0m.
+[1m*Gimilzór the Black Númenórean*[0m is here, fighting a thick tangle of vines.
+Exits: East South.
+
+* W S C HP:Hurt Mana:Hot>nep:725mAlas, you cannot go that way...
+
+* W S C HP:Hurt Mana:Hot>p:595m[32mAt the Heart of the Woods[0m
+A mass of wriggling vines drops on you from the trees.
+[1m*a Man*[0m is standing here.
+Exits: South West.
+[1m*a Man*[0m swiftly dodges a mass of vines' attempt to hit him.
+
+* W S C HP:Hurt Mana:Hot>np:380mAlas, you cannot go that way...
+
+* W S C HP:Hurt Mana:Hot>sp:815m[1m*a Man*[0m panics, and attempts to flee.
+[32mAt a Huge Tree[0m
+The corpse of a forest spider is lying here.
+The corpse of a forest spider is lying here.
+A woodpecker is here, tapping on a tree.
+[1m*a Man*[0m is standing here.
+Exits: North.
+
+* W S C HP:Hurt Mana:Hot>ep:715mAlas, you cannot go that way...
+
+* W S C HP:Hurt Mana:Hot>np:385m
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Hurt Mana:Hot>wp:560m[32mAt the Heart of the Woods[0m
+A mass of wriggling vines drops on you from the trees.
+[1m*a Man*[0m is standing here.
+Exits: South West.
+
+* W S C HP:Hurt Mana:Hot>p:411m[32mGloomy Woods[0m
+A thick tangle of vines is here, fighting [1m*Gimilzór the Black Númenórean*[0m.
+[1m*Gimilzór the Black Númenórean*[0m is here, fighting a thick tangle of vines.
+[1m*a Man*[0m is standing here.
+Exits: East South.
+
+* W S C HP:Hurt Mana:Hot>sp:424m
+[1m*a Man*[0m leaves south.
+
+* W S C HP:Hurt Mana:Hot>p:455m[32mAt the Edge of a Clearing[0m
+[1m*a Man*[0m is standing here.
+Exits: North.
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Hurt Mana:Hot>p:2770m
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Hot>np:1045m[32mGloomy Woods[0m
+A thick tangle of vines is here, fighting [1m*Gimilzór the Black Númenórean*[0m.
+[1m*Gimilzór the Black Númenórean*[0m is here, fighting a thick tangle of vines.
+Exits: East South.
+
+* W S C HP:Hurt Mana:Hot>ep:440m
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Hurt Mana:Hot>p:420mIt is pitch black...
+You are in a forest.
+Something is here.
+
+o W S C HP:Hurt Mana:Hot>oep:550mopen exit 
+
+p:450mYou don't see any exit here.
+
+o W S C HP:Hurt Mana:Hot>llp:350m
+[1m*a Man*[0m has arrived from the west.
+[31mYou swiftly dodge a mass of vines[31m' attempt to hit you.[0m
+
+* W S C HP:Hurt Mana:Hot a mass of vines:Healthy>sp:455m
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Hurt Mana:Hot a mass of vines:Healthy>light lantern
+Ok.
+
+* W S C HP:Hurt Mana:Hot a mass of vines:Healthy>fp:385mNo way! You are fighting for your life!
+
+* W S C HP:Hurt Mana:Hot a mass of vines:Healthy>p:420mYou flee head over heels.
+[32mAt a Huge Tree[0m
+The corpse of a forest spider is lying here.
+The corpse of a forest spider is lying here.
+A woodpecker is here, tapping on a tree.
+Exits: North.
+
+* W S C HP:Hurt Mana:Hot>p:385m
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Hot>p:415m
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Hurt Mana:Hot>np:691m[32mAt the Heart of the Woods[0m
+A mass of wriggling vines drops on you from the trees.
+Exits: South West.
+
+* W S C HP:Hurt Mana:Hot>p:714m
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Hurt Mana:Hot>l ep:360m
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Hurt Mana:Hot>wp:390mA tangle of thin branches blocks the way east.
+
+* W S C HP:Hurt Mana:Hot>p:455m[32mGloomy Woods[0m
+A thick tangle of vines is here, fighting [1m*Gimilzór the Black Númenórean*[0m.
+[1m*Gimilzór the Black Númenórean*[0m is here, fighting a thick tangle of vines.
+Exits: East South.
+
+* W S C HP:Hurt Mana:Hot>l np:340m
+[1m*a Man*[0m has arrived from the east.
+
+* W S C HP:Hurt Mana:Hot>ep:800m[1m*a Man*[0m leaves south.
+Nothing special there...
+
+* W S C HP:Hurt Mana:Hot>p:445m[33mArilin narrates 'ehhh how many mewlips are in their cave'[0m
+[32mAt the Heart of the Woods[0m
+A mass of wriggling vines drops on you from the trees.
+Exits: South West.
+
+* W S C HP:Hurt Mana:Hot>open branchesep:1980m[1m*a Man*[0m has arrived from the west.
+You don't see any branches here.
+
+* W S C HP:Hurt Mana:Hot>p:421m[1m*a Man*[0m begins some strange incantations...
+Alas, you cannot go that way...
+
+* W S C HP:Hurt Mana:Hot>sp:594m[32mAt a Huge Tree[0m
+The corpse of a forest spider is lying here.
+The corpse of a forest spider is lying here.
+A woodpecker is here, tapping on a tree.
+Exits: North.
+
+* W S C HP:Hurt Mana:Hot>p:381m
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Hot>np:379m
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Hurt Mana:Hot>wp:545m[32mAt the Heart of the Woods[0m
+A mass of wriggling vines drops on you from the trees.
+Exits: South West.
+
+* W S C HP:Hurt Mana:Hot>p:760m[1m*a Man*[0m has arrived from the south.
+[32mGloomy Woods[0m
+Some thick writhing vines whip all around you.
+Exits: East South.
+
+* W S C HP:Hurt Mana:Hot>sp:475m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+
+* W S C HP:Hurt Mana:Hot>
+[1m*a Man*[0m has arrived from the east.
+
+* W S C HP:Hurt Mana:Hot>p:340m[1m*a Man*[0m begins some strange incantations...
+[32mAt the Edge of a Clearing[0m
+Exits: North.
+
+* W S C HP:Hurt Mana:Hot>np:1175m
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Hot>
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Hurt Mana:Hot>ep:345m[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+[32mGloomy Woods[0m
+Some thick writhing vines whip all around you.
+Exits: East South.
+
+* W S C HP:Hurt Mana:Hot>p:380m[1m*a Man*[0m has arrived from the south.
+
+p:415m[32mAt the Heart of the Woods[0m
+A mass of wriggling vines drops on you from the trees.
+Exits: South West.
+
+* W S C HP:Hurt Mana:Hot>sp:585m
+[1m*a Man*[0m has arrived from the west.
+
+* W S C HP:Hurt Mana:Hot>p:415m[32mAt a Huge Tree[0m
+The corpse of a forest spider is lying here.
+The corpse of a forest spider is lying here.
+A woodpecker is here, tapping on a tree.
+Exits: North.
+
+* W S C HP:Hurt Mana:Hot>np:1260m[32mAt the Heart of the Woods[0m
+A mass of wriggling vines drops on you from the trees.
+[1m*Gimilzór the Black Númenórean*[0m is standing here.
+Exits: South West.
+
+* W S C HP:Hurt Mana:Hot>p:415m
+[1m*Gimilzór the Black Númenórean*[0m leaves south.
+
+* W S C HP:Hurt Mana:Hot>search ep:785m[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+You begin to search ...
+
+p:490m[1m*Gimilzór the Black Númenórean*[0m leaves west.
+
+p:1515m[1m*Gimilzór the Black Númenórean*[0m has arrived from the west.
+
+p:550m[1m*Gimilzór the Black Númenórean*[0m begins some strange incantations...
+Aye! You cannot concentrate any more...
+[31mA mass of vines[31m strongly hits your head.[0m
+
+* W S C HP:Hurt Mana:Hot a mass of vines:Healthy>fp:1265mYou flee head over heels.
+[32mGloomy Woods[0m
+Some thick writhing vines whip all around you.
+[1m*a Man*[0m is standing here trying to concentrate.
+Exits: East South.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>wp:455mAlas, you cannot go that way...
+
+* W S C HP:Hurt Mana:Hot Move:Tired>sp:595m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:350m
+[1m*Gimilzór the Black Númenórean*[0m begins some strange incantations...
+
+* W S C HP:Hurt Mana:Hot>p:420m[32mAt the Edge of a Clearing[0m
+Exits: North.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:630m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:345m
+[1m*Gimilzór the Black Númenórean*[0m begins some strange incantations...
+
+* W S C HP:Hurt Mana:Hot Move:Tired>np:390m[32mGloomy Woods[0m
+A thick tangle of vines is here, fighting [1m*a Man*[0m.
+[1m*a Man*[0m is here, fighting a thick tangle of vines.
+Exits: East South.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:420m
+[1m*a Man*[0m panics, and attempts to flee.
+[1m*a Man*[0m leaves east.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:416m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>yell LOLep:689m[1m*a Man*[0m has arrived from the east.
+Ok.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:455m[32mAt the Heart of the Woods[0m
+A mass of wriggling vines drops on you from the trees.
+Exits: South West.
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the west.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>sp:335m
+[1m*Gimilzór the Black Númenórean*[0m leaves west.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>hqp:435m[32mAt a Huge Tree[0m
+The corpse of a forest spider is lying here.
+The corpse of a forest spider is lying here.
+A woodpecker is here, tapping on a tree.
+Exits: North.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:385mhide quickly
+You attempt to hide yourself.
+
+p:849m[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+
+p:332mOk.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:468m
+[1m*Gimilzór the Black Númenórean*[0m leaves north.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:767m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:564m
+[1m*Gimilzór the Black Númenórean*[0m passes dangerously close to your hiding place.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:635m
+[1m*Gimilzór the Black Númenórean*[0m leaves north.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:8500m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:2266m
+[1m*Gimilzór the Black Númenórean*[0m passes dangerously close to your hiding place.
+
+* W S C HP:Hurt Mana:Hot>p:550m
+[1m*a Man*[0m passes dangerously close to your hiding place.
+
+* W S C HP:Hurt Mana:Hot>p:1339m
+[1m*Gimilzór the Black Númenórean*[0m leaves north.
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Hurt Mana:Hot>p:3611m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Hot>p:1784m
+[1m*Gimilzór the Black Númenórean*[0m passes dangerously close to your hiding place.
+
+* W S C HP:Hurt Mana:Hot>p:5470m
+[1m*Gimilzór the Black Númenórean*[0m strains 'quake'
+
+* W S C HP:Hurt Mana:Hot>p:515m
+[1m*Gimilzór the Black Númenórean*[0m leaves north.
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Hurt Mana:Hot>tickle manp:980mWho is that?
+
+* W S C HP:Hurt Mana:Hot>p:766m
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Hot>p:385m
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Hurt Mana:Hot>fp:1079mYou flee head over heels.
+[32mAt the Heart of the Woods[0m
+[1m*Gimilzór the Black Númenórean*[0m is standing here.
+Exits: South West.
+
+* W S C HP:Hurt Mana:Hot>np:490mAlas, you cannot go that way...
+
+* W S C HP:Hurt Mana:Hot>wp:525m[31m[1m*Gimilzór the Black Númenórean*[0m[31m strongly slashes your body.[0m
+No way! You are fighting for your life!
+The earth trembles and shivers.
+
+* W S C HP:Hurt Mana:Hot [1m*Gimilzór the Black Númenórean*[0m:Fine>sp:515mNo way! You are fighting for your life!
+
+* W S C HP:Hurt Mana:Hot [1m*Gimilzór the Black Númenórean*[0m:Fine>yell GIGwp:995mOk.
+
+* W S C HP:Hurt Mana:Hot [1m*Gimilzór the Black Númenórean*[0m:Fine>sp:405mNo way! You are fighting for your life!
+[1m*Gimilzór the Black Númenórean*[0m begins some strange incantations...
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Hurt Mana:Hot [1m*Gimilzór the Black Númenórean*[0m:Fine>p:386mNo way! You are fighting for your life!
+
+* W S C HP:Hurt Mana:Hot [1m*Gimilzór the Black Númenórean*[0m:Fine>wp:449mNo way! You are fighting for your life!
+
+* W S C HP:Hurt Mana:Hot [1m*Gimilzór the Black Númenórean*[0m:Fine>fp:530mYou flee head over heels.
+It is pitch black...
+You are in a forest.
+Something is here.
+Something is here.
+[31mYou swiftly dodge Something[31m's attempt to hit you.[0m
+
+o W S C HP:Hurt Mana:Hot Something:Healthy>wp:705m[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+[1m*a Man*[0m has arrived from the east.
+No way! You are fighting for your life!
+
+* W S C HP:Hurt Mana:Hot a thick tangle of vines:Healthy>fp:445m
+[31m[1m*Gimilzór the Black Númenórean*[0m[31m slashes your left leg.[0m
+
+* W S C HP:Hurt Mana:Hot a thick tangle of vines:Healthy>sp:440mYou flee head over heels.
+It is pitch black...
+You are in a forest.
+
+o W S C HP:Hurt Mana:Hot Move:Tired>p:375m[32mAt a Huge Tree[0m
+The corpse of a woodpecker is lying here.
+The corpse of a forest spider is lying here.
+The corpse of a forest spider is lying here.
+Exits: North.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>ep:555mAlas, you cannot go that way...
+
+* W S C HP:Hurt Mana:Hot Move:Tired>nsp:1410m[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+[1m*a Man*[0m has arrived from the north.
+It is pitch black...
+You are in a forest.
+
+o W S C HP:Hurt Mana:Hot Move:Tired>hqp:750m[32mAt a Huge Tree[0m
+The corpse of a woodpecker is lying here.
+The corpse of a forest spider is lying here.
+The corpse of a forest spider is lying here.
+[1m*Gimilzór the Black Númenórean*[0m is standing here.
+[1m*a Man*[0m is standing here.
+Exits: North.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:376m
+[1m*Gimilzór the Black Númenórean*[0m leaves north.
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:379mhide quickly
+You attempt to hide yourself.
+
+p:906mOk.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:1550m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Hot Move:Tired>p:699m
+[1m*Gimilzór the Black Númenórean*[0m passes dangerously close to your hiding place.
+p:1m
+* W S C HP:Hurt Mana:Burning Move:Tired>p:579m
+[1m*Gimilzór the Black Númenórean*[0m leaves north.
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>np:755mIt is pitch black...
+You are in a forest.
+
+o W S C HP:Hurt Mana:Burning Move:Tired>sp:705m[1m*Gimilzór the Black Númenórean*[0m has arrived from the west.
+[1m*a Man*[0m has arrived from the west.
+[32mAt a Huge Tree[0m
+The corpse of a woodpecker is lying here.
+The corpse of a forest spider is lying here.
+The corpse of a forest spider is lying here.
+Exits: North.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>hqp:497mhide quickly
+You attempt to hide yourself.
+
+p:708m[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+[1m*a Man*[0m has arrived from the north.
+
+p:401mAye! You cannot concentrate any more...
+[31m[1m*Gimilzór the Black Númenórean*[0m[31m slashes your left arm.[0m
+
+* W S C HP:Hurt Mana:Burning Move:Tired [1m*Gimilzór the Black Númenórean*[0m:Fine>fp:1064mYou flee head over heels.
+It is pitch black...
+You are in a forest.
+
+o W S C HP:Hurt Mana:Burning Move:Tired>nwp:590mAlas, you cannot go that way...
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>sp:380m
+[31m[1m*Gimilzór the Black Númenórean*[0m[31m quickly approaches, trying to slash you.[0m
+A mass of vines has arrived from the west.
+
+* W S C HP:Hurt Mana:Burning Move:Tired [1m*Gimilzór the Black Númenórean*[0m:Fine>p:380mNo way! You are fighting for your life!
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Hurt Mana:Burning Move:Tired [1m*Gimilzór the Black Númenórean*[0m:Fine>fp:395mNo way! You are fighting for your life!
+
+* W S C HP:Hurt Mana:Burning Move:Tired [1m*Gimilzór the Black Númenórean*[0m:Fine>wsp:1195mYou flee head over heels.
+[32mAt a Huge Tree[0m
+The corpse of a woodpecker is lying here.
+The corpse of a forest spider is lying here.
+The corpse of a forest spider is lying here.
+Exits: North.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>p:383mAlas, you cannot go that way...
+
+* W S C HP:Hurt Mana:Burning Move:Tired>np:273mAlas, you cannot go that way...
+
+* W S C HP:Hurt Mana:Burning Move:Tired>p:349m[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+[1m*a Man*[0m has arrived from the north.
+It is pitch black...
+You are in a forest.
+Something is here.
+
+o W S C HP:Hurt Mana:Burning Move:Tired>ep:460mAlas, you cannot go that way...
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>wp:605m
+[1m*Gimilzór the Black Númenórean*[0m leaves west.
+
+o W S C HP:Hurt Mana:Burning Move:Tired>fp:455m[32mGloomy Woods[0m
+Some thick writhing vines whip all around you.
+[1m*Gimilzór the Black Númenórean*[0m is standing here.
+[1m*a Man*[0m is standing here.
+Exits: East South.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>p:370m
+[1m*Gimilzór the Black Númenórean*[0m leaves east.
+
+o W S C HP:Hurt Mana:Burning Move:Tired>sp:400mYou flee head over heels.
+[32mAt the Edge of a Clearing[0m
+Exits: North.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>p:385mAlas, you cannot go that way...
+
+* W S C HP:Hurt Mana:Burning Move:Tired>wnp:810mAlas, you cannot go that way...
+
+* W S C HP:Hurt Mana:Burning Move:Tired>sp:400m[32mGloomy Woods[0m
+Some thick writhing vines whip all around you.
+[1m*a Man*[0m is standing here.
+Exits: East South.
+
+* W S C HP:Hurt Mana:Burning Move:Slow>p:580m[32mAt the Edge of a Clearing[0m
+[1m*a Man*[0m is standing here.
+Exits: North.
+
+* W S C HP:Hurt Mana:Burning Move:Slow>hqp:545m[1m*a Man*[0m leaves north.
+hide quickly
+You attempt to hide yourself.
+
+p:946m[1m*a Man*[0m has arrived from the north.
+
+p:300mOk.
+
+* W S C HP:Hurt Mana:Burning Move:Slow>p:426m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Burning Move:Slow>p:523m
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Hurt Mana:Burning Move:Slow>p:385m
+[1m*Gimilzór the Black Númenórean*[0m leaves north.
+
+* W S C HP:Hurt Mana:Burning Move:Slow>p:1141m
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Burning Move:Slow>p:379m
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Hurt Mana:Burning Move:Slow>p:1445m
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Burning Move:Slow>p:960m
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Hurt Mana:Burning Move:Slow>p:8766m
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>p:414m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>p:380m
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>p:1235m
+[1m*Gimilzór the Black Númenórean*[0m carefully examines the ground around him,
+looking for tracks...
+
+* W S C HP:Hurt Mana:Burning Move:Tired>p:2505m
+[1m*Gimilzór the Black Númenórean*[0m passes dangerously close to your hiding place.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>nep:2290mIt is pitch black...
+You are in a forest.
+Something is here.
+Something is here.
+
+o W S C HP:Hurt Mana:Burning Move:Tired>hqp:740mIt is pitch black...
+You are in a forest.
+
+o W S C HP:Hurt Mana:Burning Move:Tired>p:345mhide quickly
+You attempt to hide yourself.
+
+p:1100mOk.
+
+o W S C HP:Hurt Mana:Burning Move:Tired>p:7595m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the west.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>9p:1955mbackstab *man*
+Backstab whom?
+
+o W S C HP:Hurt Mana:Burning Move:Tired>p:660m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>p:445m
+[1m*Gimilzór the Black Númenórean*[0m leaves west.
+
+o W S C HP:Hurt Mana:Burning Move:Tired>9p:995mbackstab *man*
+Backstab whom?
+
+o W S C HP:Hurt Mana:Burning Move:Tired>p:4540m
+[33mÁram narrates 'lo mume'[0m
+
+o W S C HP:Hurt Mana:Burning Move:Tired>p:10002m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the west.
+[1m*a Man*[0m has arrived from the west.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>l ep:1488mA tangle of thin branches blocks the way east.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>p:420m
+[1m*Gimilzór the Black Númenórean*[0m leaves west.
+
+o W S C HP:Hurt Mana:Burning Move:Tired>p:835m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the west.
+[1m*a Man*[0m has arrived from the west.
+
+* W S C HP:Hurt Mana:Burning Move:Tired>p:520m
+[31mYou swiftly dodge [1m*Gimilzór the Black Númenórean*[0m[31m's attempt to slash you.[0m
+
+* W S C HP:Hurt Mana:Burning Move:Tired [1m*Gimilzór the Black Númenórean*[0m:Fine>p:485m
+[1m*a Man*[0m has reconnected.
+
+* W S C HP:Hurt Mana:Burning Move:Tired [1m*Gimilzór the Black Númenórean*[0m:Fine>open tanglefp:770mYou don't see any tangle here.
+
+* W S C HP:Hurt Mana:Burning Move:Tired [1m*Gimilzór the Black Númenórean*[0m:Fine>p:420mYou flee head over heels.
+[32mAt a Huge Tree[0m
+The corpse of a woodpecker is lying here.
+The corpse of a forest spider is lying here.
+The corpse of a forest spider is lying here.
+Exits: North.
+
+* W S C HP:Hurt Move:Tired>np:580m[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+[1m*a Man*[0m has arrived from the north.
+It is pitch black...
+You are in a forest.
+
+o W S C HP:Hurt Move:Tired>p:790m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Hurt Move:Tired>p:205m
+[1m*a Man*[0m begins some strange incantations...
+[31m[1m*Gimilzór the Black Númenórean*[0m[31m slashes your right foot extremely hard.[0m
+[31mYou feel a strong ache there![0m
+
+* W S C HP:Hurt Move:Tired [1m*Gimilzór the Black Númenórean*[0m:Fine>fp:1545m
+[1m*a Man*[0m utters the words 'diesilla barh'
+[31m[1m*a Man*[0m[31m sends a powerful lightning bolt at you, you stagger from the impact.[0m
+That really HURT!
+
+* W S C HP:Bad Move:Tired [1m*Gimilzór the Black Númenórean*[0m:Fine>p:350m
+You flee head over heels.
+It is pitch black...
+You are in a forest.
+Something is here.
+
+o W S C HP:Bad Move:Tired>np:385mYou flee head over heels.
+[32mAt the Edge of a Clearing[0m
+A mass of wriggling vines drops on you from the trees.
+Exits: North.
+
+* W S C HP:Bad Move:Tired>wp:410mIt is pitch black...
+You are in a forest.
+Something is here.
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+[1m*a Man*[0m has arrived from the east.
+
+* W S C HP:Bad Move:Tired>sp:415mAlas, you cannot go that way...
+
+* W S C HP:Bad Move:Tired>p:210m[1m*Gimilzór the Black Númenórean*[0m leaves south.
+[32mAt the Edge of a Clearing[0m
+A mass of wriggling vines drops on you from the trees.
+[1m*Gimilzór the Black Númenórean*[0m is standing here.
+[1m*a Man*[0m is standing here.
+Exits: North.
+
+* W S C HP:Bad Move:Tired>wp:425m
+[1m*Gimilzór the Black Númenórean*[0m leaves north.
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Bad Move:Tired>sp:310mAlas, you cannot go that way...
+
+* W S C HP:Bad Move:Tired>p:455mAlas, you cannot go that way...
+
+* W S C HP:Bad Move:Tired>p:445m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+
+* W S C HP:Bad Move:Tired>hqp:535mhide quickly
+You attempt to hide yourself.
+[1m*a Man*[0m has arrived from the north.
+
+p:410m[1m*a Man*[0m begins some strange incantations...
+[1m*Gimilzór the Black Númenórean*[0m leaves north.
+[1m*a Man*[0m leaves north.
+
+fp:270m* W S C HP:Bad Move:Tired>np:405mYou flee head over heels.
+It is pitch black...
+You are in a forest.
+Something is here.
+
+o W S C HP:Bad Move:Tired>ep:320mAlas, you cannot go that way...
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+[1m*a Man*[0m has arrived from the east.
+
+* W S C HP:Bad Move:Tired>gqp:335mIt is pitch black...
+You are in a forest.
+
+o W S C HP:Bad Move:Slow>p:525mArglebargle, glop-glyf!?!
+
+o W S C HP:Bad Move:Slow>sp:1240m[32mAt a Huge Tree[0m
+The corpse of a woodpecker is lying here.
+The corpse of a forest spider is lying here.
+The corpse of a forest spider is lying here.
+Exits: North.
+
+* W S C HP:Bad Move:Slow>hqp:475mhide quickly
+You attempt to hide yourself.
+
+p:420m[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+[1m*a Man*[0m has arrived from the north.
+
+p:445m[1m*Gimilzór the Black Númenórean*[0m begins some strange incantations...
+
+p:440m[1m*a Man*[0m begins some strange incantations...
+You can't hide while people are looking.
+
+* W S C HP:Bad Move:Slow>fp:225m
+[1m*Gimilzór the Black Númenórean*[0m utters the words 'mosailla paieg'
+[31m[1m*Gimilzór the Black Númenórean*[0m[31m burns you.[0m
+You wish that your wounds would stop BLEEDING so much!
+[31m[1m*Gimilzór the Black Númenórean*[0m[31m slashes your right foot and shatters it.[0m
+You wish that your wounds would stop BLEEDING so much!
+
+* W S C HP:Bad Move:Slow [1m*Gimilzór the Black Númenórean*[0m:Fine>np:520mYou flee head over heels.
+It is pitch black...
+You are in a forest.
+
+o W S C HP:Bad Move:Slow>wp:380mAlas, you cannot go that way...
+
+o W S C HP:Bad Move:Slow>wp:430mIt is pitch black...
+You are in a forest.
+Something is here.
+
+o W S C HP:Bad Move:Slow>hqp:290mAlas, you cannot go that way...
+
+o W S C HP:Bad Move:Slow>p:385mhide quickly
+You attempt to hide yourself.
+
+p:451m[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+[1m*a Man*[0m has arrived from the east.
+
+p:519mOk.
+
+* W S C HP:Bad Move:Slow>p:416m
+[1m*Gimilzór the Black Númenórean*[0m leaves south.
+
+o W S C HP:Bad Move:Slow>p:414m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Bad Move:Slow>p:720m
+[1m*Gimilzór the Black Númenórean*[0m leaves east.
+
+o W S C HP:Bad Move:Slow>p:1960m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+[1m*a Man*[0m has arrived from the east.
+
+* W S C HP:Bad Move:Slow>p:415m
+A mass of vines has arrived from the south.
+
+* W S C HP:Bad Move:Slow>p:410m
+[1m*Gimilzór the Black Númenórean*[0m leaves south.
+
+o W S C HP:Bad Move:Slow>yell damn. i loose perfect bad set of eqep:5100mOk.
+
+o W S C HP:Bad Move:Slow>ghqp:400mIt is pitch black...
+You are in a forest.
+
+o W S C HP:Bad Move:Slow>p:450mArglebargle, glop-glyf!?!
+
+o W S C HP:Bad Move:Slow>hqp:1225mhide quickly
+You attempt to hide yourself.
+
+p:444m[1m*Gimilzór the Black Númenórean*[0m has arrived from the west.
+[1m*a Man*[0m has arrived from the west.
+
+p:367m[1m*Gimilzór the Black Númenórean*[0m leaves south.
+
+p:399mOk.
+p:1m
+o W S C HP:Bad Move:Slow>p:2049m
+[35m[1m*Gimilzór the Black Númenórean*[0m[35m yells 'wont loot'[0m
+
+o W S C HP:Bad Move:Slow>p:415m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Bad Move:Slow>p:350m
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Bad Move:Slow>
+[1m*Gimilzór the Black Númenórean*[0m leaves west.
+
+o W S C HP:Bad Move:Slow>p:2415m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the west.
+[1m*a Man*[0m has arrived from the west.
+
+* W S C HP:Bad Move:Slow>p:585m
+[1m*a Man*[0m passes dangerously close to your hiding place.
+
+* W S C HP:Bad Move:Slow>p:1680m
+[1m*Gimilzór the Black Númenórean*[0m passes dangerously close to your hiding place.
+
+* W S C HP:Bad Move:Slow>p:1785m
+[1m*Gimilzór the Black Númenórean*[0m leaves west.
+Saving Israfel.
+
+o W S C HP:Bad Move:Slow>p:1550m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the west.
+[1m*a Man*[0m has arrived from the west.
+
+* W S C HP:Bad Move:Tired>p:1925m
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Bad Move:Tired>yell its ok, i just having funp:490m
+[1m*Gimilzór the Black Númenórean*[0m strains 'here, quake'
+
+* W S C HP:Bad Move:Tired>whp:526m[1m*Gimilzór the Black Númenórean*[0m leaves south.
+Ok.
+
+o W S C HP:Bad Move:Tired>p:244mIt is pitch black...
+You are in a forest.
+Something is here.
+Something is here.
+
+o W S C HP:Bad Move:Slow>p:383mhide <object> or hide <effort>
+
+o W S C HP:Bad Move:Slow>hqp:568mhide quickly
+You attempt to hide yourself.
+
+p:1289mOk.
+
+o W S C HP:Bad Move:Tired>p:1725m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+[1m*a Man*[0m has arrived from the east.
+
+* W S C HP:Bad Move:Tired>p:415m
+A thick tangle of vines tries to hit [1m*Gimilzór the Black Númenórean*[0m, but he
+parries successfully.
+
+* W S C HP:Bad Move:Tired>p:615m
+[1m*Gimilzór the Black Númenórean*[0m panics, and attempts to flee.
+[1m*Gimilzór the Black Númenórean*[0m leaves south.
+
+* W S C HP:Bad Move:Tired>p:990m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Bad Move:Tired>p:520m
+[1m*a Man*[0m leaves east.
+
+* W S C HP:Bad Move:Tired>p:2455m
+[1m*a Man*[0m has arrived from the east.
+
+* W S C HP:Bad Move:Tired>p:1275m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Bad Move:Tired>yell if you just gimme time to search that damn exitp:545m[1m*a Man*[0m leaves east.
+
+ep:400mOk.
+
+* W S C HP:Bad Move:Tired>p:420mIt is pitch black...
+You are in a forest.
+
+o W S C HP:Bad Move:Tired>wp:330m
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Bad Move:Tired>p:315m[32mGloomy Woods[0m
+Some thick writhing vines whip all around you.
+A mass of vines is here, fighting [1m*Gimilzór the Black Númenórean*[0m.
+[1m*Gimilzór the Black Númenórean*[0m is here, fighting a mass of vines.
+Exits: East South.
+[1m*a Man*[0m has arrived from the east.
+
+* W S C HP:Bad Move:Slow>p:345m
+[1m*Gimilzór the Black Númenórean*[0m panics, and attempts to flee.
+[1m*Gimilzór the Black Númenórean*[0m leaves south.
+
+* W S C HP:Bad Move:Slow>hqp:415m[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+[1m*a Man*[0m has arrived from the south.
+hide quickly
+You attempt to hide yourself.
+
+p:485m[1m*Gimilzór the Black Númenórean*[0m leaves east.
+
+p:405m[33mValdreth narrates 'damn killed pack'[0m
+
+p:400m[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+[1m*a Man*[0m has arrived from the east.
+
+You can't hide while people are looking.
+[31mYou swiftly dodge a thick tangle of vines[31m' attempt to hit you.[0m
+You wish that your wounds would stop BLEEDING so much!
+You flee head over heels.
+[32mAt the Edge of a Clearing[0m
+Exits: North.
+
+* W S C HP:Bad Move:Slow>np:1100m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Bad Move:Slow>hqp:400mIt is pitch black...
+You are in a forest.
+Something is here.
+Something is here.
+
+o W S C HP:Bad Move:Slow>p:385mhide quickly
+You attempt to hide yourself.
+
+p:2470m[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+[1m*a Man*[0m has arrived from the south.
+
+p:270m[1m*Gimilzór the Black Númenórean*[0m leaves east.
+Ok.
+
+* W S C HP:Bad Move:Slow>
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+
+* W S C HP:Bad Move:Slow>
+[1m*Gimilzór the Black Númenórean*[0m leaves south.
+
+* W S C HP:Bad Move:Slow>
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Bad Move:Slow>p:565m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+
+* W S C HP:Bad Move:Slow>p:2060m
+A mass of vines tries to hit [1m*a Man*[0m, but he parries successfully.
+
+* W S C HP:Bad Move:Slow>p:1240m
+[1m*a Man*[0m utters the words 'bfzahp ay bfugtizgg'
+
+* W S C HP:Bad Move:Slow>p:720m
+[1m*a Man*[0m panics, and attempts to flee.
+[1m*a Man*[0m leaves east.
+
+* W S C HP:Bad Move:Slow>p:2510m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+[1m*a Man*[0m has arrived from the east.
+
+* W S C HP:Bad Move:Slow>p:825m
+[1m*Gimilzór the Black Númenórean*[0m carefully examines the ground around him,
+looking for tracks...
+
+* W S C HP:Bad Move:Tired>p:2130m
+[1m*a Man*[0m passes dangerously close to your hiding place.
+
+* W S C HP:Bad Move:Tired>p:415m
+[1m*Gimilzór the Black Númenórean*[0m passes dangerously close to your hiding place.
+
+* W S C HP:Bad Move:Tired>ehqp:816mIt is pitch black...
+You are in a forest.
+
+o W S C HP:Bad Move:Slow>p:384mhide quickly
+You attempt to hide yourself.
+
+p:1200mOk.
+
+o W S C HP:Bad Move:Tired>p:665m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the west.
+
+* W S C HP:Bad Move:Tired>whqp:1850m[32mGloomy Woods[0m
+Some thick writhing vines whip all around you.
+A mass of wriggling vines drops on you from the trees.
+[1m*a Man*[0m is standing here.
+[1m*Gimilzór the Black Númenórean*[0m is standing here.
+Exits: East South.
+A thick tangle of vines tries to hit [1m*a Man*[0m, but he parries successfully.
+
+* W S C HP:Bad Move:Slow>p:410mhide quickly
+You attempt to hide yourself.
+
+p:580m[1m*Gimilzór the Black Númenórean*[0m begins some strange incantations...
+
+p:400m[1m*a Man*[0m panics, and attempts to flee.
+[1m*a Man*[0m panics, but can't stop fighting to flee.
+
+p:400m[1m*a Man*[0m panics, and attempts to flee.
+[1m*a Man*[0m leaves east.
+Ok.
+
+* W S C HP:Bad Move:Tired>p:635m
+[1m*a Man*[0m has arrived from the east.
+
+* W S C HP:Bad Move:Tired>p:500m
+[1m*a Man*[0m leaves south.
+
+* W S C HP:Bad Move:Tired>p:385m
+[1m*Gimilzór the Black Númenórean*[0m carefully examines the ground around him,
+looking for tracks...
+
+* W S C HP:Bad Move:Tired>p:910m
+[1m*a Man*[0m has arrived from the south.
+
+* W S C HP:Bad Move:Tired>p:1705m
+[1m*a Man*[0m leaves east.
+
+* W S C HP:Bad Move:Tired>p:860m
+[1m*Gimilzór the Black Númenórean*[0m strains 'i quake'
+
+* W S C HP:Bad Move:Tired>yell mobs, they are your friendep:1065m
+[1m*a Man*[0m has arrived from the east.
+[1m*Gimilzór the Black Númenórean*[0m swiftly dodges a mass of vines' attempt to hit
+him.
+
+* W S C HP:Bad Move:Tired>p:447mOk.
+
+* W S C HP:Bad Move:Tired>sp:388mIt is pitch black...
+You are in a forest.
+
+o W S C HP:Bad Move:Tired>hqp:645m[32mAt a Huge Tree[0m
+The corpse of a woodpecker is lying here.
+The corpse of a forest spider is lying here.
+The corpse of a forest spider is lying here.
+Exits: North.
+
+* W S C HP:Bad Move:Slow>p:375mhide quickly
+You attempt to hide yourself.
+
+p:1085mOk.
+
+* W S C HP:Bad Move:Slow>p:1290m
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Bad Move:Slow>p:720m
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Bad Move:Slow>p:996m
+[1m*a Man*[0m has arrived from the north.
+
+* W S C HP:Bad Move:Tired>p:759m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the north.
+
+* W S C HP:Bad Move:Tired>p:755m
+[1m*Gimilzór the Black Númenórean*[0m leaves north.
+[1m*a Man*[0m leaves north.
+
+* W S C HP:Bad Move:Tired>nwp:770mIt is pitch black...
+You are in a forest.
+
+o W S C HP:Bad Move:Slow>gqp:753mIt is pitch black...
+You are in a forest.
+Something is here.
+Something is here.
+
+o W S C HP:Bad Move:Slow>hqp:472m[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+[1m*a Man*[0m has arrived from the south.
+Arglebargle, glop-glyf!?!
+
+* W S C HP:Bad Move:Slow>p:375mhide quickly
+You attempt to hide yourself.
+
+p:210m[1m*Gimilzór the Black Númenórean*[0m leaves east.
+Aye! You cannot concentrate any more...
+[31mSomething[31m tries to hit you, but your parry is successful.[0m
+You wish that your wounds would stop BLEEDING so much!
+
+o W S C HP:Bad Move:Slow Something:Fine>p:405m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the east.
+[1m*a Man*[0m has arrived from the east.
+[36mYou barely hit a mass of vines[36m' trunk and tickle it.[0m
+
+* W S C HP:Bad Move:Slow a mass of vines:Fine>fp:460m
+[1m*Gimilzór the Black Númenórean*[0m begins some strange incantations...
+
+* W S C HP:Bad Move:Slow a mass of vines:Fine>np:445m[1m*a Man*[0m begins some strange incantations...
+PANIC! You can't quit the fight!
+You flee head over heels.
+[32mAt the Edge of a Clearing[0m
+Exits: North.
+
+* W S C HP:Bad Move:Slow>p:385m[32mGloomy Woods[0m
+Some thick writhing vines whip all around you.
+A mass of wriggling vines drops on you from the trees.
+[1m*Gimilzór the Black Númenórean*[0m is standing here.
+[1m*a Man*[0m is standing here.
+Exits: East South.
+
+* W S C HP:Bad Move:Slow>p:415m
+[1m*Gimilzór the Black Númenórean*[0m leaves south.
+
+o W S C HP:Bad Move:Slow>ep:593m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the south.
+[1m*a Man*[0m has arrived from the south.
+[31mA thick tangle of vines[31m strongly hits your left hand and shatters it.[0m
+You wish that your wounds would stop BLEEDING so much!
+
+* W S C HP:Bad Move:Slow a thick tangle of vines:Healthy>p:417m
+[1m*Gimilzór the Black Númenórean*[0m begins some strange incantations...
+You flee head over heels.
+PANIC! You couldn't escape!
+
+* W S C HP:Bad Move:Slow a thick tangle of vines:Healthy>p:385mNo way! You are fighting for your life!
+
+* W S C HP:Bad Move:Slow a thick tangle of vines:Healthy>
+[1m*a Man*[0m begins some strange incantations...
+
+* W S C HP:Bad Move:Slow a thick tangle of vines:Healthy>fp:456m
+[1m*Gimilzór the Black Númenórean*[0m utters the words 'mosailla paieg'
+[31m[1m*Gimilzór the Black Númenórean*[0m[31m burns you.[0m
+You wish that your wounds would stop BLEEDING so much!
+
+* W S C HP:Awful Move:Slow a thick tangle of vines:Healthy>ep:344mYou flee head over heels.
+It is pitch black...
+You are in a forest.
+
+o W S C HP:Awful Move:Slow>p:385mAlas, you cannot go that way...
+
+o W S C HP:Awful Move:Slow>sp:400m
+[1m*Gimilzór the Black Númenórean*[0m has arrived from the west.
+[1m*a Man*[0m has arrived from the west.
+
+* W S C HP:Awful Move:Slow>p:175m
+[1m*Gimilzór the Black Númenórean*[0m begins some strange incantations...
+[31mYou swiftly dodge [1m*a Man*[0m[31m's attempt to slash you.[0m
+You wish that your wounds would stop BLEEDING so much!
+
+* W S C HP:Awful Move:Slow [1m*a Man*[0m:Healthy>np:431mNo way! You are fighting for your life!
+
+* W S C HP:Awful Move:Slow [1m*a Man*[0m:Healthy>fp:524mNo way! You are fighting for your life!
+[1m*Gimilzór the Black Númenórean*[0m utters the words 'mosailla paieg'
+[31m[1m*Gimilzór the Black Númenórean*[0m[31m burns you.[0m
+You are incapacitated and will slowly die, if not aided.
+
+* W S C HP:Dying Move:Slow [1m*a Man*[0m:Healthy>nep:355mYou are in a pretty bad shape, unable to do anything!
+
+* W S C HP:Dying Move:Slow [1m*a Man*[0m:Healthy>p:245mYou are in a pretty bad shape, unable to do anything!
+
+* W S C HP:Dying Move:Slow [1m*a Man*[0m:Healthy>p:385mYou are in a pretty bad shape, unable to do anything!
+
+* W S C HP:Dying Move:Slow [1m*a Man*[0m:Healthy>p:455m
+Ouch! You lose a level!
+
+You are dead! Sorry...
+
+### Hide. Yeeeeeeeeessssss!!!! Not a whine, just held me awe the pk power of hide###

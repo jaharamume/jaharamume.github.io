@@ -1,0 +1,330 @@
+#savefile-version 6
+#delim normal
+#setvar mem=1048576
+
+#alias #compact={#if ($(1)=="on") #option +compact; #else #if ($(1)=="off") #option -compact; #else #option compact}
+#alias #debug={#if ($(1)=="on") #option +debug; #else #if ($(1)=="off") #option -debug; #else #option debug}
+#alias #echo={#if ($(1)=="on") #option +echo; #else #if ($(1)=="off") #option -echo; #else #option echo}
+#alias #info={#if ($(1)=="on") #option +info; #else #if ($(1)=="off") #option -info; #else #option info}
+#alias #keyecho={#if ($(1)=="on") #option +keyecho; #else #if ($(1)=="off") #option -keyecho; #else #option keyecho}
+#alias #lines=#setvar lines=$0
+#alias #settimer=#setvar timer=$0
+#alias #speedwalk={#if ($(1)=="on") #option +speedwalk; #else #if ($(1)=="off") #option -speedwalk; #else #option speedwalk}
+#alias #wrap={#if ($(1)=="on") #option +wrap; #else #if ($(1)=="off") #option -wrap; #else #option wrap}
+
+#("Jahara's Chant Set")
+#alias .c={stand|buy ash|chant arrow}
+#alias .e={stand|cast 'create food'|eat food|cast 'create food'|eat food|rest|wait}
+#alias .d={stand|cast 'create water'|rest|wait}
+#alias .a={stand|cast 'armour'|rest|wait}
+#alias .s={stand|cast 'shield'|rest|wait}
+#alias .r={rest|wait}
+#action >+casted An ash arrow glows blue.={#print|#print (" --> Y E E H A W ! <--")|con arrow|put arrow quiver|rest|wait}
+
+#("Jahara's MUME Set")
+#alias loot+={#action -xp2|#action +loot}
+#alias loot-={#action +xp2|#action -loot}
+#alias tt+={#action +tell1|#action +tell2}
+#alias tt-={#action -tell1|#action -tell2}
+#alias bot+={#action +botbash1|#action +botbash2|#action +botride|#action +botlead|#action +botjoin}
+#alias first+={#action +firstaid|first self}
+#alias bot-={#action -botbash1|#action -botbash2|#action -botride|#action -botlead|#action -botjoin}
+#alias bash+={#action +botbash1|#action +botbash2}
+#alias bash-={#action -botbash1|#action -botbash2}
+#alias lead+={#exe ("ride+")}
+#alias lead-={#exe ("ride-")}
+#alias ride+={#action +botride|#action +botlead|#action +zblam}
+#alias ride-={#action -botride|#action -botlead|#action -zblam}
+#alias xp+={#action +xp2}
+#alias xp-={#action -xp2}
+#alias split+={#action +splitmoney1|#action +splitmoney2|#action +splitmoney3|#action +splitmoney4|#action +splitmoney5|#action +splitmoney6|#action +splitmoney7|#action +splitmoney1e|#action +splitmoney2e|#action +splitmoney3e|#action +splitmoney4e|#action +splitmoney5e|#action +splitmoney6e|#action +splitmoney7e}
+#alias split-={#action -splitmoney1|#action -splitmoney2|#action -splitmoney3|#action -splitmoney4|#action -splitmoney5|#action -splitmoney6|#action -splitmoney7|#action -splitmoney1e|#action -splitmoney2e|#action -splitmoney3e|#action -splitmoney4e|#action -splitmoney5e|#action -splitmoney6e|#action -splitmoney7e}
+#alias assist+={#action +botjoin}
+#alias assist-={#action -botjoin}
+
+#alias /leather={rem all.metal|wear shield|gp all.leather|wear all.leather|pp all.metal}
+#alias /metal={rem all.leather|gp all.metal|wear all.metal|pp all.leather}
+#alias /forest={rem fur|pp fur|gp forest|wear forest}
+#alias /cloak={rem cloak|pp cloak|gp 2.cloak|wear cloak}
+#alias /fur={rem cloak|pp cloak|gp fur|wear fur}
+#alias /boots={rem boots|gp boots|wear boots|pp boots}
+#alias /shield={rem shield|gp shield|wear shield|pp shield}
+#alias /%j={change editor line|/room description|%j|%e|change editor mume|look}
+#alias /pipe={get pipe backpack|sheath|hold pipe|rest|smoke|stand|draw|put pipe backpack}
+#alias /ring={remove ring|put ring pouch|get 2.ring pouch|wear ring}
+
+#alias bnreveal={reveal belt|wear belt|reveal dagger|wield dagger|reveal lantern|wear lantern belt|snuff lantern|#2 reveal cup|reveal knife|wear knife belt|reveal shield|wear shield|reveal blanket|wear blanket|get all|get all all.sack|drop sack|put all sack|reveal quiver|wear quiver|reveal bow|wear bow|#8 reveal arrow|put all.arrow in quiver|inventory}
+#alias set_up_character={alias ll light lantern|alias sl snuff lantern|alias dw drink water|alias ds drink &skin|alias pws pour water &skin|alias x exa|alias lp look in &backpack|alias gp get & in backpack|alias pp put & in backpack|alias ls look in &pouch|alias ps put & in pouch|alias gs get & in pouch|alias sq reveal quickly|alias fq flush quickly|alias / look in &corpse|alias . get all in &corpse|alias gac get all &chest|alias gc get all.& in all.corpse|alias pyre burn all.corpse|alias bc butcher &corpse|alias lm label & mount|alias re lead mount|alias rr ride mount|alias ld label & DEAD|alias kd kill DEAD|alias o open exit|alias c close exit|alias oe open exit|alias ce close exit|alias pe pick exit|alias ue unlock exit|alias le lock exit|alias gg get all.coins in all.corpse|alias ggg get all.coins|alias so say Open|alias agg cha moo agg|alias wim cha moo wim|alias nor cha ale nor|alias par cha ale par|alias p get all.arrow|alias [ get all.arrow all.corpse|alias ] put all.arrow &quiver|alias ; recover|alias sp cha SPELLCASTING &|alias wh whois|cha col all def|cha col weather cyan|cha col norm white|cha col enemy bold black|cha col status none|brief|prompt all|alias mr map room|alias wl weather local|alias lt listen tales}
+
+#alias b2f={n|n|n|n|n|n|n|n|e|e|e|n|n|e|n|n|n|n|n|n|n|e|n|n|n|w|n|n|n|n|n|n|n|n|n|n|n|n|e|n|n|n|n|n|n|n|n|e|n|n|n|n|n|n|n|n|n|n|e|n|n}
+#alias f2b={s|s|w|s|s|s|s|s|s|s|s|s|s|w|s|s|s|s|s|s|s|s|w|s|s|s|s|s|s|s|s|s|s|s|s|e|s|s|s|w|s|s|s|s|s|s|s|w|s|s|w|w|w|s|s|s|s|s|s|s|s}
+
+#alias b2gh={#print ::: B2GH is split into B2GH1 (Bree to MD) and B2GH2 (MD to GH)}
+#alias gh2b={#print ::: GH2B is split into GH2B1 (GH to MD) and GH2B2 (MD to Bree)}
+#alias b2gh1={w|w|w|n|w|w|n|w|w|w|w|w|w|n|w|w|w|w|w|s|w|w|w|w|s|w|s|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|w|s|w|w|w|s|w|s|w|s|w|w|w|s|w|s|w|w|w|w|w|s|w|w|w|s|w|w|w|w|w|w|w|w|w|s|w|w|w}
+#alias b2gh2={w|w|w|w|w|w|s|w|w|w|w|w|s|w|w|w|w|w|s|w|w|w|w|w|w|w|n|w|w|w|w|w|n|w|w|w|n|w|w|w|w|w|n|w|w|w|n|w|w|w|n|w|w|w|w|n|n|w|w|n|w|w|w|n|w|w|n|w|w|w|s|w|s|w|w|w|w|n|w|w|n|w|w|w|n|w|w|w|n|w|w|n}
+#alias gh2b1={s|e|e|s|e|e|e|s|e|e|e|s|e|e|s|e|e|e|e|n|e|n|e|e|e|s|e|e|s|e|e|e|s|e|e|s|s|e|e|e|e|s|e|e|e|s|e|e|e|s|e|e|e|e|e|s|e|e|e|s|e|e|e|e|e|s|e|e|e|e|e|e|e|n|e|e|e|e|e|n|e|e|e|e|e|n|e|e|e|e|e|e}
+#alias gh2b2={e|e|e|n|e|e|e|e|e|e|e|e|e|n|e|e|e|n|e|e|e|e|e|n|e|n|e|e|e|n|e|n|e|n|e|e|e|n|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|e|n|e|n|e|e|e|e|n|e|e|e|e|e|s|e|e|e|e|e|e|s|e|e|s|e|e|e}
+
+#alias bm2gh={#print ::: BM2GH is split into BM2GH1 (BM to SSAR) and B2GH2 (SSAR to GH)}
+#alias gh2bm={#print ::: GH2BM is split into GH2BM1 (GH to SSAR) and GH2B2 (SSAR to BM)}
+#alias gh2bm1={n|n|e|n|n|w|n|n|n|n|n|n|n|n|e|n|n|n|n|n|e|n|n|e|n|n|e|n|e|n|e|n|n|e|n|n|w|w|w|s|w|w|s|w|w|n|n|w|w|w|n|n|w|n|n|n|e|n|w|w|lead|w}
+#alias gh2bm2={w|ride|s|d|w|n|w|w|s|s|e|e|s|s|s|w|n|w|w|s|s|w|w|w|w|w|w|w|s|s|w|w|w|n|w|n|w|n|w|n|w|w|n|w|w|n|w|w|n}
+#alias bm2gh1={e|e|s|e|e|s|e|e|s|e|s|e|s|e|s|e|e|e|n|n|e|e|e|e|e|e|e|n|n|e|e|s|e|n|n|n|w|w|n|n|e|e|s|e|u|n|lead|e}
+#alias bm2gh2={e|ride|e|e|s|w|s|s|s|e|s|s|e|e|e|s|s|e|e|n|e|e|n|e|e|e|s|s|w|s|s|w|s|w|s|w|s|s|w|s|s|w|s|s|s|s|s|w|s|s|s|s|s|s|s|s|e|s|s|w|s|s}
+
+#alias bmzone={#print|#print --> Quick-Docs for Nirnaeth Arnoediad/Battle of Unnumbered Tears|#print|#print --> Mistletoe - Wedding|#print --> Tree - Hunt|#print --> Flame - Battle|#print --> Cloud - River|#print --> Star - Mountain|#print --> Harp - Feast|#print --> Crown - Funeral|#print}
+
+#alias statbar={#print ("Trip: " + $sessxp + " xp, " + $sesstp + " tp. " + $Log + "Playing: " + $Character + ". Leader: " + $Leader + ". Group:" + $-40 + ".\015")}
+#alias trip={#send ("emote has received " + $sessxp + " xp and " + $sesstp + " tp on this trip.")}
+#alias gain={#send ("emote received " + $gainxp + " xp and " + $gaintp + " tp from the last kill.")}
+
+#($Character = "N/A")
+#($Leader = "N/A")
+#action >-Character This ranks you as $1={#print|#var $Character=$1}
+#alias log={#if ("$0" != ""){#exe ("#capture _" + \$0 + ".log")|#var $Log=("Logging: _$0.log . ")|#print ("#current character: "+$Character)|#print ("#capturing to file: _$0.log")|#time|#print ("")}|#if ("$0" == ""){#print ("#ending capture")|#print ("")|#var $Log=("")|#capture}}
+#alias leader={#var $Leader=$0}
+#alias character={#var $Character=$0}
+
+#action >+linkdrop WARNING: inactivity timeout in 10 seconds.={#print|score}
+#action >+manarep $1/$2 hits, $3/$4 mana, and $5/$6 moves.={#print|#alias rep=emote reports:   $1/$2 hits     $3/$4 mana     $5/$6 moves}
+#action >+hprep $1/$2 hits and $3/$4 moves.={#print|#alias rep=emote reports:   $1/$2 hits     $3/$4 moves}
+#action >+tnl Needed: $1 xp, $2 tp.={#print|#alias tnl=emote needs $1 xp and $2 tp to gain the next level.|statbar}
+#action >+tell1 \033[32m$1\033[32m tells you &2\033[0m={#print|#alias tt=tell $1 \$0}
+#action >+tell2 \033[32m$1 tells you &2\033[0m={#print|#alias tt=tell $1 \$0}
+#action >-loot You receive your share of experience.={#print|get all.coins all.corpse|xp|#var $xpcal=1}
+#action >+loli key: '$1'={#print|#alias bakk={cast normal 'teleport' $1}|#alias sbak={#send ("backup\$1" + " $1 &2")}}
+
+#action >+personflee1 \015$1 panics, and attempts to flee.={#print|#var $fleeperson=$1|#action +personflee2|#action +personflee3}
+#action >-personflee2 $1 leaves $2.={#print|#if ($fleeperson == \$1) {#action -personflee2|#action -personflee3|#exe ("#alias ff=tell $1 You fled $2")}}
+#action >-personflee3 $1 leaves $2 &3={#print|#if ($fleeperson == \$1) {#action -personflee2|#action -personflee3|#exe ("#alias ff=tell $1 You fled $2")}}
+
+#action >-botbash1 seems to have recovered={#print|bash}
+#action >-botbash2 you topple over and lose your balance.={#print|bash}
+#action >-botride &1 picks up &2'&3reins, and starts riding $4.={#print|#if ($Leader==\$1) #send ("ride")}
+#action >-botlead \015&1 dismounts from &2, and stops riding $3.\015={#print|#if ($Leader==\$1) #send ("lead")}
+#action >-botjoin joins &1'&2fight.={#print|#if ($Leader==\$1) #send ("assist")}
+#action >-firstaid You fail to bind your wound.={#print|first self}
+#action >-zblam ZBLAM! &1doesn't want you riding={#print|stand|ride}
+
+#action &1You feel less protected.&2\015={#print ("$1\033[0m\033[1m\033[34mYou feel less protected.\033[0m$2")}
+#action &1Your magical shield wears off.&2\015={#print ("$1\033[0m\033[1m\033[34mYour magical shield wears off.\033[0m$2")}
+#action &1Your legs feel heavier.&2\015={#print ("$1\033[0m\033[1m\033[34mYour legs feel heavier.\033[0m$2")}
+
+#("Jahara's Time Checker")
+#action >+time ^$1, the $2 of $3, Year $4 of the Third Age.\015={#print|#var $realtime=$2|#var $checkmonth=$3|#var @checktime=-1|checkdate}
+#action >+timeam $1am on $2, the $3 of $4, Year $5 of the Third Age.\015={#print|#var $realtime=$1am|#var $checkmonth=$4|#if ($1 == 12) #var @checktime=(%($1+12))|#else #var @checktime=$1|checkdate}
+#action >+timepm $1pm on $2, the $3 of $4, Year $5 of the Third Age.\015={#print|#var $realtime=$1pm|#var $checkmonth=$4|#if ($1 == 12) #var @checktime=$1|#else #var @checktime=(%($1+12))|checkdate}
+#alias checkdate={#if ($checkmonth == "Astron") {#var @dawn=7|#var @night=7|#var $season=Early Spring}|#if ($checkmonth == "Thrimidge") {#var @dawn=7|#var @night=8|#var $season=Spring}|#if ($checkmonth == "Forelithe") {#var @dawn=6|#var @night=8|#var $season=Late Spring}|#if ($checkmonth == "Afterlithe") {#var @dawn=5|#var @night=9|#var $season=Early Summer}|#if ($checkmonth == "Wedmath") {#var @dawn=4|#var @night=10|#var $season=Summer}|#if ($checkmonth == "Halimath") {#var @dawn=5|#var @night=9|#var $season=Late Summer}|#if ($checkmonth == "Winterfilth") {#var @dawn=6|#var @night=8|#var $season=Early Autumn}|#if ($checkmonth == "Blotmath") {#var @dawn=7|#var @night=8|#var $season=Autumn}|#if ($checkmonth == "Foreyule") {#var @dawn=7|#var @night=7|#var $season=Late Autumn}|#if ($checkmonth == "Afteryule") {#var @dawn=8|#var @night=6|#var $season=Early Winter}|#if ($checkmonth == "Solmath") {#var @dawn=9|#var @night=5|#var $season=Winter}|#if ($checkmonth == "Rethe") {#var @dawn=8|#var @night=6|#var $season=Late Winter}|#if (@checktime!=-1) {printtime}}
+#alias printtime={#print ("")|#if (@checktime < @dawn) {#print ("It is currently \033[34mNIGHT\033[0m, "+$realtime+"\011\011\011Dawn: "+%(@dawn)+"am, Night: "+%(@night)+"pm")|#var @timeleft=(@dawn-@checktime)|#var $timeofday=DAWN|#print ("Time left until "+$timeofday+" is "+%(@timeleft)+" tick\(s\)\011\011"+$season+": "+$checkmonth)}|#if (@checktime >= (@night + 12)) {#print ("It is currently \033[34mNIGHT\033[0m, "+$realtime+"\011\011\011Dawn: "+%(@dawn)+"am, Night: "+%(@night)+"pm")|#var @timeleft=(24 + @dawn - @checktime)|#var $timeofday=DAWN|#print ("Time left until "+$timeofday+" is "+%(@timeleft)+" tick\(s\)\011\011"+$season+": "+$checkmonth)}|#if (@checktime == @dawn) {#print ("It is currently \033[31mDAWN\033[0m, "+$realtime+"\011\011\011Dawn: "+%(@dawn)+"am, Night: "+%(@night)+"pm")|#var @timeleft=1|#var $timeofday=DAY|#print ("Time left until "+$timeofday+" is "+%(@timeleft)+" tick\(s\)\011\011"+$season+": "+$checkmonth)}|#if (@checktime > @dawn && @checktime < (@night + 12) && @checktime >= 12 ) {#print ("It is currently \033[33mDAY\033[0m, "+$realtime+"\011\011\011Dawn: "+%(@dawn)+"am, Night: "+%(@night)+"pm")|#var @timeleft=(@night+12-@checktime)|#var $timeofday=NIGHT|#print ("Time left until "+$timeofday+" is "+%(@timeleft)+" tick\(s\)\011\011"+$season+": "+$checkmonth)}|#if (@checktime > @dawn && @checktime < (@night + 12) && @checktime < 12 ) {#print ("It is currently \033[33mDAY\033[0m, "+$realtime+"\011\011\011Dawn: "+%(@dawn)+"am, Night: "+%(@night)+"pm")|#var @timeleft=(@night+12-@checktime)|#var $timeofday=NIGHT|#print ("Time left until "+$timeofday+" is "+%(@timeleft)+" tick\(s\)\011\011"+$season+": "+$checkmonth)}|#print ("")}
+#alias dwatch={#if (@timeleft == 1) #send ("emote 's digital watch displays "+$realtime+", which leaves only "+%(@timeleft)+" tick left until "+$timeofday+"!")|#else #send ("emote 's digital watch displays "+$realtime+", which leaves "+%(@timeleft)+" ticks left until "+$timeofday+"!")}
+#alias month={#print ("")|#print ($realtime+", "+$checkmonth+"\011 ("+$season+") Dawn: "+%(@dawn)+"am, Night: "+%(@night)+"pm")|#print ("")}
+
+#("Jahara's Money Splitter- Needs Dorien's Grouptell")
+#alias add_up_money={#(@money += $1 + $2 * 100 + $3 * 2000)}
+
+#action >-splitmoney1 There was $1 copper $4.={#print|#exe ("add_up_money $1 0 0")}
+#action >-splitmoney2 There was $2 silver $4.={#print|#exe ("add_up_money 0 $2 0")}
+#action >-splitmoney3 There was $3 gold $4.={#print|#exe ("add_up_money 0 0 $3")}
+#action >-splitmoney4 There was $3 gold $4 and $2 silver $5.={#print|#exe ("add_up_money 0 $2 $3")}
+#action >-splitmoney5 There was $3 gold $4 and $1 copper $5.={#print|#exe ("add_up_money $1 0 $3")}
+#action >-splitmoney6 There was $2 silver $4 and $1 copper $5.={#print|#exe ("add_up_money $1 $2 0")}
+#action >-splitmoney7 There was $3 gold $4, $2 silver $5, and $1 copper $6.={#print|#exe ("add_up_money $1 $2 $3")}
+#alias split={#($-42=%(@money / (:?$-40 +1) ))|#(@money = 0)|#for (\@1=1| \@1<=(:?$-40)| \@1++) #send ("give "+\$-42+" copper "+(\$-40:\@1))}
+
+#action >-splitmoney1e There was $1 busc $4.={#print|#exe ("add_up_money $1 0 0")}
+#action >-splitmoney2e There was $2 celeb $4.={#print|#exe ("add_up_money 0 $2 0")}
+#action >-splitmoney3e There was $3 lauren $4.={#print|#exe ("add_up_money 0 0 $3")}
+#action >-splitmoney4e There was $3 lauren $4 and $2 celeb $5.={#print|#exe ("add_up_money 0 $2 $3")}
+#action >-splitmoney5e There was $3 lauren $4 and $1 busc $5.={#print|#exe ("add_up_money $1 0 $3")}
+#action >-splitmoney6e There was $2 celeb $4 and $1 busc $5.={#print|#exe ("add_up_money $1 $2 0")}
+#action >-splitmoney7e There was $3 lauren $4, $2 celeb $5, and $1 busc $6.={#print|#exe ("add_up_money $1 $2 $3")}
+#alias splite={#($-42=%(@money / (:?$-40 +1) ))|#(@money = 0)|#for (\@1=1| \@1<=(:?$-40)| \@1++) #send ("give "+\$-42+" busc "+(\$-40:\@1))}
+
+#("Jahara's Modifications/Additions")
+#alias gt={#if ("$0" != "") gtell $0}
+#alias gt+={#action +graddall1|#action +graddall2|#action +group1|#action +group2|#action +nogroup1|#action +nogroup2|#action +nogroup3|#action +nogroup4|#action +Character|info}
+#alias gt-={#action -graddall1|#action -graddall2|#action -group1|#action -group2|#action -nogroup1|#action -nogroup2|#action -nogroup3|#action -nogroup4}
+#alias gcheck+={#action -graddall1|#action -graddall2|#action +grcheck1|#action +grcheck2}
+#alias gcheck-={#action -grcheck1|#action -grcheck2}
+#alias gadd+={#action -grcheck1|#action -grcheck2|#action +graddall1|#action +graddall2}
+#alias gadd-={#action -graddall1|#action -graddall2}
+#alias gclear={gclean}
+#alias gremchar={#(@-40=0)|#($-41=\$Character)|gremsub1|#if (\@-40!=0) {gremsub2|#($-40=\$-42)}}
+#action >-group1 You are now a member of $1's group.={#print|#var $Leader=$1|gadd $1}
+#action >-group2 \015$1 is now a group member.={#print|gadd $1}
+#action >-nogroup1 You leave the group.={#($-40="")|#print ("You leave the group. (Memberslist cleaned.)")}
+#action >-nogroup2 Group disbanded.={#($-40="")|#print ("Group disbanded. (Memberslist cleaned.)")}
+#action >-nogroup3 What group?!={#($-40="")|#print ("What group?! (Memberslist cleaned.)")}
+#action >-nogroup4 $1 has left the group!={#print|grem $1}
+#action >-graddall1 ^     $1 (Head of group)\015={#(@-40=0)|#($-41=\$1)|gremsub1|#if (\@-40!=0) #print ("     +$1 (Head of group)")| #else {#print ("     -$1 (Head of group)")|#if (\$1!=\$Character) #($-40=\$-40+" "+\$1)}|gremchar}
+#action >-graddall2 ^     $1\015={#(@-40=0)|#($-41=\$1)|gremsub1|#if (\@-40!=0) #print ("     +$1")| #else {#print ("     -$1")|#if (\$1!=\$Character) #($-40=\$-40+" "+\$1)}|gremchar}
+#action >-grcheck1 ^     $1 (Head of group)\015={#(@-40=0)|#($-41=\$1)|gremsub1|#if (\@-40!=0) #print ("     +$1 (Head of group)")| #else #print ("     -$1 (Head of group)")}
+#action >-grcheck2 ^     $1\015={#(@-40=0)|#($-41=\$1)|gremsub1|#if (\@-40!=0) #print ("     +$1")| #else #print ("     -$1")}
+
+#("Dorien's Additions")
+#alias gadd={#($-40=\$-40+" "+\$1)|#print ("Name "+\$1+" added.")}
+#alias gcheck={#(@-40=0)|#($-41=\$1)|gremsub1|#if (\@-40!=0) #print ("Ok. "+\$-41+" is a member.")| #else #print ("Member not found.")}
+#alias gclean={#($-40="")|#print ("Memberslist cleaned. No members now.")}
+#alias ghelp={#print|#print ("Quick-Docs for GTell by Dorien (christian@glunet.se)")|#print ("Syntaxes:")|#print ("gadd <name> - to add a member, gcheck <name> - to check if <name> is a member,")|#print ("gclean - to clean the members list, glist - to list current members,")|#print ("glistv - same as glist but another format, grem <name> - to remove a member")|#print ("gtell <string> - the <string> you wish to tell all your members")|#print ("grep - tell the current group to all members")|#print|#print ("gcheck+/-    gt+/-   gadd+/-")|#print}
+#alias glist=#print ("Members:"+($-40))
+#alias glistv={#print ("Members:")|#for (\@1=1| \@1<=(:?$-40)| \@1++) #print (\$-40:\@1)}
+#alias grem={#(@-40=0)|#($-41=\$1)|gremsub1|#if (\@-40!=0) {#print ("Ok. Member "+\$-41+" removed.")|gremsub2|#($-40=\$-42)}| #else #print ("Member not found.")}
+#alias gremsub1={#for (\@1=1| \@1<=(:?$-40)| \@1++) #if (\$-40:\@1==\$-41) #(@-40=\@1)}
+#alias gremsub2={#($-42="")|#for (\@1=1| \@1<=(:?$-40)| \@1++) #if (\$-40:\@1!=\$-41) #($-42=\$-42+" "+(\$-40:\@1))}
+#alias grep={#($-42=\$0)|#for (\@1=1| \@1<=(:?$-40)| \@1++) #send ("tell "+(\$-40:\@1)+" (GROUPTELL) Current members:"+(\$-40))}
+#alias gtell={#($-42=\$0)|#for (\@1=1| \@1<=(:?$-40)| \@1++) #send ("tell "+(\$-40:\@1)+" (GROUPTELL) "+\$-42)}
+#alias gxinfo={#print ("$-40=member string : $-41=member name")|#print ("$-42 = Member string temp : @-40 = Found Flag/Number")}
+
+#("Modified for Powtty: Axel's Target System")
+#alias tar={#exe ("tr $0")}
+#alias tr={#if ("$0"==""){#print ("#target set as: "+$tr)|#send ("track " + $tr)}|#else {#var $tr=$0|#print ("#target set to: "+$tr)}}
+#alias hittar=#send ("hit "+$tr)
+#alias warrior={#bi f5 ^[[15~=#send ("bash "+$tr)|#bi f6 ^[[17~=hittar|#($char="warrior")|#print ("#bindings set to: warrior")}
+#alias mage={#bi f5 ^[[15~=#send ("cast 'lightning' "+$tr)|#bi f6 ^[[17~=hittar|#bi f7 ^[[18~=#send ("cast 'colour' "+$tr)|#bi f8 ^[[19~=#send ("cast 'fireball' "+$tr)|#($char="mage")|#print ("#bindings set to: mage")}
+#alias cleric={#bi f5 ^[[15~=#send ("cast 'dispel evil' "+$tr)|#bi f6 ^[[17~=hittar|#bi f7 ^[[18~=#send ("cast 'blind' "+$tr)|#bi f8 ^[[19~=#send ("cast 'harm' "+$tr)|#($char="cleric")|#print ("#bindings set to: cleric")}
+#alias thief={#bi f5 ^[[15~=ba ($tr)|#bi f6 ^[[17~=hittar|#bi f7 ^[[18~=#send ("shoot "+$tr)|#($char="thief")|#print ("# bindings set to: thief")}
+
+#("Herb List")
+#("ATHELAS")
+#action &1A small plant grows here, with long, pointed leaves and flowers at its top&2\015=#print ("$1A small plant grows here, with long, pointed leaves and flowers at its top$2 (Athelas)")
+#action &1some long, slender green leaves&2\015=#print ("$1some long, slender green leaves$2 (Athelas)")
+#("BANEBERRIES")
+#action &1A dark green, foul-smelling shrub grows to about a foot in height&2\015=#print ("$1A dark green, foul-smelling shrub grows to about a foot in height$2 (Baneberries)")
+#action &1some white, egg-shaped berries&2\015=#print ("$1some white, egg-shaped berries$2 (Baneberries)")
+#("BELLADONNA")
+#action &1A large shrub covered with dark violet berries grow here&2\015=#print ("$1A large shrub covered with dark violet berries grow here$2 (Belladonna)")
+#action &1some violet berries&2\015=#print ("$1some violet berries$2 (Belladonna)")
+#("BLACKBERRIES")
+#action &1A large thorny branched shrub is growing here&2\015=#print ("$1A large thorny branched shrub is growing here$2 (Blackberries)")
+#("BLACKCURRANT")
+#action &1A shrub with maple-like leaves is growing here&2\015=#print ("$1A shrub with maple-like leaves is growing here$2 (Blackcurrant)")
+#action &1a handful of blackcurrant berries&2\015=#print ("$1a handful of blackcurrant berries$2 (Blackcurrant)")
+#("BLUEBERRIES")
+#action &1A low shrub with bright green, oblong leaves is growing here&2\015=#print ("$1A low shrub with bright green, oblong leaves is growing here$2 (Blueberries)")
+#("CARDAMON")
+#action &1A small flower grows here, with a purple bloom and wide leaves&2\015=#print ("$1A small flower grows here, with a purple bloom and wide leaves$2 (Cardamom)")
+#action &1grey-brown powder&2\015=#print ("$1grey-brown powder$2 (Cardamom)")
+#("CHERRIES")
+#action &1A large shrub grows here, its branches loosely spreading&2\015=#print ("$1A large shrub grows here, its branches loosely spreading$2 (Cherries)")
+#("COMFREY")
+#action &1A sturdy plant grows to a height of almost a yard&2\015=#print ("$1A sturdy plant grows to a height of almost a yard$2 (Comfrey)")
+#action &1a bulbous root&2\015=#print ("$1a bulbous root$2 (Comfrey)")
+#("CORIANDER")
+#action &1A man's-waist high evergreen shrub grows here, with bright green branches&2\015=#print ("$1A man's-waist high evergreen shrub grows here, with bright green branches$2 (Coriander)")
+#action &1several splayed leaves&2\015=#print ("$1several splayed leaves$2 (Coriander)")
+#("FIGWORT")
+#action &1A tall plant grows here, with grey-green leaves and grey flowers&2\015=#print ("$1A tall plant grows here, with grey-green leaves and grey flowers$2 (Figwort)")
+#action &1a tall, grey-green plant&2\015=#print ("$1a tall, grey-green plant$2 (Figwort)")
+#action &1some grey petals&2\015=#print ("$1some grey petals$2 (Figwort)")
+#action &1Some grey petals have been scattered about.&2\015=#print ("$1Some grey petals have been scattered about.$2 (Figwort)")
+#action &1 piles of grey petals&2\015=#print ("$1 piles of grey petals$2 (Figwort)")
+#("FOXGLOVE")
+#action &1A slender plant, with white flowers at the top, grows here&2\015=#print ("$1A slender plant, with white flowers at the top, grows here$2 (Foxglove)")
+#action &1some white petals&2\015=#print ("$1some white petals$2 (Foxglove)")
+#("FOXTAIL")
+#action &1A bushy plant grows here, with tall clusters of yellow flowers&2\015=#print ("$1A bushy plant grows here, with tall clusters of yellow flowers$2 (Foxtail)")
+#action &1some yellow petals&2\015=#print ("$1some yellow petals$2 (Foxtail)")
+#("GINSENG")
+#action &1A slender plant grows here, a single cluster of flowers atop its narrow stem&2\015=#print ("$1A slender plant grows here, a single cluster of flowers atop its narrow stem$2 (Ginseng)")
+#action &1a man-like root&2\015=#print ("$1a man-like root$2 (Ginseng)")
+#("GOOSEGRASS")
+#action &1A small and tough weed grows here&2\015=#print ("$1A small and tough weed grows here$2 (Goosegrass)")
+#action &1a crushed stem&2\015=#print ("$1a crushed stem$2 (Goosegrass)")
+#("HEMLOCK")
+#action &1A tall plant with a perfectly smooth stem gracefully marks the landscape&2\015=#print ("$1A tall plant with a perfectly smooth stem gracefully marks the landscape$2 (Hemlock)")
+#("HONEYSUCKLE")
+#action &1A large shrub grows here, filling the air with a heavy scent&2\015=#print ("$1A large shrub grows here, filling the air with a heavy scent$2 (Honeysuckle)")
+#action &1a handful of fragile flower&2\015=#print ("$1a handful of fragile flower$2 (Honeysuckle)")
+#("INKBERRIES")
+#action &1A holly bush with dark green leaves is growing here&2\015=#print ("$1A holly bush with dark green leaves is growing here$2 (Inkberries)")
+#("JUNIPER")
+#action &1A short evergreen plant, with slightly bluish needles, grows here&2\015=#print ("$1A short evergreen plant, with slightly bluish needles, grows here$2 (Juniper)")
+#action &1a cluster of hard, round, black berries&2\015=#print ("$1a cluster of hard, round, black berries$2 (Juniper)")
+#("MARJORAM")
+#action &1A thin, hairy plant, with small, oval leaves, grows here&2\015=#print ("$1A thin, hairy plant, with small, oval leaves, grows here$2 (Marjoram)")
+#action &1a pinch of pale-green, crushed leaves&2\015=#print ("$1a pinch of pale-green, crushed leaves$2 (Marjoram)")
+#("MILKWEED")
+#action &1A slender plant grows here, with clusters of tiny pink flowers&2\015=#print ("$1A slender plant grows here, with clusters of tiny pink flowers$2 (Milkweed)")
+#action &1a sticky mass of stems, leaves and sap&2\015=#print ("$1a sticky mass of stems, leaves and sap$2 (Milkweed)")
+#("MINT")
+#action &1A clean fragrance drifts up from a thick clump of leaves&2\015=#print ("$1A clean fragrance drifts up from a thick clump of leaves$2 (Mint)")
+#("PAPRIKA (PEPPER)")
+#action &1A small pile of pungent red powder lies here&2\015=#print ("$1A small pile of pungent red powder lies here$2 (Paprika, Pepper)")
+#("POPPY")
+#action &1Some orange-red blossoms grow amid grey-green foliage&2\015=#print ("$1Some orange-red blossoms grow amid grey-green foliage$2 (Poppy)")
+#("ROSEMARY")
+#action &1A woody evergreen plant grows here, with many stems reaching upward&2\015=#print ("$1A woody evergreen plant grows here, with many stems reaching upward$2 (Rosemary)")
+#action &1a woody, many-stemmed plant&2\015=#print ("$1a woody, many-stemmed plant$2 (Rosemary)")
+#action &1several needlelike leaves&2\015=#print ("$1several needlelike leaves$2 (Rosemary)")
+#("SAGE")
+#action &1A waist-high evergreen shrub grows here, with thick, reaching branches&2\015=#print ("$1A waist-high evergreen shrub grows here, with thick, reaching branches$2 (Sage)")
+#action &1some grey-green leaves&2\015=#print ("$1some grey-green leaves$2 (Sage)")
+#("TARRAGON")
+#action &1A small evergreen plant grows here, its woody stems reaching two feet&2\015=#print ("$1A small evergreen plant grows here, its woody stems reaching two feet$2 (Tarragon)")
+#action &1a handful of narrow leaves&2\015=#print ("$1a handful of narrow leaves$2 (Tarragon)")
+#action &1woody, stemmed plants&2\015=#print ("$1woody, stemmed plants$2 (Tarragon)")
+#("THYME")
+#action &1A low, many-branched shrub covers the ground here&2\015=#print ("$1A low, many-branched shrub covers the ground here$2 (Thyme)")
+#action &1some scented crushed leaves&2\015=#print ("$1some scented crushed leaves$2 (Thyme)")
+#("VELERIAN")
+#action &1A flowering plant grows here, its fern-like foliage dancing in the breeze&2\015=#print ("$1A flowering plant grows here, its fern-like foliage dancing in the breeze$2 (Velerian)")
+#action &1a foul-smelling root&2\015=#print ("$1a foul-smelling root$2 (Velerian)")
+#("VANILLA")
+#action &1A long brown bean, emitting a pleasant scent, is here&2\015=#print ("$1A long brown bean, emitting a pleasant scent, is here$2 (Vanilla)")
+#("OTHERS")
+#action &1short, moist tail&2\015=#print ("$1short, moist tail$2 (Salamander)")
+#action &1short, black fur&2\015=#print ("$1short, black fur$2 (Bat Fur)")
+#action &1small fluid-sack&2\015=#print ("$1small fluid-sack$2 (Venom)")
+#action &1grey fluid-sack&2\015=#print ("$1grey-fluid$2 (Arachnia)")
+
+#("Axel's Additions")
+#action >+LockPicks1 &1A couple of lockpicks have a small bump near the tip.&2\015=#print ("$1A couple of lockpicks have a small bump near the tip.$2 (Master Assassin)")
+#action >+LockPicks2 &1Two of the lockpicks have shallow notches on them.&2\015=#print ("$1Two of the lockpicks have shallow notches on them.$2 (Assassin Guildmaster)")
+#action >+LockPicks3 &1The lockpicks are extremely well tempered.&2\015=#print ("$1The lockpicks are extremely well tempered.$2 (Blue Mountains)")
+#action >+LockPicks4 &1Several of the picks have long, smooth grooves along their length.&2\015=#print ("$1Several of the picks have long, smooth grooves along their length.$2 (Cut-Throat)")
+#action >+LockPicks5 &1There is a strange lockpick, with a sharp protrusion on one side, in the set.&2\015=#print ("$1There is a strange lockpick, with a sharp protrusion on one side, in the set. (Kraksh)")
+#action >+LockPicks6 &1The lockpicks feel oddly light in your hand.&2\015=#print ("$1The lockpicks feel oddly light in your hand.$2 (Grey-cloaked Man)")
+#action >+LockPicks7 &1The edges of most picks have been carefully sharpened.&2\015=#print ("$1The edges of most picks have been carefully sharpened.$2 (Angdil)")
+#alias picks={#print|#emu A couple of lockpicks have a small bump near the tip.|#emu Two of the lockpicks have shallow notches on them.|#emu The lockpicks are extremely well tempered.|#emu Several of the picks have long, smooth grooves along their length.|#emu There is a strange lockpick, with a sharp protrusion on one side, in the set.|#emu The lockpicks feel oddly light in your hand.|#emu The edges of most picks have been carefully sharpened.|#print}
+
+#("AutoLogging")
+#action >+datelog1 ^Never forget! Try to role-play...={#print|#action -datelog1|#action +datelog3|#action +datelog4|time}
+#action >+datelog2 ^Reconnecting.={#print|#action -datelog2|#action +datelog3|#action +datelog4|time}
+#action >-datelog3 ^Real time is $1 $2 $3 $4:$5:$6 $7 GMT.={#print|#exe ("#capture " + \$2 + " " + \$3 + " " + \$7 + " - "  + \$4 + "." + \$5 + "." + \$6 + ".log")|#print (attr "yellow" + "### Currently logging to: " + \$2 + " " + \$3 + " " + \$7 + " - "  + \$4 + "." + \$5 + "." + \$6 + ".log" + noattr)|#action -datelog3|#action -datelog4|#var $Log=("Logging: autolog . ")}
+#action >-datelog4 ^Real time is $1 $2  $3 $4:$5:$6 $7 GMT.={#print|#exe ("#capture " + \$2 + " " + \$3 + " " + \$7 + " - "  + \$4 + "." + \$5 + "." + \$6 + ".log")|#print (attr "yellow" + "### Currently logging to: " + \$2 + " " + \$3 + " " + \$7 + " - "  + \$4 + "." + \$5 + "." + \$6 + ".log" + noattr)|#action -datelog3|#action -datelog4|#var $Log=("Logging: autolog . ")}
+
+#($gaintp = "0")
+#($gainxp = "0")
+#($sesstp = "0")
+#($sessxp = "0")
+#($xpcal = "0")
+#(@oldtp = 0)
+#(@oldxp = 0)
+#al xp=info XPCOUNTER: %x %t %X %T.
+#al xpreset={#var $sessxp=0|#var @oldxp=0}
+#al tpreset={#var $sesstp=0|#var @oldtp=0}
+#al xpcalc={#var $gainxp=($1-@oldxp)|#var $gaintp=($2-@oldtp)|#if (@oldxp==0) {#var $gainxp=0|#var $sessxp=0}|#if (@oldtp==0) {#var $gaintp=0|#var $sesstp=0}|#var $sessxp=((%($sessxp))+(%($gainxp)))|#var $sesstp=((%($sesstp))+(%($gaintp)))|#var @oldxp=$1|#var @oldtp=$2}
+#al xpprint={#print ("\015--> Gained   xp: " + $gainxp + "\015\011\011\011\011tp: "+ $gaintp )|#print ("--> Trip     xp: " + $sessxp + "\015\011\011\011\011tp: " + $sesstp)|#print ("--> Needed   xp: $3\015\011\011\011\011tp: $4")|#alias tnl={emote needs $3 xp and $4 tp to gain the next level.}}
+#ac >+xp0 Welcome to the land of Middle Earth.={#print|xpreset|tpreset|xp|#var $xpcal=1}
+#ac >+xp1 XPCOUNTER: &1 &2 &3 &4.={#if ($xpcal=="1") {xpcalc $1 $2|#var $xpcal=0}|xpprint $1 $2 $3 $4}
+#ac >+xp2 ^You receive your share of experience.={#print|xp|#var $xpcal=1}
+#ac >+xp3 Reconnecting.={#print|xpreset|tpreset|xp|#var $xpcal=1}
+
+#bind C-n ^N=&next-line
+#bind C-p ^P=&prev-line
+#bind Up ^[[A=&prev-line
+#bind Down ^[[B=&next-line
+#bind KP0 ^[Op=flee
+#bind KP2 ^[Or=s
+#bind KP3 ^[Os=d
+#bind KP4 ^[Ot=w
+#bind KP5 ^[Ou=say Open
+#bind KP6 ^[Ov=e
+#bind KP7 ^[Ow=open exit
+#bind KP8 ^[Ox=n
+#bind KP9 ^[Oy=u
+#bind Tab ^I=&complete-word
+
+#option -exit -history -words -compact -debug +echo -info +keyecho -speedwalk
+#option +wrap -autoprint -reprint +sendsize +autoclear

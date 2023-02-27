@@ -1,0 +1,100 @@
+Dark Forest
+An angry rabbit is standing here, glaring at you.
+Exits: north east south
+o W C> s
+
+Old East Road
+*a ferocious Hobbit* is standing here, wielding a large tree branch.
+Exits: north east west
+
+* W C> 00 *hobbit*
+[alias 0 k *hobbit*]
+* W C> 0
+[k *hobbit*]
+You approach *a ferocious Hobbit*, trying to smite him.
+
+* W C *a ferocious Hobbit*:Healthy>
+You hit *a ferocious Hobbit*'s right leg extremely hard and tickle it.
+
+* W C *a ferocious Hobbit*:Fine>
+*a ferocious Hobbit* crushes your left leg extremely hard and shatters it!
+You are shocked by your oppenent's hit!
+0
+[k *hobbit*]
+* W C *a ferocious Hobbit*:Healthy HP:Fine>
+*a ferocious Hobbit* panics, and attempts to flee.
+*a ferocious Hobbit* leaves east.
+
+o W C HP:Fine>e
+*a Half-Orc* yells 'Hi Trollie!'
+
+Old East Road
+*a ferocious Hobbit* is standing here, wielding a large tree branch.
+Exits: north east south.
+
+* W C HP:Fine>99 *hobbit*
+[alias 9 grasp *hobbit*]
+*a ferocious Hobbit* leaves to the east.
+
+o W C HP:Fine>e
+Old East Road
+*a ferocious Hobbit* is standing here. wielding a large tree branch.
+Exits: east west.
+* W C HP:Fine>
+9
+[grasp *hobbit*]
+You grasp at *a ferocious Hobbit*, trying to grab his head.
+
+* W C *a ferocious Hobbit*:Healthy HP:Fine>
+*a ferocious Hobbit* lightly crushes your left leg and shatters it!
+
+* W C *a ferocious Hobbit*:Healthy HP:Fine>
+*a ferocious Hobbit* panics, and attempts to flee.
+*a ferocious Hobbit* leaves east.
+
+o W C HP:Fine>e
+9
+[grasp *hobbit*]
+Old East Road
+*a ferocious Hobbit* is standing here, wielding a large tree branch.
+Exits: east south.
+You grasp at *a ferocious Hobbit* and grab him by the hair! GOTCHA!
+
+* W C *a ferocious Hobbit*:Healthy HP:Fine>
+*a ferocious Hobbit* panics, and attempts to flee your grasp.
+
+* W C *a ferocious Hobbit*:Healthy HP:Fine>cac
+*a ferocious Hobbit* panics, and attempts to flee your grasp.
+
+You cackle gleefully.
+* W C *a ferocious Hobbit*:Healthy HP:Fine>
+punt *hbbit* e
+You don't see any *hbbit*'s here.
+
+* W C *a ferocious Hobbit*:Healthy HP:Fine>
+punt *hobbit* east
+* W C *a ferocious Hobbit*:Healthy HP:Fine>
+You firmly grasp *a ferocious Hobbit*'s hair and give him a strong kick
+to the east.
+
+* W C>e
+Old East Road
+*a ferocious Hobbit* is sitting here, stunned.
+Exits: east west.
+* W C HP:Fine>
+slam *hobbit*
+You scream and hurl yourself in fury onto *a ferocious Hobbit*'s body.
+That really HURT!
+You receive your share of the xp!
+Yes! You're beginning to get the idea.
+*a ferocious Hobbit* is dead!
+Your blood freezes as you hear *a ferocious Hobbit*'s death cry.
+A shadow slowly rises above the corpse of *a ferocious Hobbit*.
+
+o W C HP:Wounded>
+*a Half-Orc* has arrived from the east.
+
+*a Half-Orc* says 'heh..'
+
+o W C HP:Wounded>grin
+Your grin evilly.

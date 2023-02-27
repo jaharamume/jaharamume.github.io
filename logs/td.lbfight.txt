@@ -1,0 +1,202 @@
+* HP:Fine>where
+Players in your zone
+--------------------
+Aleister             - Old East Road
+Hercules             - Old East Road
+
+* HP:Fine>w
+Old East Road
+Exits: ^East^ ^South^ ^West^.
+Saving Hercules.
+
+* HP:Fine>w
+Old East Road
+Aleister is resting here.
+Exits: ^East^ ^South^ ^West^.
+
+* HP:Fine>where
+Players in your zone
+--------------------
+Aleister             - Old East Road
+Hercules             - Old East Road
+
+* HP:Fine>exi
+East  - Old East Road
+South - A Raging Brush Fire
+West  - Old East Road
+
+* HP:Fine>w
+Old East Road
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+* HP:Fine>e
+Old East Road
+Aleister is standing here.
+Exits: ^East^ ^South^ ^West^.
+
+* HP:Fine>4
+k *hobbit*
+They aren't here.
+
+* HP:Fine>
+You suddenly notice *a noble Elf*.
+*Forin the Dwarf* has arrived from the east.
+
+* HP:Fine>1
+2
+* HP:Fine *a noble Elf*:Healthy>
+*Forin the Dwarf* slashes Aleister's body extremely hard.
+k *elf*
+*a noble Elf* swiftly dodges your attempt to crush him.
+
+* HP:Fine *a noble Elf*:Healthy>
+*a noble Elf* pierces your right arm and tickles it.
+
+* HP:Fine *a noble Elf*:Healthy>sa DIE
+k *man*
+They aren't here.
+
+* HP:Fine *a noble Elf*:Healthy>sa DIE
+emote says 'DIE'
+Ok.
+*a noble Elf* pierces your body hard and tickles it.
+
+* HP:Fine *a noble Elf*:Healthy>emote says 'DIE'
+Ok.
+
+* HP:Fine *a noble Elf*:Healthy>sa Die
+
+*a noble Elf* strongly pierces your head and tickles it.
+
+* HP:Fine *a noble Elf*:Healthy>emote says 'Die'
+Ok.
+
+* HP:Fine *a noble Elf*:Healthy>
+*a noble Elf* pierces your left arm extremely hard.
+
+* HP:Fine *a noble Elf*:Healthy>
+*a noble Elf* is now a group member.
+
+* HP:Fine *a noble Elf*:Healthy>
+*Forin the Dwarf* slashes Aleister's right arm extremely hard.
+
+* HP:Fine *a noble Elf*:Healthy>sa Dagger Trolls!
+
+*a noble Elf* pierces your body extremely hard.
+
+* HP:Hurt *a noble Elf*:Healthy>sa Dagger Trolls!
+emote says 'Dagger Trolls!'
+Ok.
+Filker narrates 'hmm,what is good weapon choose for troll?'
+
+* HP:Hurt *a noble Elf*:Healthy>emote says 'Dagger Trolls!'
+Ok.
+*a noble Elf* pierces your left foot extremely hard.
+
+* HP:Hurt *a noble Elf*:Healthy>b
+bash
+
+*Forin the Dwarf* gets a mighty dwarven axe from a leather backpack.
+
+*Forin the Dwarf* stops using an engraved broadsword.
+*Forin the Dwarf* skillfully draws a mighty dwarven axe.
+
+*Forin the Dwarf* puts an engraved broadsword in a leather backpack.
+*a noble Elf* pierces your right hand extremely hard.
+You feel a strong ache there!
+
+As *a noble Elf* avoids your bash, you topple over and fall to the ground.
+You fall to the ground.
+
+* HP:Hurt *a noble Elf*:Healthy>
+Fearsome narrates 'none'
+Aleister seems to have recovered his senses.
+
+* HP:Hurt *a noble Elf*:Healthy>
+Aleister yells 'Charge!!!! The DAGGERS of the Trolls are upon you!!!!!!!!!!!!!'
+
+* HP:Hurt *a noble Elf*:Healthy>sa DIE!
+
+Aleister yells 'Charge!!!! The DAGGERS of the Trolls are upon you!!!!!!!!!!!!!'
+*a noble Elf* strongly pierces your right foot.
+
+* HP:Hurt *a noble Elf*:Healthy>
+Aleister yells 'Charge!!!! The DAGGERS of the Trolls are upon you!!!!!!!!!!!!!'
+
+* HP:Hurt *a noble Elf*:Healthy>st
+emote says 'DIE!'
+Ok.
+
+* HP:Hurt *a noble Elf*:Healthy>kick
+Do you not consider fighting as standing?
+
+* HP:Hurt *a noble Elf*:Healthy>*a noble Elf* pierces your left foot extremely hard.
+You feel a strong ache there!
+
+kick
+*Forin the Dwarf* stops resting, and clambers on his feet.
+You land a kick on *a noble Elf*, the force causing him to stagger back.  ### *HOWL* ###
+
+* HP:Wounded *a noble Elf*:Fine>Filker narrates 'unarmed'
+Aleister tries a kick at *Forin the Dwarf* but misses.
+*a noble Elf* strongly pierces your right arm.
+
+Aleister stops resting, and clambers on his feet.
+
+*Forin the Dwarf* says 'Oh it's you'                        ### Ahh, he fears us!!! ###
+*Forin the Dwarf* cleaves Aleister's right hand extremely hard.
+
+cac
+*Forin the Dwarf* says 'Hi'
+You land a kick on *a noble Elf*, the force causing him to stagger back.
+
+* HP:Wounded *a noble Elf*:Fine>kick
+
+You cackle gleefully.
+
+* HP:Wounded *a noble Elf*:Fine>Aleister leaves south.
+*a noble Elf* pierces your left foot extremely hard and shatters it.
+
+kick
+Själv narrates 'hugegroup lb!'
+
+kick
+*Forin the Dwarf* quickly approaches, trying to cleave you.
+
+*a noble Elf* pierces your right arm extremely hard and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+
+Your kick at *a noble Elf* misses.
+You fall to the ground.
+
+* HP:Bad *a noble Elf*:Fine>Aleister has arrived from the south.
+Nah... You feel too relaxed to do that..
+*Forin the Dwarf* cleaves your body extremely hard and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+
+* HP:Awful *a noble Elf*:Fine>cac
+You flee head over heels.
+You were not able to keep your concentration while moving.
+Old East Road
+Exits: ^East^ ^South^ ^West^.
+
+* HP:Awful>st
+You cackle gleefully.
+
+* HP:Awful>You are already standing.
+
+* HP:Awful>kick				### kick kick kick!!! ###
+Kick whom?
+You suddenly notice *a noble Elf*.
+*a noble Elf* pierces your body extremely hard and shatters it.
+You are incapacitated and will slowly die, if not aided.
+
+* HP:Dying *a noble Elf*:Fine>w
+You are in a pretty bad shape, unable to do anything!
+
+* HP:Dying *a noble Elf*:Fine>
+
+You are dead! Sorry...
+
+
+o HP:Awful>

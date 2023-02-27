@@ -1,0 +1,1206 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Jahara's MUME Page</title>
+<script LANGUAGE=JavaScript SRC="statgen.js"></SCRIPT>
+<STYLE TYPE="text/css">
+<!--
+a:text       {font: 8pt/10pt verdana;text-decoration: none}
+td {  font-family: Verdana; font-size: 13px}
+-->
+</STYLE>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body onload="updateDisplay();" bgcolor="#666666" text="#000000" link="#333333" vlink="#333333" alink="#333333" leftmargin="10" topmargin="10" marginwidth="10" marginheight="10">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="183" bgcolor="#000000" align="left" valign="top" height="117"><img src="title_part1.jpg" width="183" height="117"></td>
+    <td width="207" bgcolor="#CCCCCC" align="left" valign="top" height="117"> 
+      <img src="title_part2.gif" width="207" height="117"></td>
+    <td width="100%" bgcolor="#CCCCCC" align="center" valign="middle" height="117"> 
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <div align="center"><font color="#000000" size="1" face="Geneva, Arial, Helvetica, san-serif"><a href="index.htm">Home</a> 
+        | <a href="stats.htm">Stat Generator</a> | <a href="strat.htm">Strategies</a> 
+        | <a href="ansi.htm">ANSI Colour Help</a> | <a href="items.htm">Items 
+        List</a> | <a href="download.htm">Downloads</a> | <a href="links.htm">Links</a></font></div>
+    </td>
+    <td width="24" bgcolor="#CCCCCC" align="right" valign="top" height="117"><img src="corner_topright.gif" width="24" height="19"></td>
+  </tr>
+  <tr> 
+    <td width="183" bgcolor="#000000" align="left" valign="top"><img src="cloaked.jpg" width="183" height="331"></td>
+    <td width="100%" bgcolor="#FFFFFF" colspan="3" valign="top"> 
+      <table width="550" border="0" cellspacing="0" cellpadding="5">
+        <tr>
+          <TD VALIGN="top"> 
+            <!-- MAIN PAGE STARTS HERE -->
+            <H2><FONT FACE="Times New Roman, Times, serif" SIZE="5">Stat Generator 
+              for MUME (VIII)</FONT></H2>
+            <TABLE ALIGN=left BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=550>
+              <TBODY> 
+              <TR> 
+                <TD> 
+                  <P><FONT SIZE="1">Due to popular demand another stat column 
+                    has been added enabeling people to compare two different sets 
+                    of stats. This, together with the field <I>Reroll Calc</I>, 
+                    makes it possible to see how you can change your stats after 
+                    a Partial reroll.<BR>
+                    <BR>
+                    <U>Stat data can be entered in a couple ways:</U></FONT></P>
+                  <OL>
+                    <LI><FONT SIZE="1">Enter your stats using the <IMG BORDER=0 SRC="addition.gif" WIDTH="12" HEIGHT="12" ALIGN="TEXTTOP"> 
+                      and <IMG BORDER=0 SRC="subtraction.gif" WIDTH="12" HEIGHT="12" ALIGN="TEXTTOP"> 
+                      until you get the desired number </FONT>
+                    <LI><FONT SIZE="1">Enter your stats by directly entering the 
+                      figure into the text box </FONT>
+                    <LI><FONT SIZE="1">Pasting one's stats into the Stat Filter 
+                      and following it's instructions</FONT>
+                  </OL>
+                  <P>
+                  <FONT SIZE="1">As always you can save the stats of the column 
+                  <I>Stat Generator</I> in the textarea below by pressing the 
+                  button <I>Add "Add to List " to list</I>. This way you can continue 
+                  with more simulations without forgetting the old ones. 
+                  <P> <i>Tip</i>: Hovering your cursor over a certain skill will 
+                    reveal it's required stats.</P>
+                  </FONT> </TD>
+              </TR>
+              </TBODY> 
+            </TABLE>
+          <TD VALIGN="top">
+            <H2>&nbsp;</H2>
+            <FORM NAME="StatFilter">
+              <CENTER>
+                <TABLE WIDTH="0" BORDER="1" CELLSPACING="0" CELLPADDING="5">
+                  <TR>
+                    <TD COLSPAN="4"><FONT SIZE="2"><B>Stat Filter</B></FONT></TD>
+                  </TR>
+                  <TR>
+                    <TD><B><FONT SIZE="1">Input</FONT></B></TD>
+                    <TD COLSPAN="3">
+                      <INPUT TYPE="TEXT" SIZE="60" NAME="user_text" STYLE="border:2 solid #808080; font-family:verdana,arial,helvetica; font-weight:normal; font-size:10pt" ONCLICK="select_area()" VALUE="Paste stats into here!">
+                      <INPUT TYPE="button" VALUE="Submit" ONCLICK="validate_user_text();" NAME="button6">
+                    </TD>
+                  </TR>
+                  <TR>
+                    <TD ROWSPAN="2"><B><FONT SIZE="1">Input Stats </FONT></B></TD>
+                    <TD ROWSPAN="2">
+                      <TABLE WIDTH="0" BORDER="0" CELLSPACING="0" CELLPADDING="5">
+                        <TR>
+				<TD><B>Str</B></TD>
+				<TD><B>Int</B></TD>
+				<TD><B>Wis</B></TD>
+				<TD><B>Dex</B></TD>
+				<TD><B>Con</B></TD>
+				<TD><B>Wil</B></TD>
+				<TD><B>Per</B></TD>
+                        </TR>
+                        <TR>
+                          <TD>
+                            <INPUT  NAME=filter_stat1 SIZE=2>
+                          </TD>
+                          <TD>
+                            <INPUT  NAME=filter_stat2 SIZE=2>
+                          </TD>
+                          <TD>
+                            <INPUT  NAME=filter_stat3 SIZE=2>
+                          </TD>
+                          <TD>
+                            <INPUT  NAME=filter_stat4 SIZE=2>
+                          </TD>
+                          <TD>
+                            <INPUT  NAME=filter_stat5 SIZE=2>
+                          </TD>
+                          <TD>
+                            <INPUT  NAME=filter_stat6 SIZE=2>
+                          </TD>
+                          <TD>
+                            <INPUT  NAME=filter_stat7 SIZE=2>
+                          </TD>
+                        </TR>
+                      </TABLE>
+                    </TD>
+                    <TD><B><FONT SIZE="1">Race:</FONT></B></TD>
+                    <TD>
+                      <SELECT NAME=filter_race ONCHANGE="filterRace(this.options[this.selectedIndex].value);">
+                        <OPTION VALUE="Man" selected>Man</OPTION>
+                        <OPTION VALUE="Dunadan">Man (Dunadan)</OPTION>
+                        <OPTION VALUE="Noldo">Elf (Noldorin)</OPTION>
+                        <OPTION VALUE="Sinda">Elf (Sinda)</OPTION>
+                        <OPTION VALUE="Silvan">Elf (Silvan)</OPTION>
+                        <OPTION VALUE="Half-Elf">Half-Elf </OPTION>
+                        <OPTION VALUE="Dwarf">Dwarf </OPTION>
+                        <OPTION VALUE="Hobbit">Hobbit </OPTION>
+                        <OPTION VALUE="Orc">Orc </OPTION>
+                        <OPTION VALUE="Troll">Troll</OPTION>
+                        <OPTION VALUE="BN">Black Numenorean</OPTION>
+                      </SELECT>
+                    </TD>
+                  </TR>
+                  <TR>
+                    <TD><B><FONT SIZE="1">Age:</FONT></B></TD>
+                    <TD>
+                      <SELECT NAME=filter_age ONCHANGE="filterAge(this.options[this.selectedIndex].value);">
+                        <OPTION VALUE="0" selected>No age modifier</OPTION>
+                        <OPTION VALUE="1">1st age</OPTION>
+                        <OPTION VALUE="2">2nd age</OPTION>
+                        <OPTION VALUE="3">3rd age</OPTION>
+                        <OPTION VALUE="4">4th age</OPTION>
+                        <OPTION VALUE="5">5th age</OPTION>
+                        <OPTION VALUE="6">6th age</OPTION>
+                        <OPTION VALUE="7">7th age</OPTION>
+                      </SELECT>
+                      <BR>
+                      <INPUT TYPE=text NAME=filterAgeRange SIZE=9 VALUE="x1">
+                    </TD>
+                  </TR>
+                  <TR>
+                    <TD ROWSPAN="2"><B><FONT SIZE="1">Base Stats </FONT></B></TD>
+                    <TD>
+                      <TABLE WIDTH="0" BORDER="0" CELLSPACING="0" CELLPADDING="5">
+                        <TR>
+				<TD><B>Str</B></TD>
+				<TD><B>Int</B></TD>
+				<TD><B>Wis</B></TD>
+				<TD><B>Dex</B></TD>
+				<TD><B>Con</B></TD>
+				<TD><B>Wil</B></TD>
+				<TD><B>Per</B></TD>
+                        </TR>
+                        <TR>
+                          <TD>
+                            <INPUT  NAME=base_stat1 SIZE=2>
+                          </TD>
+                          <TD>
+                            <INPUT  NAME=base_stat2 SIZE=2>
+                          </TD>
+                          <TD>
+                            <INPUT  NAME=base_stat3 SIZE=2>
+                          </TD>
+                          <TD>
+                            <INPUT  NAME=base_stat4 SIZE=2>
+                          </TD>
+                          <TD>
+                            <INPUT  NAME=base_stat5 SIZE=2>
+                          </TD>
+                          <TD>
+                            <INPUT  NAME=base_stat6 SIZE=2>
+                          </TD>
+                          <TD>
+                            <INPUT  NAME=base_stat7 SIZE=2>
+                          </TD>
+                        </TR>
+                      </TABLE>
+                    </TD>
+                    <TD COLSPAN="2" VALIGN="TOP" ROWSPAN="2">
+                      <P><FONT  SIZE="1"><B>Info:</B> The Stat Filter includes 
+                        the ability for someone to paste their current character's 
+                        stats into it and then find out their base stats by changing 
+                        the race and age boxes to what the character is set at. 
+                        These base stats can then be sent to the Stat Generator 
+                        by clicking on the 'Submit to Stat Generator' button.</FONT></P>
+                    </TD>
+                  </TR>
+                  <TR>
+                    <TD>
+                      <INPUT TYPE="button" VALUE="Submit to Stat Generator" ONCLICK="Report();" NAME="button">
+                    </TD>
+                  </TR>
+                </TABLE>
+                <P>&nbsp;</P>
+              </CENTER>
+            </FORM>
+            <!--END FORM-->
+        <TR> 
+          <TD HEIGHT=45 VALIGN=top> 
+            <FORM NAME=statForm>
+              <TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 ALIGN= center>
+                <TBODY> 
+                <TR> 
+                  <TD COLSPAN=2></TD>
+                  <TD><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><B>Stat Generator </B></TD>
+                  <TD><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><B>Reroll Calc </B></TD>
+                  <TD></TD>
+                </TR>
+                <TR> 
+                  <TD BGCOLOR=#000000 COLSPAN=7><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#cccccc> 
+                  <TD BGCOLOR=#000000 ROWSPAN=17><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD><B>MUME version</B></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle> 
+                    <SELECT NAME=old_version>
+                      <OPTION VALUE="8" selected>VIII</OPTION>
+                    </SELECT>
+                  </TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle> 
+                    <SELECT NAME=new_version>
+                      <OPTION VALUE="8" selected>VIII</OPTION>
+                    </SELECT>
+                  </TD>
+                  <TD BGCOLOR=#000000 ROWSPAN=17><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                </TR>
+                <TR> 
+                  <TD BGCOLOR=#000000 COLSPAN=5><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                  <TD><B>Race</B></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle> 
+                    <SELECT NAME=old_race ONCHANGE="changeRace(this.options[this.selectedIndex].value, 'old');">
+                      <OPTION VALUE="Man" selected>Man</OPTION>
+                      <OPTION VALUE="Dunadan">Man (Dunadan)</OPTION>
+                      <OPTION VALUE="Noldo">Elf (Noldorin)</OPTION>
+                      <OPTION VALUE="Sinda">Elf (Sinda)</OPTION>
+                      <OPTION VALUE="Silvan">Elf (Silvan)</OPTION>
+                      <OPTION VALUE="Half-Elf">Half-Elf </OPTION>
+                      <OPTION VALUE="Dwarf">Dwarf </OPTION>
+                      <OPTION VALUE="Hobbit">Hobbit </OPTION>
+                      <OPTION VALUE="Orc">Orc </OPTION>
+                      <OPTION VALUE="Troll">Troll</OPTION>
+                      <OPTION VALUE="BN">Black Numenorean</OPTION>
+                    </SELECT>
+                  </TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle> 
+                    <SELECT NAME=new_race ONCHANGE="changeRace(this.options[this.selectedIndex].value, 'new');">
+                      <OPTION VALUE="Man" selected>Man</OPTION>
+                      <OPTION VALUE="Dunadan">Man (Dunadan)</OPTION>
+                      <OPTION VALUE="Noldo">Elf (Noldorin)</OPTION>
+                      <OPTION VALUE="Sinda">Elf (Sinda)</OPTION>
+                      <OPTION VALUE="Silvan">Elf (Silvan)</OPTION>
+                      <OPTION VALUE="Half-Elf">Half-Elf </OPTION>
+                      <OPTION VALUE="Dwarf">Dwarf </OPTION>
+                      <OPTION VALUE="Hobbit">Hobbit </OPTION>
+                      <OPTION VALUE="Orc">Orc </OPTION>
+                      <OPTION VALUE="Troll">Troll</OPTION>
+                      <OPTION VALUE="BN">Black Numenorean</OPTION>
+                    </SELECT>
+                  </TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#cccccc> 
+                  <TD><B>Age</B></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle> 
+                    <SELECT NAME=old_age ONCHANGE="changeAge(this.options[this.selectedIndex].value, 'old');">
+                      <OPTION VALUE="0" selected>No age modifier</OPTION>
+                      <OPTION VALUE="1">1st age</OPTION>
+                      <OPTION VALUE="2">2nd age</OPTION>
+                      <OPTION VALUE="3">3rd age</OPTION>
+                      <OPTION VALUE="4">4th age</OPTION>
+                      <OPTION VALUE="5">5th age</OPTION>
+                      <OPTION VALUE="6">6th age</OPTION>
+                      <OPTION VALUE="7">7th age</OPTION>
+                    </SELECT>
+                    <BR>
+                    <INPUT TYPE=text NAME=oldAgeRange SIZE=9 VALUE="x1">
+                  </TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle> 
+                    <SELECT NAME=new_age ONCHANGE="changeAge(this.options[this.selectedIndex].value, 'new');">
+                      <OPTION VALUE="0" selected>No age modifier</OPTION>
+                      <OPTION VALUE="1">1st age</OPTION>
+                      <OPTION VALUE="2">2nd age</OPTION>
+                      <OPTION VALUE="3">3rd age</OPTION>
+                      <OPTION VALUE="4">4th age</OPTION>
+                      <OPTION VALUE="5">5th age</OPTION>
+                      <OPTION VALUE="6">6th age</OPTION>
+                      <OPTION VALUE="7">7th age</OPTION>
+                    </SELECT>
+                    <BR>
+                    <INPUT TYPE=text NAME=newAgeRange SIZE=9 VALUE="x1">
+                  </TD>
+                </TR>
+                <TR> 
+                  <TD BGCOLOR=#000000 COLSPAN=5><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                  <TD><B>Str</B></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('old',1);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('old',1);" NAME=old_stat1 SIZE=2>
+                    <A HREF="javascript:dec('old',1);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('new',1);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('new',1);" NAME=new_stat1 SIZE=2>
+                    <A HREF="javascript:dec('new',1);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#cccccc> 
+                  <TD><B>Int</B></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('old',2);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('old',2);" NAME=old_stat2 SIZE=2>
+                    <A HREF="javascript:dec('old',2);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('new',2);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('new',2);" NAME=new_stat2 SIZE=2>
+                    <A HREF="javascript:dec('new',2);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                  <TD><B>Wis</B></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('old',3);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('old',3);" NAME=old_stat3 SIZE=2>
+                    <A HREF="javascript:dec('old',3);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('new',3);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('new',3);" NAME=new_stat3 SIZE=2>
+                    <A HREF="javascript:dec('new',3);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#cccccc> 
+                  <TD><B>Dex</B></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('old',4);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('old',4);" NAME=old_stat4 SIZE=2>
+                    <A HREF="javascript:dec('old',4);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('new',4);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('new',4);" NAME=new_stat4 SIZE=2>
+                    <A HREF="javascript:dec('new',4);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                  <TD><B>Con</B></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('old',5);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('old',5);" NAME=old_stat5 SIZE=2>
+                    <A HREF="javascript:dec('old',5);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('new',5);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('new',5);" NAME=new_stat5 SIZE=2>
+                    <A HREF="javascript:dec('new',5);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#cccccc> 
+                  <TD><B>Wil</B></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('old',6);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('old',6);" NAME=old_stat6 SIZE=2>
+                    <A HREF="javascript:dec('old',6);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('new',6);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('new',6);" NAME=new_stat6 SIZE=2>
+                    <A HREF="javascript:dec('new',6);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                  <TD><B>Per</B></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('old',7);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('old',7);" NAME=old_stat7 SIZE=2>
+                    <A HREF="javascript:dec('old',7);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle><A HREF="javascript:inc('new',7);"><IMG BORDER=0 SRC="addition.gif"></A> 
+                    <INPUT ONCHANGE="alter('new',7);" NAME=new_stat7 SIZE=2>
+                    <A HREF="javascript:dec('new',7);"><IMG BORDER=0 SRC="subtraction.gif"></A></TD>
+                </TR>
+                <TR> 
+                  <TD BGCOLOR=#000000 COLSPAN=5><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#cccccc> 
+                  <TD><B>Pts left</B></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle> 
+                    <INPUT NAME=old_ptsleft SIZE=3>
+                  </TD>
+                  <TD><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle> 
+                    <INPUT NAME=new_ptsleft SIZE=3>
+                  </TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                  <TD><B>Difference</B></TD>
+                  <TD BGCOLOR=#000000><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=middle COLSPAN=3> 
+                    <INPUT NAME=pts_difference SIZE=4>
+                  </TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#cccccc> 
+                  <TD ALIGN="center" VALIGN="middle"><B>Other</B></TD>
+                  <TD BGCOLOR=#000000 ALIGN="center" VALIGN="middle" ROWSPAN="2"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=center VALIGN="middle"> 
+                    <INPUT ONCLICK="clearStats('old')" TYPE=button VALUE='Reset Stats' NAME=reset_stats>
+                  </TD>
+                  <TD BGCOLOR=#000000 ALIGN="center" VALIGN="middle" ROWSPAN="2"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD ALIGN=center VALIGN="middle"> 
+                    <INPUT ONCLICK="copyStats()" TYPE=button VALUE='Copy from Left' NAME=button3>
+                  </TD>
+                </TR>
+                <TR ALIGN=middle BGCOLOR=#cccccc> 
+                  <TD ALIGN="center" VALIGN="middle">&nbsp;</TD>
+                  <TD ALIGN=center VALIGN="middle"> 
+                    <INPUT ONCLICK="addStatsToListT('old')" TYPE=button VALUE='Add to List' NAME=button4>
+                  </TD>
+                  <TD ALIGN=center VALIGN="middle"> 
+                    <INPUT ONCLICK="addStatsToListT('new')" TYPE=button VALUE='Add to List' NAME=button5>
+                  </TD>
+                </TR>
+                <TR> 
+                  <TD BGCOLOR=#000000 COLSPAN=5><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                  <TD BGCOLOR=#000000 COLSPAN=5><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                </TR>
+                </TBODY> 
+              </TABLE>
+              <DIV ALIGN="center"> <BR>
+              </DIV>
+              <TABLE BGCOLOR="#000000" BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=225 ALIGN="center">
+                <TR> 
+                  <TD> 
+                    <TABLE BORDER=0 CELLSPACING=2 CELLPADDING=0 WIDTH=225>
+                      <TR> 
+                        <TD BGCOLOR="#cccccc"> 
+                          <TABLE BORDER=0 CELLSPACING=2 CELLPADDING=0 WIDTH=100%>
+                            <TR> 
+                              <TD BGCOLOR="#cccccc" ALIGN=center><B>Stat List</B></TD>
+                            </TR>
+                          </TABLE>
+                        </TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR="#eeeeee"> 
+                          <TABLE BORDER=0 CELLSPACING=2 CELLPADDING=0 WIDTH=225 ALIGN="center">
+                            <TR> 
+                              <TD ALIGN="center"> 
+                                <TEXTAREA NAME=statListT ROWS=6 COLS=62 READONLY></TEXTAREA>
+                                <BR>
+                                <INPUT TYPE=button VALUE="Clear list" ONCLICK="this.form.statListT.value=''" NAME=button2>
+                              </TD>
+                            </TR>
+                          </TABLE>
+                        </TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR="#cccccc" ALIGN=center> 
+                          <P><FONT  SIZE=1><B><BR>
+                            Stat Requirements ripped from <a href="http://tabris23.tripod.com">Tabris</a><br>
+                            Extended JavaScript code added by <A HREF="http://nschimme.tripod.com">Jahara</A> 
+                            <BR>
+                            Practice Percentage code by <A HREF="http://mandor.mine.nu">Mandor</A><BR>
+                            (Original Percentage code done by <U>Frn</U>, and 
+                            <A HREF="http://userweb.tsr.ru/%7Egray_//MUME.HTM">Gray</A></B></FONT><FONT  SIZE=1>)<BR>
+                            <B>Original JavaScript credit is given to <A HREF="http://www.e.kth.se/esekt/org/vrak/mume/"> 
+                            VrAK</A></B> <BR>
+                            </FONT></P>
+                        </TD>
+                      </TR>
+                    </TABLE>
+                  </TD>
+                </TR>
+              </TABLE>
+            </FORM>
+          </TD>
+          <TD> 
+            <!-- added by frn -->
+            <FORM NAME="frn">
+              <TABLE CELLSPACING="3" WIDTH="580" BORDER="0" DWCOPYTYPE="CopyTableColumn">
+                <TBODY> 
+                <TR> 
+                  <TD VALIGN="Top"> 
+			  <P ALIGN="center"><B><U>Practice Percentage Table</U></B></P>
+                  </TD>
+                  <TD VALIGN="middle"> <FONT COLOR="#000000" FACE="verdana,arial" SIZE="2"> 
+                    <SELECT NAME=Percent ONCHANGE="selectGroup(this.options[this.selectedIndex].value);" SIZE="2">
+                      <OPTION VALUE="oldTmpStats" selected>Stat Generator</OPTION>
+                      <OPTION VALUE="newTmpStats">Reroll Calc</OPTION>
+                    </SELECT>
+                    </FONT></TD>
+                  <TD COLSPAN="2"><FONT  SIZE="1"><B>Info:</B> This table shows 
+                    the theoretical practice percentages a character would get 
+                    being a<I> pure class </I>and having max practices in that 
+                    skill at legend level</FONT></TD>
+                  <!-- -->
+                </TR>
+                <TR> 
+                  <TD VALIGN="top" ALIGN="center"> 
+                    <TABLE CELLSPACING="0" CELLPADDING="0" BORDER="0">
+                      <TBODY> 
+                      <TR> 
+                        <TD COLSPAN="2"><B>Puke-mages</B></TD>
+                      </TR>
+                      <TR> 
+                        <TD>HPs:</TD>
+                        <TD> 
+                          <INPUT SIZE="5" NAME="hps">
+                        </TD>
+                      </TR>
+                      <TR> 
+                        <TD>Mana:</TD>
+                        <TD> 
+                          <INPUT SIZE="5" NAME="manap">
+                        </TD>
+                      </TR>
+                      </TBODY> 
+                    </TABLE>
+                    <BR>
+                    <TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+                      <TBODY> 
+                      <TR> 
+                        <TD COLSPAN=2 ALIGN="center"><B>Ranger</B></TD>
+                        <TD WIDTH="40"></TD>
+                        <TD WIDTH="2"></TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 COLSPAN=4 ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 ROWSPAN=27 WIDTH="2" ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                        <TD WIDTH="108" BGCOLOR="#cccccc" ALIGN="center"><B title="PER INT"> 
+                          Awareness</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="awareness">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" ALIGN="center"><B title="STR WIL">Climb</B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="climb">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD WIDTH="108" ALIGN="center"><B title="DEX INT">First 
+                          Aid</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="first">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#eeeeee" WIDTH="108" ALIGN="center"><B title="WIS WIL">Leadership</B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="leadership">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD WIDTH="108" ALIGN="center"><B title="DEX WIL">Ride</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="ride">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" ALIGN="center"><B title="DEX CON WIL">Swim</B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="swim">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD WIDTH="108" ALIGN="center"><B title="PER INT">Track</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="track">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" ALIGN="center"><B title="STR WIL">Wilderness</B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="wilderness">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 COLSPAN=3><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      </TBODY> 
+                    </TABLE>
+                    <P> </P>
+                    <TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+                      <TBODY> 
+                      <TR> 
+                        <TD COLSPAN=3 ALIGN="center"><B>Warrior</B></TD>
+                        <TD WIDTH="40"> </TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 ROWSPAN=12 WIDTH="2" ALIGN="center"> 
+                        </TD>
+                        <TD BGCOLOR=#000000 COLSPAN=3 ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ROWSPAN="32"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                        <TD BGCOLOR="#eeeeee" WIDTH="108" ALIGN="center"><B title="STR DEX WIL">Bash</B></TD>
+                        <TD BGCOLOR="#eeeeee" WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="bash">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"> </TD>
+                        <TD WIDTH="108" ALIGN="center"><B title="STR DEX WIL">Cleaving</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="cleaving">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="1" BGCOLOR="#000000" ALIGN="center"> </TD>
+                        <TD WIDTH="108" BGCOLOR="#eeeeee" ALIGN="center"><B title="STR CON WIL">Concussion</B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="concussion">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="1" BGCOLOR="#000000" ALIGN="center"> </TD>
+                        <TD WIDTH="108" BGCOLOR="#CCCCCC" ALIGN="center"><B title="STR CON WIL">Smite</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="smite">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="1" BGCOLOR="#000000" ALIGN="center"> </TD>
+                        <TD WIDTH="108" BGCOLOR="#eeeeee" ALIGN="center"><B title="CON WIL">Endurance</B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="endurance">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="1" BGCOLOR="#000000" ALIGN="center"> </TD>
+                        <TD WIDTH="108" BGCOLOR="#CCCCCC" ALIGN="center"><B title="STR DEX PER">Parry</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="parry">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="1" BGCOLOR="#000000" ALIGN="center"> </TD>
+                        <TD WIDTH="108" BGCOLOR="#eeeeee" ALIGN="center"><B title="STR DEX WIL">Rescue</B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="rescue">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="1" BGCOLOR="#000000" ALIGN="center"> </TD>
+                        <TD WIDTH="108" BGCOLOR="#CCCCCC" ALIGN="center"><B title="STR DEX PER">Slashing</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="slashing">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="1" BGCOLOR="#000000" ALIGN="center"> </TD>
+                        <TD WIDTH="108" BGCOLOR="#eeeeee" ALIGN="center"><B title="STR DEX PER">Stabbing</B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="stabbing">
+                        </TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 COLSPAN=3 HEIGHT="2"></TD>
+                      </TR>
+                      </TBODY> 
+                    </TABLE>
+                  </TD>
+                  <TD VALIGN="Top" ALIGN="center"> 
+                    <TABLE CELLSPACING="0" CELLPADDING="0" BORDER="0">
+                      <TBODY> 
+                      <TR> 
+                        <TD COLSPAN="2"><B>BN-mages</B></TD>
+                      </TR>
+                      <TR> 
+                        <TD>HPs:</TD>
+                        <TD> 
+                          <INPUT SIZE="5" NAME="hpsb">
+                        </TD>
+                      </TR>
+                      <TR> 
+                        <TD>Mana:</TD>
+                        <TD> 
+                          <INPUT SIZE="5" NAME="manapb">
+                        </TD>
+                      </TR>
+                      </TBODY> 
+                    </TABLE>
+                    <BR>
+                    <TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+                      <TBODY> 
+                      <TR> 
+                        <TD COLSPAN=2 ALIGN="center"><B>Thief</B></TD>
+                        <TD WIDTH="40"> </TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 ROWSPAN=15 WIDTH="2" ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                        <TD BGCOLOR=#000000 COLSPAN=2 ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ROWSPAN="35"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#eeeeee" WIDTH="108" ALIGN="center"><B title="DEX PER">Backstab</B></TD>
+                        <TD BGCOLOR="#eeeeee" WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="backstab">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD WIDTH="108" ALIGN="center"><B title="DEX PER">Dodge</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="dodge">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" BGCOLOR="#eeeeee" ALIGN="center"><B title="DEX PER">Sneak</B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="sneak">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" BGCOLOR="#CCCCCC" ALIGN="center"><B title="DEX PER">Escape</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="escape">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" BGCOLOR="#eeeeee" ALIGN="center"><B title="DEX PER">Steal</B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="steal">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" BGCOLOR="#CCCCCC" ALIGN="center"><B title="DEX PER">Hide</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="hide">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" BGCOLOR="#eeeeee" ALIGN="center"><B title="DEX WIL">Attack</B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="attack">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" BGCOLOR="#CCCCCC" ALIGN="center"><B title="DEX PER">Missile</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="missile">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" BGCOLOR="#eeeeee" ALIGN="center"><B title="DEX INT">Pick</B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="pick">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" BGCOLOR="#CCCCCC" ALIGN="center"><B title="STR DEX PER">Piercing</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="piercing">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" ALIGN="center"><B title="PER INT">Search</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="search">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="108" BGCOLOR="#CCCCCC" ALIGN="center"><B title="DEX INT">Envenom</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="envenom">
+                        </TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 COLSPAN=2><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      </TBODY> 
+                    </TABLE>
+                  </TD>
+                  <TD VALIGN="Top"> 
+                    <TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+                      <TBODY> 
+                      <TR> 
+                        <TD> </TD>
+                        <TD ALIGN=CENTER nowrap><B>Magic-User</B></TD>
+                        <TD WIDTH="40"> </TD>
+                        <TD ALIGN=middle WIDTH="2"> </TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 COLSPAN=4><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 ROWSPAN=27 WIDTH="2" ALIGN="middle"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                        <TD BGCOLOR="#cccccc" WIDTH="109" ALIGN="center"><B title="PER INT WIS">Detect 
+                          Magic </B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="detectmagic">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#eeeeee" WIDTH="109" ALIGN="center"><B title="PER INT WIS">Burning 
+                          Hands </B></TD>
+                        <TD BGCOLOR=#eeeeee WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="burninghands">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="109" ALIGN="center"><B title="PER INT WIS">Shocking 
+                          Grasp </B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="burninghands2">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="109" ALIGN="center"><B title="PER INT WIS">Detect 
+                          Invisibility </B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="burninghands3">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="109" ALIGN="center"><B title="PER INT WIS">Lightning 
+                          Bolt </B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="lightningbolt">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="109" ALIGN="center"><B title="PER INT WIS">Colour 
+                          Spray </B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="lightningbolt2">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="109" ALIGN="center"><B title="PER INT WIS">Fireball</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="lightningbolt3">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="109" ALIGN="center"><B title="PER INT WIS">Identify</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="lightningbolt4">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="109" ALIGN="center"><B title="PER INT WIS">Call 
+                          Lighting </B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="calllightning">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="109" ALIGN="center"><B title="INT WIS WIL">Locate</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="locate">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="109" ALIGN="center"><B title="INT WIS WIL">Locate 
+                          Life </B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="locate2">
+                        </TD>
+                        <TD ALIGN=left WIDTH="2" BGCOLOR="#000000"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="109" ALIGN="center"><B title="INT WIS WIL">Control 
+                          Weather </B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="locate3">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="109" ALIGN="center"><B title="INT WIS">Create 
+                          Light </B></TD>
+                        <TD WIDTH="40" BGCOLOR="#CCCCCC"> 
+                          <INPUT SIZE="5" NAME="createlight">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="109" ALIGN="center"><B title="INT WIS">Armour</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="armour">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="109" ALIGN="center"><B title="INT WIS">Shield</B></TD>
+                        <TD WIDTH="40" BGCOLOR="#CCCCCC"> 
+                          <INPUT SIZE="5" NAME="armour2">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="109" ALIGN="center"><B title="INT WIS">Store</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="armour3">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="109" ALIGN="center"><B title="INT WIS">Quake</B></TD>
+                        <TD WIDTH="40" BGCOLOR="#CCCCCC"> 
+                          <INPUT SIZE="5" NAME="armour4">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="109" ALIGN="center"><B title="INT WIS">Enchant</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="enchant">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="109" ALIGN="center"><B title="INT WIS">Shroud</B></TD>
+                        <TD WIDTH="40" BGCOLOR="#CCCCCC"> 
+                          <INPUT SIZE="5" NAME="shroud">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="109" ALIGN="center"><B title="INT WIL">Block 
+                          Door </B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="blockdoor">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="109" ALIGN="center"><B title="INT WIL">Teleport</B></TD>
+                        <TD WIDTH="40" BGCOLOR="#CCCCCC"> 
+                          <INPUT SIZE="5" NAME="teleport">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="109" ALIGN="center"><B title="INT WIL">Dispel 
+                          Magic </B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="dispelmagic">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000" ALIGN="center"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="109" ALIGN="center"><B title="INT WIL">Portal</B></TD>
+                        <TD WIDTH="40" BGCOLOR="#CCCCCC"> 
+                          <INPUT SIZE="5" NAME="dispelmagic2">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD WIDTH="109" ALIGN="center"><B title="INT WIL">Charm</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="charm">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000"> </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="109" ALIGN="center"><B title="INT WIL">Sleep</B></TD>
+                        <TD WIDTH="40" BGCOLOR="#CCCCCC"> 
+                          <INPUT SIZE="5" NAME="charm2">
+                        </TD>
+                        <TD WIDTH="2" BGCOLOR="#000000"> </TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 COLSPAN=3><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      </TBODY> 
+                    </TABLE>
+                  </TD>
+                  <TD VALIGN="Top" ALIGN="center"> 
+                    <TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0>
+                      <TBODY> 
+                      <TR> 
+                        <TD> </TD>
+                        <TD COLSPAN="2" ALIGN="CENTER"><B>Cleric</B></TD>
+                        <TD WIDTH="40"> </TD>
+                        <TD WIDTH="2"></TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 COLSPAN=5><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 ROWSPAN=23 WIDTH="2" ALIGN="middle"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                        <TD BGCOLOR="#cccccc" ALIGN="center" COLSPAN="2"><B title="INT WIS">Cure 
+                          Light </B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="curelight">
+                        </TD>
+                        <TD BGCOLOR=#000000 WIDTH="2" ROWSPAN="43" ALIGN="middle"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD ALIGN="center" COLSPAN="2"><B title="INT WIS">Cure 
+                          Serious </B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="cure">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD ALIGN="center" COLSPAN="2"><B title="INT WIS">Cure 
+                          Blindness </B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="cure2">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD ALIGN="center" COLSPAN="2"><B title="INT WIS">Cure 
+                          Critic</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="cure3">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD BGCOLOR="#CCCCCC" ALIGN="center" COLSPAN="2"><B title="INT WIS">Remove 
+                          Poison</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="cure4">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD ALIGN="center" COLSPAN="2"><B title="WIS WIL">Remove 
+                          Curse </B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="cure5">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD BGCOLOR="#CCCCCC" ALIGN="center" COLSPAN="2"><B title="INT WIS">Heal</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="heal">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD ALIGN="center" COLSPAN="2"><B title="INT WIS">Strength</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="heal2">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD BGCOLOR="#CCCCCC" ALIGN="center" COLSPAN="2"><B title="INT WIS">Sanctuary</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="sanctuary">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD ALIGN="center" COLSPAN="2"><B title="INT WIS">Create 
+                          Food</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="create">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#cccccc> 
+                        <TD BGCOLOR="#CCCCCC" ALIGN="center" COLSPAN="2"><B title="INT WIS">Create 
+                          Water </B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="create2">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD ALIGN="center" COLSPAN="2"><B title="INT WIS">BOB</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="bob">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" ALIGN="center" COLSPAN="2"><B title="INT WIS">Harm</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="bob2">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD ALIGN="center" COLSPAN="2"><B title="INT WIS WIL">Bless</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="bless">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" ALIGN="center" COLSPAN="2"><B title="INT WIS WIL">Sense 
+                          Life </B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="senselife">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD ALIGN="center" COLSPAN="2"><B title="WIS WIL">Blindness</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="blindness">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" ALIGN="center" COLSPAN="2"><B title="WIS WIL">Curse</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="removecurse">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD ALIGN="center" COLSPAN="2"><B title="WIS WIL">Break 
+                          Door </B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="removecurse2">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" ALIGN="center" COLSPAN="2"><B title="WIS WIL">Dispel 
+                          Evil </B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="dispelevil">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD ALIGN="center" COLSPAN="2"><B title="WIS WIL">Fear</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="fear">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" ALIGN="center" COLSPAN="2"><B title="WIS WIL">Summon</B></TD>
+                        <TD BGCOLOR=#CCCCCC WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="summon">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD ALIGN="center" COLSPAN="2"><B title="WIS WIL">Transfer</B></TD>
+                        <TD WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="transfer">
+                        </TD>
+                      </TR>
+                      <TR ALIGN=middle BGCOLOR=#eeeeee> 
+                        <TD BGCOLOR="#CCCCCC" WIDTH="96" ALIGN="center"><B title="WIS WIL">Word 
+                          of Recall</B></TD>
+                        <TD BGCOLOR="#CCCCCC" WIDTH="2" ALIGN="center"></TD>
+                        <TD BGCOLOR="#CCCCCC" WIDTH="40"> 
+                          <INPUT SIZE="5" NAME="transfer2">
+                        </TD>
+                      </TR>
+                      <TR> 
+                        <TD BGCOLOR=#000000 COLSPAN=3><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                        <TD BGCOLOR=#000000 COLSPAN=5 WIDTH="2"><IMG BORDER=0 HEIGHT=2 SRC="pix.gif" WIDTH=2></TD>
+                      </TR>
+                      </TBODY> 
+                    </TABLE>
+                    <P> </P>
+                    <P> </P>
+                  </TD>
+                </TR>
+                </TBODY> 
+              </TABLE>
+              <!-- MAIN PAGE END HERE -->
+            </FORM>
+          </TD>
+        </TR>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td width="183" bgcolor="#000000" align="left" height="19" valign="bottom">&nbsp;</td>
+    <td width="34%" colspan="2" bgcolor="#FFFFFF" height="19" align="left" valign="middle"></td>
+    <td width="24" valign="bottom" bgcolor="#FFFFFF" height="19" align="right"></td>
+  </tr>
+  <tr> 
+    <td width="183" bgcolor="#000000" align="left" height="19" valign="bottom"><img src="corner_botleft.gif" width="24" height="19" align="bottom"></td>
+    <td width="34%" colspan="2" bgcolor="#FFFFFF" height="19" align="left" valign="middle"> 
+      <p>&nbsp;</p>
+    </td>
+    <td width="24" valign="bottom" bgcolor="#FFFFFF" height="19" align="right"><img src="corner_botright.gif" width="24" height="19" align="bottom"></td>
+  </tr>
+</table>
+</body>
+</html>

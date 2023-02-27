@@ -1,0 +1,3634 @@
+n Abandoned Cellar
+A young and vicious olog-hai eagerly awaits intruders.
+Aleister is standing here.
+Själv is standing here.
+
+o C>time
+
+Saving Hercules.
+
+o C>According to the Dúnadan calendar, it is:
+6pm on Trewsday, the 11th of Blotmath, Year 2859 of the Third Age.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 04:47:12 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C>sa 2 more ticks
+Ok.
+
+o C>
+Aleister honks happily.
+
+o C>
+Aleister honks happily.
+
+o C>
+Aleister honks happily.
+
+o C>
+Aleister honks happily.
+
+o C>
+Aleister honks happily.
+
+o C>
+Aleister honks happily.
+
+o C>
+Aleister honks happily.
+
+o C>l
+An Abandoned Cellar
+A young and vicious olog-hai eagerly awaits intruders.
+Aleister is standing here.
+Själv is standing here.
+
+o C>
+Aleister honks happily.
+
+o C>
+Aleister honks happily.
+
+o C>
+Aleister honks happily.
+
+o C>
+Aleister honks happily.
+
+<<< After some lagging and some spamming we make it to the brush (just east of Bathmurz). >>>
+
+o C Move:Weak>l
+Dark Clump of Trees
+A huge warg is here, moving in for the kill.
+Aleister is standing here.
+Själv is standing here.
+A huge warg hits your right hand very hard.
+
+o C HP:Fine Move:Weak a huge warg:Healthy>
+You crush a huge warg's left forefoot extremely hard.
+
+o C HP:Fine Move:Weak a huge warg:Fine>
+Aleister joins your fight.
+Aleister hits a huge warg's body extremely hard.
+
+o C HP:Fine Move:Weak a huge warg:Fine>con
+Själv joins your fight.
+Are you mad!?
+A huge warg says 'Bastard! I'll get you for that, Själv!'
+A huge warg says 'Prepare to die, Själv!'
+Själv crushes a huge warg's right hindleg hard.
+
+o C HP:Fine Move:Weak a huge warg:Hurt>
+A huge warg lightly hits your right hand and tickles it.
+
+o C HP:Fine Move:Weak a huge warg:Hurt>
+Aleister hits a huge warg's left hindfoot extremely hard.
+
+o C HP:Fine Move:Weak a huge warg:Hurt>
+A huge warg has arrived from the west.
+
+o C HP:Fine Move:Weak a huge warg:Hurt>
+Själv crushes a huge warg's body extremely hard.
+
+o C HP:Fine Move:Weak a huge warg:Hurt>
+A huge warg hits your left leg very hard.
+You feel a strong ache there!
+
+o C HP:Fine Move:Weak a huge warg:Hurt>
+A huge warg hits your left leg and tickles it.
+
+o C HP:Fine Move:Weak a huge warg:Hurt>
+You crush a huge warg's left hindfoot extremely hard and shatter it.
+
+o C HP:Fine Move:Weak a huge warg:Wounded>
+A huge warg hits your right foot and tickles it.
+
+o C HP:Fine Move:Weak a huge warg:Wounded>
+A huge warg hits your body and tickles it.
+
+o C HP:Fine Move:Weak a huge warg:Wounded>
+Necronomicon narrates 'lamil :), gerl meho pabev! fafe'
+
+o C HP:Fine Move:Weak a huge warg:Wounded>
+You crush a huge warg's right forefoot extremely hard and shatter it.
+
+o C HP:Fine Move:Weak a huge warg:Wounded>
+A huge warg strongly hits your left arm.
+
+o C HP:Hurt Move:Weak a huge warg:Wounded>
+A huge warg hits your right foot and tickles it.
+
+o C HP:Hurt Move:Weak a huge warg:Wounded>
+A huge warg hits your body hard.
+
+o C HP:Hurt Move:Weak a huge warg:Wounded>
+Själv crushes a huge warg's right hindleg extremely hard and shatters it.
+You crush a huge warg's left foreleg extremely hard and shatter it.
+
+o C HP:Hurt Move:Weak a huge warg:Awful>
+A huge warg hits your left foot hard.
+
+o C HP:Hurt Move:Weak a huge warg:Awful>
+Aleister hits a huge warg's left hindfoot extremely hard and shatters it.
+A huge warg is incapacitated and will slowly die, if not aided.
+
+o C HP:Hurt Move:Weak a huge warg:Dying>
+Själv crushes a huge warg's right foreleg extremely hard and shatters it.
+You receive your share of experience.
+Congratulations! This is the first time you've killed it!
+Your blood freezes as you hear a huge warg's death cry.
+A huge warg is dead! R.I.P.
+
+o C HP:Hurt Move:Weak a huge warg:Healthy>l
+
+A huge warg strongly hits your left hand.
+
+o C HP:Hurt Move:Weak a huge warg:Healthy>Dark Clump of Trees
+The corpse of a huge warg is lying here.
+Aleister is standing here.
+Själv is standing here.
+A huge warg is here, fighting YOU.
+
+o C HP:Hurt Move:Weak a huge warg:Healthy>
+You crush a huge warg's right forefoot very hard.
+
+o C HP:Hurt Move:Weak a huge warg:Fine>
+Själv joins your fight.
+Aleister joins your fight.
+A huge warg says 'Bastard! I'll get you for that, Aleister!'
+A huge warg says 'It was your last mistake Aleister! I will remember you!'
+A huge warg says 'Bastard! I'll get you for that, Själv!'
+A huge warg says 'It was your last mistake Själv! I will remember you!'
+
+o C HP:Hurt Move:Weak a huge warg:Fine>
+Själv crushes a huge warg's body hard.
+
+o C HP:Hurt Move:Weak a huge warg:Fine>
+Aleister hits a huge warg's left foreleg extremely hard.
+
+o C HP:Hurt Move:Weak a huge warg:Fine>
+A huge warg hits your body.
+
+o C HP:Wounded Move:Weak a huge warg:Fine>
+Aleister hits a huge warg's left foreleg very hard.
+
+o C HP:Wounded Move:Weak a huge warg:Hurt>
+A huge warg hits your body very hard and shatters it.
+You feel a strong ache there!
+
+o C HP:Wounded Move:Weak a huge warg:Hurt>stat
+Aleister hits a huge warg's left hindleg very hard.
+OB: 56%, DB: 22%, PB: 18%, Armour: 0%. Wimpy: 45. Mood: aggressive.
+Needed: 12,946 xp, 0 tp. Gold: 0. Alert: normal.
+Affected by:
+- a light wound at the body.
+- a deep wound at the left leg.
+- noquit
+
+o C HP:Wounded Move:Weak a huge warg:Hurt>
+You crush a huge warg's body very hard.
+
+o C HP:Wounded Move:Weak a huge warg:Hurt>
+A huge warg strongly hits your right arm.
+
+o C HP:Wounded Move:Weak a huge warg:Hurt>
+You crush a huge warg's right hindfoot very hard.
+
+o C HP:Wounded Move:Weak a huge warg:Wounded>
+A huge warg lightly hits your right hand.
+
+o C HP:Wounded Move:Slow a huge warg:Wounded>stat
+OB: 56%, DB: 22%, PB: 18%, Armour: 0%. Wimpy: 45. Mood: aggressive.
+Needed: 12,589 xp, 0 tp. Gold: 0. Alert: normal.
+Affected by:
+- a light wound at the body.
+- a deep wound at the left leg.
+- noquit
+
+o C HP:Wounded Move:Slow a huge warg:Wounded>
+A huge warg strongly hits your body.
+
+o C HP:Bad Move:Slow a huge warg:Wounded>
+You flee head over heels.
+In The Brush
+Exits: ^North^ ^East^ South ^West^.
+
+o C HP:Bad Move:Weak>s
+Dark Clump of Trees
+The corpse of a huge warg is lying here.
+Aleister is here, fighting a huge warg.
+Själv is here, fighting a huge warg.
+A huge warg is here, fighting Aleister.
+Exits: ^North^ ^East^ West.
+
+o C HP:Bad Move:Weak>z
+ass aleister
+You are too afraid.
+
+o C HP:Bad Move:Weak>
+A huge warg hits Aleister's body hard.
+
+o C HP:Bad Move:Weak>zz
+sc
+ass sjalv
+You are too afraid.
+
+o C HP:Bad Move:Weak>43/197 hit, and 11/106 moves.
+
+o C HP:Bad Move:Weak>
+A huge warg hits Aleister's right arm very hard.
+
+o C HP:Bad Move:Weak>cha wim 40
+z
+Wimpy set to: 40
+
+o C HP:Bad Move:Weak>ass aleister
+You assist Aleister.
+A huge warg says 'It was your last mistake Hercules! I will remember you!'
+You crush a huge warg's body extremely hard and shatter it.
+
+o C HP:Bad Move:Weak a huge warg:Bad Aleister:Fine>agg
+cha moo agg
+Ok.
+A huge warg hits your right foot.
+You wish that your wounds would stop BLEEDING so much!
+
+o C HP:Bad Move:Weak a huge warg:Bad>
+You flee head over heels.
+In The Brush
+Exits: ^North^ ^East^ West.
+
+o C HP:Bad Move:Weak>w
+Dark Clump of Trees
+The corpse of a huge warg is lying here.
+Aleister is here, fighting a huge warg.
+Själv is here, fighting a huge warg.
+A huge warg is here, fighting Aleister.
+Exits: ^North^ ^East^ West.
+
+o C HP:Bad Move:Weak>sc
+
+A huge warg strongly hits Aleister's right leg.
+
+o C HP:Bad Move:Weak>38/197 hit, and 5/106 moves.
+
+o C HP:Bad Move:Weak>
+Själv crushes a huge warg's left hindfoot very hard and shatters it.
+
+o C HP:Bad Move:Weak>cha wim 30
+z
+Wimpy set to: 30
+
+o C HP:Bad Move:Weak>ass aleister
+You assist Aleister.
+A huge warg says 'It was your last mistake Hercules! I will remember you!'
+You crush a huge warg's right foreleg extremely hard and shatter it.
+A huge warg is incapacitated and will slowly die, if not aided.
+
+o C HP:Bad Move:Fainting a huge warg:Dying Aleister:Fine>
+Själv crushes a huge warg's left forefoot extremely hard and shatters it.
+You receive your share of experience.
+Yes! You're beginning to get the idea.
+Your blood freezes as you hear a huge warg's death cry.
+A huge warg is dead! R.I.P.
+
+o C HP:Bad Move:Fainting>sle
+You go to sleep.
+
+o C HP:Bad Move:Weak>sc
+40/197 hit, and 5/106 moves.
+
+o C HP:Bad Move:Weak>stat
+OB: 53%, DB: -53%, PB: 18%, Armour: 0%. Wimpy: 30. Mood: aggressive.
+Needed: 9,353 xp, 0 tp. Gold: 0. Alert: normal.
+Affected by:
+- panic
+- a light wound at the body.
+- a deep wound at the left leg.
+- noquit
+
+o C HP:Bad Move:Weak>info
+You are a male Hill Troll.
+You are 34 years and 3 days old.
+You have played 1 hour (real time).
+This ranks you as Hercules the Troll Sentry (level 6).
+You are eight feet eight and weigh fifty-nine stone.
+Perception: vision -10, hearing -46, smell -80. Alertness: normal.
+You are totally corrupted by the Evilness of Morgoth!
+You are carrying forty-four pounds of equipment. A tad uncomfortable, but no
+problem.
+Your base abilities are: Str:24 Int:6 Wis:4 Dex:16 Con:20 Wil:11 Per:7.
+Offensive Bonus: 53%, Dodging Bonus: -53%, Parrying Bonus: 18%.
+You are not wearing any armour.
+You have 50/197 hit, and 14/106 movement points.
+Your mood is aggressive. You will flee if your hit points go below 30.
+You have scored 53,647 experience points and you have 128 travel points.
+You are not known for any acts of war.
+You need 9,353 exp. points and 0 travel points to reach the next level.
+You have 4 silver pennies.
+You are speaking Morbeth.
+You will climb if necessary.
+
+You are subjected to the following temporary effects:
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (92%) *** q
+o C HP:Wounded Move:Slow>sc
+81/197 hit, and 45/106 moves.
+
+o C HP:Wounded Move:Tired>
+You feel bolder.
+
+o C HP:Wounded>
+Saving Hercules.
+
+C HP:Hurt>time
+According to the Dúnadan calendar, it is:
+5am on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+It should be the end of the night soon.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 04:59:05 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C HP:Hurt>sc
+128/197 hit, and 94/106 moves.
+
+o C HP:Fine>
+Saving Hercules.
+
+o C HP:Fine>sc
+197/197 hit, and 106/106 moves.
+
+o C>wa
+st
+You wake, and sit up.
+
+o C>You stand up.
+
+o C>l
+Dark Clump of Trees
+The corpse of a huge warg is lying here.
+The corpse of a huge warg is lying here.
+Aleister is standing here.
+Själv is sleeping here with his cock in a knot around a tree.
+
+o C>l
+Dark Clump of Trees
+The corpse of a huge warg is lying here.
+The corpse of a huge warg is lying here.
+Aleister is standing here.
+Själv is sleeping here with his cock in a knot around a tree.
+
+o C>map da
+   Influence of Sauron on Nearby Zones
+      -----------------------------
+     |        .       =============|
+     |        .       =============|
+     |        .      ==============|
+     |        .      ==============|
+     |    ++ .....  ===============|
+     |  ++++.+....--X==============|
+     |++++++...     ===============|
+     |        .    ================|
+     |       ..    ================|
+     |       .     ================|
+     |       .     ================|
+     |       .     ================|
+     |       ..    ================|
+     |        ... =================|
+     |          ...================|
+      -----------------------------
+
+o C>
+Själv wakes up.
+
+o C>exi
+North - In The Brush
+East  - In The Brush
+West  - Dark Clump of Trees
+
+o C>sc
+Själv clambers on his feet.
+197/197 hit, and 106/106 moves.
+
+o C>st
+
+Aleister sits down and rests.
+
+o C>You are already standing.
+
+o C>w
+Dark Clump of Trees
+Exits: ^North^ East *West*.
+
+o C>e
+Dark Clump of Trees
+The corpse of a huge warg is lying here.
+The corpse of a huge warg is lying here.
+Aleister is resting here.
+Exits: ^North^ ^East^ West.
+
+o C>sc
+197/197 hit, and 103/106 moves.
+
+o C>exi
+North - In The Brush
+East  - In The Brush
+West  - Dark Clump of Trees
+
+o C>r
+You sit down and rest your tired bones.
+
+o C>sc
+197/197 hit, and 106/106 moves.
+
+o C>l
+Dark Clump of Trees
+The corpse of a huge warg is lying here.
+The corpse of a huge warg is lying here.
+Aleister is resting here.
+Själv is standing here.
+
+o C>
+*a Hobbit* has arrived from the west riding a pony.
+
+* C>st
+You stop resting, and stand up.
+
+* C>1
+
+*a Hobbit* leaves east riding a pony.
+
+o C>1
+4
+k *elf*
+They aren't here.
+
+o C>k *elf*
+They aren't here.
+
+o C>4
+k *hobbit*
+They aren't here.
+
+o C>k *hobbit*
+They aren't here.
+
+o C>
+Aleister stops resting, and clambers on his feet.
+
+o C>exi
+e
+North - In The Brush
+East  - In The Brush
+West  - Dark Clump of Trees
+
+o C>e
+In The Brush
+Exits: ^North^ ^East^ West.
+
+o C>e
+
+The sun burns you! You slowly turn into stone.
+
+* C HP:Hurt>In the Brush
+Exits: *North* *East* *West*.
+
+* C HP:Hurt>Lonely Scrubland
+Exits: *North* *East* *West*.
+
+* C HP:Hurt>w
+w
+w
+In the Brush
+Exits: *North* *East* *West*.
+
+* C HP:Hurt>Själv narrates 'hobbit!!'
+
+w
+Aleister leaves west.
+In The Brush
+Aleister is standing here.
+Exits: *North* *East* West.
+
+* C HP:Hurt>Dark Clump of Trees
+The corpse of a huge warg is lying here.
+The corpse of a huge warg is lying here.
+Exits: *North* *East* West.
+
+o C HP:Hurt>Aleister leaves west.
+Dark Clump of Trees
+Aleister is standing here.
+Exits: *North* East *West*.
+
+o C HP:Hurt>e
+
+Aleister leaves west.
+
+o C HP:Hurt>Dark Clump of Trees
+The corpse of a huge warg is lying here.
+The corpse of a huge warg is lying here.
+Exits: *North* *East* West.
+
+o C HP:Hurt>
+Aleister has arrived from the west.
+
+o C HP:Hurt>w
+Dark Clump of Trees
+Exits: *North* East *West*.
+
+o C HP:Hurt>
+Bup narrates 'where'
+
+o C HP:Hurt>l
+Dark Clump of Trees
+Aleister is standing here.
+Själv is standing here.
+
+o C HP:Hurt>exi
+North - The glare of the sun burns your eyes.
+East  - Dark Clump of Trees
+West  - The glare of the sun burns your eyes.
+
+o C HP:Hurt>sc
+130/197 hit, and 89/106 moves.
+
+o C HP:Hurt>r
+You sit down and rest your tired bones.
+
+o C HP:Hurt>sc
+131/197 hit, and 90/106 moves.
+
+o C HP:Hurt>
+Aleister sits down and rests.
+
+o C HP:Hurt>map da
+   Influence of Sauron on Nearby Zones
+      -----------------------------
+     |        .          ==========|
+     |        .         ===========|
+     |        .        ============|
+     |        .        ============|
+     |    ++ .....    =============|
+     |  ++++.+....--X-=============|
+     |++++++...       =============|   << AYYY! Where did my darkness go??? >>
+     |        .      ==============|
+     |       ..      ==============|
+     |       .       ==============|
+     |       .       ==============|
+     |       .       ==============|
+     |       ..      ==============|
+     |        ...   ===============|
+     |          .....==============|
+      -----------------------------
+
+o C HP:Hurt>
+Aleister narrates 'sunburn'
+
+o C HP:Hurt>l
+Dark Clump of Trees
+Aleister is resting here.
+Själv is standing here.
+
+o C HP:Hurt>r
+sc
+You are already resting.
+
+o C HP:Hurt>136/197 hit, and 95/106 moves.
+
+o C HP:Hurt>sc
+136/197 hit, and 96/106 moves.
+
+o C HP:Hurt>curse
+You swear loudly for a long time.
+
+o C HP:Hurt>sc
+137/197 hit, and 97/106 moves.
+
+o C HP:Hurt>sc
+Själv narrates '6 6 zones e of bree'
+137/197 hit, and 97/106 moves.
+
+o C HP:Hurt>exi
+North - The glare of the sun burns your eyes.
+East  - Dark Clump of Trees
+West  - The glare of the sun burns your eyes.
+
+o C HP:Fine>sc
+139/197 hit, and 98/106 moves.
+
+o C HP:Fine>sc
+139/197 hit, and 99/106 moves.
+
+o C HP:Fine>sc
+
+Aleister narrates '>>> REGRESS <<< btw'
+
+o C HP:Fine>139/197 hit, and 99/106 moves.
+
+o C HP:Fine>sc
+140/197 hit, and 99/106 moves.
+Själv narrates '6 zones e of bree'
+
+o C HP:Fine>sc
+140/197 hit, and 100/106 moves.
+
+o C HP:Fine>sc
+140/197 hit, and 100/106 moves.
+
+o C HP:Fine>sle
+You go to sleep.
+
+o C HP:Fine>sc
+141/197 hit, and 101/106 moves.
+
+o C HP:Fine>sc
+153/197 hit, and 106/106 moves.
+
+o C HP:Fine>time
+According to the Dúnadan calendar, it is:
+10am on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+You feel your Master's influence decreasing.
+The sun is already high in the sky.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:03:30 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C HP:Fine>sc
+158/197 hit, and 106/106 moves.
+
+o C HP:Fine>cha wim 0
+Wimpy set to: 0
+
+o C HP:Fine>sc
+181/197 hit, and 106/106 moves.
+
+o C HP:Fine>
+Saving Hercules.
+
+o C HP:Fine>sc
+183/197 hit, and 106/106 moves.
+o C HP:Fine>sc
+191/197 hit, and 106/106 moves.
+
+o C HP:Fine>wa
+r
+You wake, and sit up.
+
+o C HP:Fine>l
+You rest your tired bones.
+
+o C HP:Fine>Dark Clump of Trees
+Aleister is resting here.
+Själv is sleeping here.
+
+o C HP:Fine>sc
+192/197 hit, and 106/106 moves.
+
+o C HP:Fine>act raping you
+Ok.
+
+o C HP:Fine>l
+Dark Clump of Trees
+Aleister is resting here.
+Själv is sleeping here.
+
+o C HP:Fine>stat
+OB: 56%, DB: -28%, PB: 18%, Armour: 0%. Wimpy: 0. Mood: aggressive.
+Needed: 9,353 xp, 0 tp. Gold: 0. Alert: normal.
+Affected by:
+- novoid
+- a light wound at the body.
+- a deep wound at the left leg.
+
+o C HP:Fine>
+Donutello sings 'fucking yahoo game channel is full of bugs - damn thing keeps
+gpfing on me and i'm trying to follow the oregon texas game'
+
+o C>sc
+197/197 hit, and 106/106 moves.
+
+o C>time
+According to the Dúnadan calendar, it is:
+11am on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+You feel your Master's influence decreasing.
+The sun is very high, it must be noon soon.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:05:13 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C>map da
+   Influence of Sauron on Nearby Zones
+      -----------------------------
+     |        .               =====|
+     |        .              ======|
+     |        .             =======|
+     |        .             =======|
+     |    ++ .....         ========|
+     |  ++++.+....--X-----=========|
+     |++++++...           =========|
+     |        .           =========|
+     |       ..          ==========|
+     |       .           ==========|
+     |       .           ==========|
+     |       .           ==========|
+     |       ..          ==========|
+     |        ...       ===========|
+     |          .....    ==========|
+      -----------------------------
+
+o C>l
+Dark Clump of Trees
+Aleister is resting here.
+Själv is sleeping here.
+
+o C>
+Donutello sings 'me and my roommates are too cheap to get cable so can't watch
+it on ESPN :('
+
+o C>time
+According to the Dúnadan calendar, it is:
+12pm on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+You feel your Master's influence decreasing.
+The sun is near its zenith, it's noon.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:05:43 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C>
+Venal narrates 'hmm trapped in sun. hobbit just ran passed me :) doh'
+
+o C>
+Själv wakes up.
+
+o C>
+Själv rests.
+
+o C>
+Reef narrates 'duh, silly boy'
+
+o C>narr hehe, we saw him too :P
+
+Venal narrates 'hehe nod'
+
+o C>Ok.
+
+o C>
+Aleister narrates 'Heheh, Hercules was trying to chase him :P'
+
+o C>sc
+197/197 hit, and 106/106 moves.
+
+o C>who a
+Ainur
+-----
+ [Mw] Manatark the Darklight  (Linkless)
+ [ M] Sprocket the Dog of Good and Evil 
+ [Mw] Eolung of the House of Eorl 
+ [Ms] Deor ! 
+ [ M] Raiden   (Idle)
+ [Mc] Dorn is mostly afk 
+ [Mc] Donutello thought of a cool title but it's too lon 
+ [ M] Humala - Fountain of Divine Wisdom  (Idle)
+
+8 players on.
+
+o C>pray can we get sanctuary? Us level 4-6 trollies are going to raid fnost
+You send your prayer to the Ainur.
+
+o C>l
+Dark Clump of Trees
+Aleister is resting here.
+Själv is resting here.
+
+o C>
+Själv narrates 'yea, in to the fakking sun!'
+
+o C>sc
+197/197 hit, and 106/106 moves.
+
+o C>sc
+197/197 hit, and 106/106 moves.
+
+o C>time
+According to the Dúnadan calendar, it is:
+1pm on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+You feel your Master's influence decreasing.
+The sun is near its zenith, it's noon.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:06:53 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C>whois spfthirty
+Spfthirty is a level ten Cave Troll Softskin.
+I am the proud inventor of Paleface-block, the newest development in Troll
+skin care.  I currently am looking for test subjects to test the effectiveness
+of the block on Trolls.  I happily report that tests with orcs and numenoreans
+were completely successful.  Not a single orc or numenorean sundied during the
+six-month test period!
+
+o C>
+Saving Hercules.
+
+o C>l
+Dark Clump of Trees
+Aleister is resting here.
+Själv is resting here.
+
+o C>sc
+197/197 hit, and 106/106 moves.
+
+o C>sc
+
+Donutello sings 'wow - 3 turnovers in 10 seconds'
+
+o C>197/197 hit, and 106/106 moves.
+
+o C>cha cla
+You may choose among the following titles:
+  Softskin
+  Sentry
+
+o C>cha cla softskin
+Ok.
+
+o C>l
+Dark Clump of Trees
+Aleister is resting here.
+Själv is resting here.
+
+o C>prac
+You have 0 practice sessions left.
+Skill / Spell          Knowledge  Difficulty Class      Mana Casting time
+Wilderness             Good       Normal     General   
+Bash                   Fair       Hard       Warrior   
+Concussion weapons     Good       Normal     Warrior   
+Endurance              Poor       Very hard  Warrior   
+Parry                  Poor       Normal     Warrior   
+
+o C>train all
+Nah... You feel too relaxed to do that..
+
+o C>st
+You stop resting, and stand up.
+
+o C>train all
+You start refreshing all of your skills...
+
+r
+Donutello sings 'first texas turns it over on downs, then oregon throws an
+interception then texas throws one on the very next play'
+
+None of your skills needed refreshing.
+
+o C>You sit down and rest your tired bones.
+
+o C>time
+According to the Dúnadan calendar, it is:
+2pm on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+You feel your Master's influence decreasing.
+According to the sun, it must be early in the afternoon.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:08:12 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C>watch 2pm
+emote points at his digital watch, it reads 2pm.
+Ok.
+
+o C>
+Kakarot narrates 'what a pile of crap that was'
+
+o C>
+Kakarot narrates 'well they shoulda tied it and bj drops 2 td's'
+
+o C HP:Fine>sc
+198/200 hit, and 107/108 moves.
+
+o C HP:Fine>stat
+OB: 56%, DB: -28%, PB: 18%, Armour: 0%. Wimpy: 0. Mood: aggressive.
+Needed: 9,353 xp, 0 tp. Gold: 0. Alert: normal.
+Affected by:
+- a light wound at the left leg.
+- novoid
+- a light wound at the body.
+
+o C HP:Fine>r
+You are already resting.
+
+o C>l
+Dark Clump of Trees
+Aleister is resting here.
+Själv is resting here.
+
+o C>pray we need a god to help raid fnost
+You send your prayer to the Ainur.
+
+o C>
+Aleister honks happily.
+
+o C>pray can you kill the gates for us when we get there?
+You send your prayer to the Ainur.
+
+o C>
+The Ainulindalë whispers to you 'was suppose to be a hero not a destructor'
+
+o C>pray i am a hero!
+You send your prayer to the Ainur.
+
+o C>
+The voice of Donutello whispers to you 'ok i have 7 labors for you - you can
+start with my laundry'
+
+o C>
+Saving Hercules.
+
+o C>
+Deor tells you 'You guys all playing from a lab or something?'
+
+o C>t deor umm, makeshift lab :P
+Ok.
+
+o C>time
+According to the Dúnadan calendar, it is:
+5pm on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+You feel your Master's influence decreasing.
+The sun is already low, it's the end of the afternoon.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:10:38 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C>exi
+North - The glare of the sun burns your eyes.
+East  - Dark Clump of Trees
+West  - The glare of the sun burns your eyes.
+
+o C>sc
+200/200 hit, and 108/108 moves.
+
+o C>l
+Dark Clump of Trees
+Aleister is resting here.
+Själv is resting here.
+
+o C>time
+According to the Dúnadan calendar, it is:
+5pm on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+You feel your Master's influence decreasing.
+The sun is already low, it's the end of the afternoon.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:11:16 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C>exi
+North - The glare of the sun burns your eyes.
+East  - Dark Clump of Trees
+West  - The glare of the sun burns your eyes.
+
+o C>time
+According to the Dúnadan calendar, it is:
+6pm on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+You feel your Master's influence decreasing.
+The sun is already low, it's the end of the afternoon.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:11:53 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C>l
+Dark Clump of Trees
+Aleister is resting here.
+Själv is resting here.
+
+o C>l
+Dark Clump of Trees
+Aleister is resting here.
+Själv is resting here.
+
+o C>time
+According to the Dúnadan calendar, it is:
+6pm on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+You feel your Master's influence decreasing.
+The sun is already low, it's the end of the afternoon.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:12:26 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C>
+Venal narrates 'oh my god.. I just 'fumbled' wtf was that about'
+
+o C>l
+Dark Clump of Trees
+Aleister is resting here.
+Själv is resting here.
+
+o C>exi
+North - The glare of the sun burns your eyes.
+East  - Dark Clump of Trees
+West  - The glare of the sun burns your eyes.
+
+o C>time
+According to the Dúnadan calendar, it is:
+7pm on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+You feel your Master's influence decreasing.
+The red sun in the west beams its last piercing rays.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:13:17 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C>
+Venal narrates 'u would think over 100% would prevent that :) hehe .. guess
+not'
+
+o C>time
+According to the Dúnadan calendar, it is:
+7pm on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+You feel your Master's influence decreasing.
+The red sun in the west beams its last piercing rays.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:13:32 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C>
+The sun slowly disappears in the west.
+
+o C>time
+According to the Dúnadan calendar, it is:
+8pm on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+The sun is slowly disappearing in the west.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:13:38 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C>st
+You are already standing.
+
+o C>wa
+w
+You are already awake...
+
+o C>Thorny Scrubland
+Exits: ^North^ East ^West^.
+
+* C>n
+Chalk Plains
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+* C>w
+w
+Plains by the Hedge
+A lone hawk soars high above you.
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+* C>w
+Plains by the Hedge
+Exits: ^North^ ^East^.
+
+* C>w
+Alas, you cannot go that way...
+
+<< some dirs later>>
+
+* C>w
+The Old East Road
+Exits: ^East^ ^West^.
+
+* C>w
+Venal narrates 'hehe'
+
+w
+The Old East Road
+Exits: ^East^ ^South^ ^West^.
+
+* C>Border of the Lone-lands
+A grey hare stands alert, looking and listening for predators.
+A hardened ranger is walking around, looking for tracks.
+Exits: ^North^ ^East^ ^South^ ^West^.
+You smell blood.
+You suddenly notice a hardened ranger.                            
+A hardened ranger hits Själv's left leg extremely hard. <<  DOH!!! POOR Själv!!!>>
+A hardened ranger hits Själv's body very hard.
+A grey wolf has arrived from the south.
+A starved grey wolf has arrived from the south.
+
+* C>w
+The Formen-Rómen Trail
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+* C>w
+w
+Old East Road
+Exits: ^East^ ^West^.
+
+* C>w
+Old East Road
+Exits: ^North^ ^East^ ^West^.
+You suddenly notice a mean brigand.
+You suddenly notice a mean brigand.
+You smell blood.
+
+* C>w
+Old East Road
+Exits: ^East^ ^West^.
+
+* C>w
+Old East Road
+Exits: ^East^ ^West^.
+
+* C>w
+Old East Road
+Exits: ^North^ ^East^.
+
+* C>w
+Alas, you cannot go that way...
+
+* C>n
+Alas, you cannot go that way...
+
+o C Move:Slow>w
+Old East Road
+A black hood lies on the ground.
+A black pair of pants are on the ground.
+A black shirt is on the ground.
+The snake slithers towards you.
+Exits: ^East^ ^West^.
+
+o C Move:Slow>w
+Old East Road
+Exits: ^North^ ^East^.
+
+o C Move:Slow>w
+Alas, you cannot go that way...
+
+o C Move:Slow>n
+
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+
+o C Move:Slow>w
+Old East Road Crossing
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+o C Move:Slow>w
+Old East Road
+Exits: ^North^ ^East^.
+
+o C Move:Slow>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Slow>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Slow>wc
+w
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Slow>n
+Alas, you cannot go that way...
+
+o C Move:Slow>w
+Old East Road
+A pair of thin leather gloves are lying here.
+A thin pair of soft leather boots are on the ground.
+Exits: ^North^ ^South^ ^West^.
+
+o C Move:Slow>w
+Road out of Breeland
+Exits: ^East^ ^West^.
+
+o C Move:Slow>w
+Well Kept Road
+Exits: ^East^ ^West^.
+
+o C Move:Slow>w
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+Junction
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+o C Move:Slow>w
+Paved Road
+Exits: ^East^ ^West^.
+
+o C Move:Slow>Paved Road
+Exits: ^East^ ^West^.
+
+o C Move:Slow>Paved Road
+Exits: ^East^ ^West^.
+
+o C Move:Slow>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Weak>w
+w
+Bend in the Road
+Exits: ^North^ ^East^.
+
+o C Move:Weak>Alas, you cannot go that way...
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+
+o C Move:Weak>n
+Paved Road
+Exits: ^North^ ^South^.
+
+o C Move:Weak>n
+Paved Road
+Exits: ^North^ ^South^.
+
+o C Move:Weak>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Weak>n
+
+*an Orc* yells 'gate'
+
+o C Move:Weak>Connecting Paved Road
+Exits: ^North^ ^South^.
+
+o C Move:Weak>wc
+
+*an Orc* yells 'shit'
+
+o C Move:Weak>n
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Weak>
+*an Orc* yells 'coze'
+
+o C Move:Weak>wc
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*a Man* is here, riding a trained horse.
+*an Elf* is standing here.
+*a Man* is standing here.
+*a Man* is standing here.
+*a noble Elf* is here, riding a pack horse (Shrouded).
+Exits: ^East^ ^South^ ^West^.
+You smell blood.
+
+* C Move:Weak>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C Move:Weak>w
+
+*an Orc* yells 'oermg'
+
+* C Move:Weak>cw
+Large Road
+Exits: ^East^ ^West^.
+
+o C Move:Weak>wc
+Arglebargle, glop-glyf!?!
+
+o C Move:Weak>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Weak>wc
+
+*an Orc* yells '!!!!!!!!!!!!!!!!'
+
+o C Move:Weak>e
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Weak>West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*a Man* is here, riding a trained horse.
+*an Elf* is standing here.
+*a Man* is standing here.
+*a Man* is standing here.
+*a noble Elf* is here, riding a pack horse (Shrouded).
+Exits: ^East^ ^South^ ^West^.
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+
+wc
+* C Move:Weak>1
+*a Man* leaves east riding a trained horse.
+*an Elf* leaves east.
+*a Man* leaves east.
+*a Man* leaves east.
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C Move:Weak>* C Move:Fainting *a noble Elf*:Healthy>
+k *elf*
+You try to crush *a noble Elf*, but he parries successfully.
+
+wc
+* C Move:Fainting *a noble Elf*:Healthy>
+You suddenly notice *a Hobbit*.
+*Mammoth the Orc* and *an Orc* have arrived from the west riding a hungry
+warg.
+
+* C Move:Fainting *a noble Elf*:Healthy>
+*an Orc* throws back his head and cackles with insane glee!
+
+* C Move:Fainting *a noble Elf*:Healthy>
+*a Hobbit* leaves east.
+
+wc
+* C Move:Fainting *a noble Elf*:Healthy>
+*a noble Elf* strongly pierces your left arm and tickles it.
+
+1
+* C HP:Fine Move:Fainting *a noble Elf*:Healthy>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+*a noble Elf* swiftly dodges Aleister's attempt to hit him.
+*Mammoth the Orc* and *an Orc* leave west riding a hungry warg.   <<<< WHAT THE HELL???>>>
+*a noble Elf* panics, and attempts to flee.                        <<< There are ORCS here?!>>
+*a noble Elf* leaves east riding a pack horse.
+
+o C HP:Fine Move:Fainting>*an Orc* has arrived from the west riding a hungry warg.
+*a dreadful Orc* has arrived from the west riding a hungry warg.
+*an Orc* has arrived from the west riding a hungry warg.
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C HP:Fine Move:Fainting>wc
+k *elf*
+They aren't here.
+
+o C HP:Fine Move:Fainting>wc
+*a noble Elf* has arrived from the east riding a pack horse.
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C HP:Fine Move:Fainting>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+*a noble Elf* leaves east riding a pack horse.
+
+o C HP:Fine Move:Fainting>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C HP:Fine Move:Exhausted>2
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C HP:Fine Move:Exhausted>
+*a dreadful Orc* gurgles 'rot'
+
+o C HP:Fine Move:Exhausted>3
+k *man*
+They aren't here.
+
+o C HP:Fine Move:Exhausted>s
+k *dwarf*
+They aren't here.
+
+o C HP:Fine Move:Exhausted>wc
+You are too exhausted.
+
+o C HP:Fine Move:Exhausted>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+You are too tired to yell.
+
+o C HP:Fine Move:Exhausted>1
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+You are too tired to yell.
+*Mammoth the Orc* and *an Orc* have arrived from the west riding a hungry
+warg.
+*a dreadful Orc* gurgles 'rotfl'
+
+o C HP:Fine Move:Exhausted>k *elf*
+They aren't here.
+
+o C HP:Fine Move:Exhausted>1
+2
+k *elf*
+They aren't here.
+
+o C HP:Fine Move:Exhausted>3
+k *man*
+They aren't here.
+
+o C HP:Fine Move:Exhausted>1
+k *dwarf*
+They aren't here.
+*a dreadful Orc* gurgles 'heheh'
+
+o C HP:Fine Move:Exhausted>k *elf*
+They aren't here.
+
+o C HP:Fine Move:Exhausted>l
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+Aleister is standing here.
+*an Orc* is here, riding a hungry warg.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*Mammoth the Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg driven by *Mammoth the Orc*.
+
+o C HP:Fine Move:Exhausted>
+*an Orc* throws back his head and cackles with insane glee!
+
+o C HP:Fine Move:Exhausted>cac
+You cackle gleefully.
+
+o C HP:Fine Move:Exhausted>
+Aleister says 'hi'
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* gets a bastard sword from a leather backpack.
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* stops using an engraved broadsword.
+*a dreadful Orc* masterfully draws a bastard sword.
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* puts an engraved broadsword in a leather backpack.
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* stops using a forest green cloak.
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* gets a black warg fur from a leather backpack.
+
+o C HP:Fine Move:Fainting>
+*an Orc* slurs, ehya
+*a dreadful Orc* wears a black warg fur about his body.
+
+o C HP:Fine Move:Fainting>sa hullo
+
+*a dreadful Orc* puts a forest green cloak in a leather backpack.
+
+o C HP:Fine Move:Fainting>Ok.
+
+o C HP:Fine Move:Fainting>
+*Mammoth the Orc* says: what levels you
+
+o C HP:Fine Move:Fainting>
+*an Orc* slurs, lets charge em?
+Donutello sings 'oregon took an intentional safety'
+
+o C HP:Fine Move:Fainting>
+Reef narrates 'well i'll be buggered'
+
+o C HP:Fine Move:Fainting>
+Aleister says '5'
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* gurgles 'they lowbies'
+
+o C HP:Fine Move:Fainting>
+*Mammoth the Orc* giggles.
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* giggles.
+
+o C HP:Fine Move:Fainting>sa level 6
+l
+Ok.
+
+o C HP:Fine Move:Fainting>West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+Aleister is standing here.
+*an Orc* is here, riding a hungry warg.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*Mammoth the Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg driven by *Mammoth the Orc*.
+
+o C HP:Fine Move:Fainting>
+*an Orc* falls down laughing.
+
+o C HP:Fine Move:Fainting>
+Aleister smiles viciously.
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* gurgles 'hehe'
+
+o C HP:Fine Move:Fainting>
+*a Man* yells 'no'
+*an Orc* giggles.
+
+o C Move:Fainting>
+*an Orc* yells 'cmon!'
+
+o C Move:Fainting>
+*a dreadful Orc* gurgles 'what fags'
+
+o C Move:Weak>wc
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Fainting>
+*a dreadful Orc* gurgles 'rotfl'
+
+o C Move:Weak>
+*a Man* yells 'fuck you'
+
+o C Move:Weak>
+Saving Hercules.
+
+o C Move:Weak>
+*Mammoth the Orc* says: spam em 8P
+
+o C Move:Weak>
+*a dreadful Orc* gurgles 'hehehe'
+
+o C Move:Weak>
+*an Orc* slurs, hehe
+
+o C Move:Weak>
+*a noble Elf* yells 'yell mure a need to learn morbeth'
+Aleister smiles viciously.
+
+o C Move:Weak>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Weak>
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+
+o C Move:Weak>l
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+Aleister is standing here.
+*an Orc* is here, riding a hungry warg.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*Mammoth the Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg driven by *Mammoth the Orc*.
+
+o C Move:Weak>
+*an Elf* yells 'fuck you batch!!!!!!!!!!!'
+*a dreadful Orc* gurgles 'hehehe'
+
+o C Move:Weak>
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+
+o C Move:Weak>
+*an Elf* yells 'fuck yoo bitch!!!!!!!!!!!'
+
+o C Move:Weak>
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+
+o C Move:Weak>
+*an Orc* yells 'trollies lawbaa'
+
+o C Move:Weak>w
+Large Road
+Exits: ^East^ ^West^.
+
+o C Move:Weak>e
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*an Orc* is here, riding a hungry warg.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*Mammoth the Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg driven by *Mammoth the Orc*.
+Exits: ^East^ ^South^ ^West^.
+wc
+*an Orc* yells 'cmon!'
+
+o C Move:Weak>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+*a dreadful Orc* gurgles 'who are these trolls? you rock'
+
+o C Move:Weak>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Weak>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Weak>
+*an Orc* giggles.
+
+o C Move:Weak>
+*a dreadful Orc* gurgles 'hehehe'
+
+o C Move:Weak>
+*an Orc* slurs, go hit em
+
+o C Move:Weak>time
+According to the Dúnadan calendar, it is:
+10pm on Hevensday, the 12th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+It must be the middle of the night.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:16:20 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C Move:Weak>
+*an Orc* giggles.
+
+o C Move:Weak>l
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*an Orc* is here, riding a hungry warg.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*Mammoth the Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg driven by *Mammoth the Orc*.
+Aleister is standing here.
+
+o C Move:Weak>
+Aleister leaves east.
+
+o C Move:Weak>
+*a dreadful Orc* gurgles 'trolls storm e?'
+
+o C Move:Weak>sa what now?
+Ok.
+
+o C Move:Weak>
+*a dreadful Orc* giggles.
+
+o C Move:Weak>
+*an Orc* falls down laughing.
+
+o C Move:Weak>
+*Mammoth the Orc* giggles.
+
+o C Move:Weak>
+*an Orc* slurs: well he's dead
+
+o C Move:Weak>
+Aleister has arrived from the east.
+
+o C Move:Weak>l
+
+*an Orc* giggles.
+
+o C Move:Weak>
+*Mammoth the Orc* says: trolls first!
+
+o C Move:Weak>West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*an Orc* is here, riding a hungry warg.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*Mammoth the Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg driven by *Mammoth the Orc*.
+Aleister is standing here.
+
+o C Move:Weak>
+*an Elf* yells 'laflkjogfy!!!!!!!!!!!!lkjopafjlkdfoisdof!!!!!!!! fock the trolls!!!!!!1'
+
+o C Move:Weak>
+*a dreadful Orc* gurgles 'what a badass'
+
+o C Move:Weak>
+*a Man* has arrived from the east riding a trained horse.
+*an Elf* has arrived from the east.
+*a Man* has arrived from the east.
+*a Man* has arrived from the east.
+
+* C Move:Weak>
+*a Man* pounds your right leg extremely hard.
+*a dreadful Orc* gives a round of applause.
+
+* C HP:Fine Move:Weak *a Man*:Healthy>
+*Mammoth the Orc* says: hehe
+You crush *a Man*'s head extremely hard and tickle it.
+
+* C HP:Fine Move:Weak *a Man*:Fine>
+*Mammoth the Orc* smites *an Elf*'s head very hard.
+
+* C HP:Fine Move:Weak *a Man*:Fine>e
+
+*a dreadful Orc* strongly slashes *a Man*'s right foot and tickles it.
+*an Orc* smites *an Elf*'s left hand hard.
+Aleister smiles viciously.
+
+* C HP:Fine Move:Weak *a Man*:Fine>1
+No way! You are fighting for your life!
+*a noble Elf* has arrived from the east riding a pack horse.
+*an Orc* falls down laughing.
+*an Elf* barely pierces *Mammoth the Orc*'s body and tickles it.
+
+* C HP:Fine Move:Weak *a Man*:Fine>k *elf*
+You're already fighting!
+
+* C HP:Fine Move:Weak *a Man*:Fine>1
+
+*an Elf* begins some strange incantations...
+
+* C HP:Fine Move:Weak *a Man*:Fine>
+*an Orc* pounds *a Man*'s body extremely hard and tickles it.
+
+* C HP:Fine Move:Weak *a Man*:Fine>23
+k *elf*
+You're already fighting!
+
+* C HP:Fine Move:Weak *a Man*:Fine>Arglebargle, glop-glyf!?!
+
+* C HP:Fine Move:Weak *a Man*:Fine>
+*a noble Elf* utters the words 'qahijf gsfal'
+
+* C HP:Fine Move:Weak *a Man*:Fine>cw
+Arglebargle, glop-glyf!?!
+*a Man* utters the word 'pabraw'
+*a Man* raises his voice and ancient powers make *Mammoth the Orc* twist in
+pain.
+
+* C HP:Fine Move:Weak *a Man*:Fine>wc
+
+*a Man* begins some strange incantations...
+
+* C HP:Fine Move:Weak *a Man*:Fine>wc
+wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C HP:Fine Move:Weak *a Man*:Fine>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+*an Elf* panics, and attempts to flee.
+*an Elf* leaves west.
+*an Orc* tries to smite *a noble Elf*, but he parries successfully.
+
+* C HP:Fine Move:Weak *a Man*:Fine>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C HP:Fine Move:Weak *a Man*:Fine>
+Aleister tries to hit *a noble Elf*, but he parries successfully.
+
+* C HP:Fine Move:Weak *a Man*:Fine>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C HP:Fine Move:Weak *a Man*:Fine>1
+
+*a dreadful Orc* sends *a Man* sprawling with a powerful bash.
+
+* C HP:Fine Move:Weak *a Man*:Fine>2
+
+*an Elf* has arrived from the west.
+
+* C HP:Fine Move:Weak *a Man*:Fine>k *elf*
+You're already fighting!
+*a Man* utters the word 'pabraw'
+
+*a Man* raises his voice and ancient powers make *Mammoth the Orc* twist in
+pain.
+*an Orc* pounds *a Man*'s head extremely hard.
+
+* C HP:Fine Move:Weak *a Man*:Fine>3
+*an Orc* leaves east riding a hungry warg.
+k *man*
+You're already fighting!
+*an Elf* leaves east.
+
+* C HP:Fine Move:Weak *a Man*:Fine>4
+k *dwarf*
+They aren't here.
+
+* C HP:Fine Move:Weak *a Man*:Fine>
+*a noble Elf* panics, and attempts to flee.
+*a noble Elf* leaves south riding a pack horse.
+
+* C HP:Fine Move:Weak *a Man*:Fine>1
+k *hobbit*
+They aren't here.
+
+* C HP:Fine Move:Weak *a Man*:Fine>2
+k *elf*
+They aren't here.
+You crush *a Man*'s left leg very hard and tickle it.
+
+* C HP:Fine Move:Weak *a Man*:Fine>1
+*a Man* begins some strange incantations...
+k *man*
+You're already fighting!
+
+* C HP:Fine Move:Weak *a Man*:Fine>
+*an Orc* has arrived from the east riding a hungry warg.
+
+* C HP:Fine Move:Weak *a Man*:Fine>*a noble Elf* has arrived from the south riding a pack horse.
+*an Orc* leaves west riding a hungry warg.
+k *elf*
+You're already fighting!
+
+* C HP:Fine Move:Weak *a Man*:Fine>
+A hungry warg panics, and throws *an Orc* off
+*Mammoth the Orc* leaves east riding a hungry warg.
+
+* C HP:Fine Move:Weak *a Man*:Fine>
+*Mammoth the Orc* has arrived from the east riding a hungry warg.
+*a dreadful Orc* slashes *a Man*'s head extremely hard.
+
+* C HP:Fine Move:Weak *a Man*:Hurt>wc
+
+*a Man* panics, and attempts to flee.
+*a Man* leaves west.
+
+* C HP:Fine Move:Weak *a Man*:Hurt>1
+
+Aleister tries to hit *a noble Elf*, but he parries successfully.
+*a dreadful Orc* sighs loudly.
+
+* C HP:Fine Move:Weak *a Man*:Hurt>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+*a noble Elf* begins some strange incantations...
+
+* C HP:Fine Move:Weak *a Man*:Hurt>* C HP:Fine Move:Weak *a Man*:Hurt>
+k *elf*
+Alas! You failed to reach him through the melee.
+*a dreadful Orc* panics, and attempts to flee.
+*a dreadful Orc* leaves west riding a hungry warg.
+*a noble Elf* pierces Aleister's left leg and shatters it.
+
+2
+* C HP:Fine Move:Weak *a Man*:Hurt>3
+
+*a Man* has arrived from the west.
+
+1
+* C HP:Fine Move:Weak *a Man*:Hurt>
+*a noble Elf* panics, and attempts to flee.
+*a noble Elf* leaves south riding a pack horse.
+
+* C HP:Fine Move:Weak *a Man*:Hurt>
+*a Man* leaves east.
+
+* C HP:Fine Move:Weak *a Man*:Hurt>k *man*
+You're already fighting!
+
+* C HP:Fine Move:Weak *a Man*:Hurt>2
+k *dwarf*
+They aren't here.
+
+* C HP:Fine Move:Weak *a Man*:Hurt>k *elf*
+They aren't here.
+*a Man* seems to have recovered his senses.
+You crush *a Man*'s left arm extremely hard.
+
+* C HP:Fine Move:Fainting *a Man*:Hurt>3
+*a Man* has arrived from the east.
+k *man*
+You're already fighting!
+*a noble Elf* has arrived from the south riding a pack horse.
+*a Man* panics, and attempts to flee.
+*a Man* leaves south riding a trained horse.
+*Mammoth the Orc* strongly smites *a noble Elf*'s right leg and tickles it.
+
+* C HP:Fine Move:Fainting>4
+
+*an Orc* has arrived from the west riding a hungry warg.
+
+* C HP:Fine Move:Fainting>k *dwarf*
+They aren't here.
+*a Man* begins some strange incantations...
+
+* C HP:Fine Move:Fainting>
+*an Orc* smites *a Man*'s left leg extremely hard.
+*a dreadful Orc* has arrived from the west riding a hungry warg.
+*a noble Elf* barely pierces *Mammoth the Orc*'s body and tickles it.
+
+* C HP:Fine Move:Fainting>1
+k *hobbit*
+They aren't here.
+
+* C HP:Fine Move:Fainting>* C HP:Fine Move:Fainting>
+k *elf*
+You approach *a noble Elf*, trying to crush him.
+*a noble Elf* panics, and attempts to flee.
+*a noble Elf* leaves south riding a pack horse.
+*a Man* pounds *an Orc*'s left foot extremely hard.
+
+2
+* C HP:Fine Move:Fainting>1
+
+*an Orc* panics, and attempts to flee.
+*an Orc* leaves west riding a hungry warg.
+*a Man* utters the word 'pabraw'
+*a Man* raises his voice and ancient powers make *Mammoth the Orc* twist in
+pain.
+*a Man* slashes *Mammoth the Orc*'s right hand.
+
+* C HP:Fine Move:Fainting>agg
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Healthy>
+*a Man* approaches *an Orc*, trying to pound him.
+k *man*
+You approach *a Man*, trying to crush him.
+
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Healthy>1
+
+You begin to see some clouds.
+
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Healthy>2
+
+You crush *a Man*'s left arm extremely hard and tickle it.
+*Mammoth the Orc* panics, and attempts to flee.
+*Mammoth the Orc* leaves south riding a hungry warg.
+
+* C HP:Fine Move:Fainting *a Man*:Fine *an Orc*:Healthy>3
+
+*a Man* panics, and attempts to flee.
+*a Man* leaves south.
+
+* C HP:Fine Move:Fainting *a Man*:Fine *an Orc*:Healthy>w
+k *elf*
+They aren't here.
+*an Orc* pounds *a Man*'s right hand extremely hard.
+
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Healthy>cha moo agg
+Ok.
+*a Man* has arrived from the south.
+
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Healthy>k *elf*
+They aren't here.
+*a Man* leaves east.
+
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Healthy>wc
+1
+k *man*
+You're already fighting!
+
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Healthy>k *dwarf*
+They aren't here.
+
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Healthy>No way! You are fighting for your life!
+*a dreadful Orc* slashes *a Man*'s body extremely hard.
+
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Healthy>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+You are too tired to yell.
+
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Healthy>2
+k *elf*
+They aren't here.
+*an Orc* has arrived from the west riding a hungry warg.
+
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Healthy>k *man*
+You're already fighting!
+
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Healthy>wc
+
+*a Man* has arrived from the south riding a trained horse.
+*a Man* sends *an Orc* sprawling with a powerful bash.
+
+* C HP:Fine Move:Exhausted *a Man*:Fine *an Orc*:Fine>2
+*a Man* panics, and attempts to flee.
+*a Man* leaves east.
+*a Man* has arrived from the east.
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+You are too tired to yell.
+
+* C HP:Fine Move:Exhausted>
+*a Man* leaves east riding a trained horse.
+*a Man* leaves east.
+
+o C HP:Fine Move:Exhausted>3
+k *man*
+They aren't here.
+
+o C HP:Fine Move:Exhausted>k *dwarf*
+They aren't here.
+
+o C HP:Fine Move:Exhausted>1
+k *elf*
+They aren't here.
+
+o C HP:Fine Move:Exhausted>2
+z
+k *man*
+They aren't here.
+
+o C HP:Fine Move:Exhausted>ass aleister
+You cannot assist someone who is not fighting.
+
+o C HP:Fine Move:Exhausted>l
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is standing here.
+Aleister is standing here.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+
+o C HP:Fine Move:Exhausted>l
+
+*an Orc* leaves west riding a hungry warg.
+*a dreadful Orc* yells 'laugh'
+
+o C HP:Fine Move:Exhausted>West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is standing here.
+Aleister is standing here.
+*a dreadful Orc* is here, riding a hungry warg.
+
+* C HP:Fine Move:Exhausted>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C HP:Fine Move:Exhausted>
+*a dreadful Orc* yells 'pathetic'
+
+* C HP:Fine Move:Exhausted>
+*an Orc* seems to have recovered his senses.
+
+o C HP:Fine Move:Exhausted>
+*an Orc* falls down laughing.
+
+o C HP:Fine Move:Exhausted>
+*an Orc* giggles.
+
+o C HP:Fine Move:Exhausted>
+*a Half-Elf* yells 'SHUT UP'
+
+o C HP:Fine Move:Fainting>
+*an Orc* slurs, yeah it was
+
+o C HP:Fine Move:Fainting>
+*an Orc* grumbles :  that as funny
+
+o C HP:Fine Move:Fainting>
+*Mammoth the Orc* has arrived from the south riding a hungry warg.
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* drinks water from a water skin.
+
+o C HP:Fine Move:Fainting>
+Aleister says 'fun fun'
+
+o C HP:Fine Move:Fainting>l
+*a dreadful Orc* begins some strange incantations...
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is standing here.
+Aleister is standing here.
+*a dreadful Orc* is here trying to concentrate, riding a hungry warg.
+*Mammoth the Orc* is here, riding a hungry warg.
+
+o C HP:Fine Move:Fainting>
+*Mammoth the Orc* says: cure
+
+o C HP:Fine Move:Fainting>laugh
+
+*an Orc* begins some strange incantations...
+
+o C HP:Fine Move:Fainting>You fall down laughing.
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+*a dreadful Orc* utters the words 'judicandus dies'
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* begins some strange incantations...
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+
+o C HP:Fine Move:Fainting>
+*an Orc* utters the words 'judicandus dies'
+
+o C HP:Fine Move:Fainting>
+*an Orc* begins some strange incantations...
+
+o C HP:Fine Move:Fainting>
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+*a dreadful Orc* utters the words 'judicandus dies'
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* begins some strange incantations...
+
+o C HP:Fine Move:Fainting>cw
+cw
+Arglebargle, glop-glyf!?!
+
+o C HP:Fine Move:Fainting>cw
+Arglebargle, glop-glyf!?!
+*an Orc* mounts on a hungry warg, and begins riding it.
+*an Orc* utters the words 'judicandus dies'
+
+o C HP:Fine Move:Fainting>Arglebargle, glop-glyf!?!
+*a dreadful Orc* utters the words 'judicandus dies'
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* begins some strange incantations...
+*an Orc* begins some strange incantations...
+
+o C HP:Fine Move:Fainting>wc
+wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C HP:Fine Move:Fainting>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* utters the words 'judicandus dies'
+*an Orc* utters the words 'judicandus dies'
+*an Orc* has arrived from the west riding a hungry warg.
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* begins some strange incantations...
+
+o C HP:Fine Move:Fainting>
+*a dreadful Orc* utters the words 'judicandus dies'
+
+o C HP:Fine Move:Fainting>
+*Mammoth the Orc* says: me too
+*an Orc* begins some strange incantations...
+
+o C HP:Fine Move:Fainting>
+*a Half-Elf* yells 'DUMB FUCK SHOT THE FUCK UP'
+*an Orc* giggles.
+
+o C HP:Fine Move:Fainting>
+*an Orc* utters the words 'judicandus dies'
+
+o C HP:Fine Move:Fainting>
+*an Orc* begins some strange incantations...
+
+o C HP:Fine Move:Fainting>
+*an Orc* utters the words 'judicandus dies'
+
+o C HP:Fine Move:Weak>
+*an Orc* begins some strange incantations...
+
+o C HP:Fine Move:Weak>
+*an Orc* utters the words 'judicandus dies'
+
+o C HP:Fine Move:Weak>l
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg driven by *an Orc*.
+Aleister is standing here.
+*a dreadful Orc* is here, riding a hungry warg.
+*Mammoth the Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+
+* C HP:Fine Move:Weak>
+*an Orc* yells 'nuckeng molonh'
+
+o C HP:Fine Move:Weak>
+*an Orc* giggles.
+
+o C HP:Fine Move:Weak>
+*Mammoth the Orc* yells 'yau guys vick!'
+*an Orc* yells 'boll him'
+
+o C HP:Fine Move:Weak>
+*a dreadful Orc* yells 'you'
+
+o C HP:Fine Move:Weak>
+*an Orc* yells 'then fe'
+
+o C HP:Fine Move:Weak>
+*a dreadful Orc* yells 'suck'
+
+o C HP:Fine Move:Weak>
+*an Orc* yells 'shuts'
+
+o C HP:Fine Move:Weak>
+*an Orc* smiles viciously at *an Orc*.
+
+o C HP:Fine Move:Weak>l
+
+*an Orc* yells 'up'
+
+o C HP:Fine Move:Weak>West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg driven by *an Orc*.
+Aleister is standing here.
+*a dreadful Orc* is here, riding a hungry warg.
+*Mammoth the Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+
+o C HP:Fine Move:Weak>
+*a dreadful Orc* gurgles 'lets xp'
+
+o C HP:Fine Move:Weak>
+*a dreadful Orc* gurgles 'they are bree legends'
+
+o C Move:Weak>
+*an Orc* licks his mouth and smiles.
+*an Orc* giggles.
+
+o C Move:Weak>
+*an Orc* slurs, hehe
+
+o C Move:Weak>
+*an Orc* grumbles :  i kicked their asses
+
+o C Move:Weak>
+*a dreadful Orc* whispers to you sweet words of love.
+
+o C Move:Weak>rem skin
+
+*a dreadful Orc* nods in agreement with *an Orc*.
+
+o C Move:Weak>You stop using a water skin.
+
+o C Move:Weak>
+*an Elf* yells 'fock those bastards yn the eye!!!!!!!!!!!'
+*a dreadful Orc* gurgles 'i saw'
+
+o C Move:Weak>
+*Mammoth the Orc* says: ate some harms
+
+o C Move:Weak>
+*an Orc* falls down laughing.
+
+o C Move:Weak>drop skin
+*an Orc* slurs, ehe
+You drop the skin.
+
+o C Move:Weak>cw
+Arglebargle, glop-glyf!?!
+
+o C Move:Weak>
+*an Orc* slurs: i ate buncha spells
+
+o C Move:Weak>
+Aleister drinks water from a water skin.
+
+o C Move:Weak>
+*a dreadful Orc* gurgles 'i saw em'
+
+o C Move:Weak>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+*a dreadful Orc* giggles.
+
+o C Move:Weak>
+*an Orc* slurs, from where
+
+o C Move:Weak>
+It starts to rain.
+
+o C Move:Weak>
+*an Orc* slurs, er who
+
+o C Move:Weak>
+*an Orc* grumbles :  you see that shit i did to em?
+
+o C Move:Weak>get skin
+wear skin
+
+*Mammoth the Orc* says: i gotta rent
+
+o C Move:Weak>*a dreadful Orc* nods in agreement with *an Orc*.
+You get a water skin.
+
+o C Move:Weak>You fasten a water skin on your belt.
+
+o C Move:Weak>rem skin
+
+*a dreadful Orc* makes a snoring noise to *Mammoth the Orc*, letting him know
+that his talk is tiresome.
+
+o C Move:Weak>
+*an Orc* grumbles :  anal rape
+
+o C Move:Weak>You stop using a water skin.
+
+o C Move:Weak>
+Reef narrates 'woohoo I got the last 2 tix to Embrace 2001'
+
+o C Move:Weak>
+*a dreadful Orc* gurgles '1 more hour'
+
+o C Move:Weak>
+*Mammoth the Orc* leaves south riding a hungry warg.
+
+o C Move:Weak>wear skin belt
+You fasten a water skin on your belt.
+
+o C Move:Slow>l
+wc
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg driven by *an Orc*.
+Aleister is standing here.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+
+o C Move:Slow>
+*an Orc* giggles.
+
+o C Move:Slow>
+*a dreadful Orc* blinks his eyes innocently.
+
+o C Move:Slow>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+*an Orc* slurs, awww
+
+o C Move:Slow>
+*an Orc* giggles.
+
+o C Move:Slow>
+*a dreadful Orc* gurgles 'that's a shame'
+
+o C Move:Slow>
+Kakarot narrates 'its not over yet boys'
+
+o C Move:Slow>sc
+200/200 hit, and 17/108 moves.
+
+o C Move:Slow>l
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg driven by *an Orc*.
+Aleister is standing here.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+
+o C Move:Slow>
+*an Orc* grumbles :  zoser on my warg!
+
+o C Move:Slow>time
+
+*an Orc* grumbles :  no turning back now!
+
+o C Move:Slow>According to the Dúnadan calendar, it is:
+12am on Mersday, the 13th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+It must be the middle of the night.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:18:26 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C Move:Slow>
+*a dreadful Orc* gurgles '1 legend on'
+
+o C Move:Slow>
+Reef narrates 'what isnt?'
+*an Orc* and *an Orc* leave west riding a hungry warg.
+
+o C Move:Slow>
+*a dreadful Orc* gives a round of applause.
+*an Orc* and *an Orc* have arrived from the west riding a hungry warg.
+
+o C Move:Slow>sa we go raid?
+
+Kakarot narrates 'the game'
+
+o C Move:Slow>Ok.
+
+o C Move:Slow>
+*an Orc* slurs, go junction
+*an Elf* yells 'SPEYK ENGLASH IOU FUCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1'
+
+o C Move:Slow>
+*an Orc* slurs, fast
+
+o C Move:Slow>
+*an Orc* and *an Orc* leave south riding a hungry warg.
+
+o C Move:Slow>
+*an Orc* yells 'CMON wigdy zuckz'
+
+o C Move:Slow>wc
+
+Aleister says 'hide in cave somewhere?'
+
+o C Move:Slow>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Slow>
+Reef narrates 'which game?'
+
+o C Move:Slow>
+*a dreadful Orc* leaves south riding a hungry warg.
+*an Orc* leaves south riding a hungry warg.
+
+o C Move:Slow>l
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+Aleister is standing here.
+
+o C Move:Slow>s
+Connecting Paved Road
+Exits: ^North^ ^South^.
+
+o C Move:Slow>s
+Paved Road
+Exits: ^North^ ^South^.
+
+o C Move:Slow>s
+Paved Road
+Exits: ^North^ ^South^.
+
+o C Move:Slow>s
+Bend in the Road
+Exits: ^North^ ^East^.
+
+o C Move:Slow>e
+Paved Road
+*an Orc* is here, riding a hungry warg.
+Exits: ^East^ ^West^.
+*an Orc* leaves west riding a hungry warg.
+
+o C Move:Slow>e
+
+Kakarot narrates 'but fat lady is warming up'
+*an Orc* has arrived from the east riding a hungry warg.
+
+o C Move:Slow>
+Saving Hercules.
+
+o C Move:Slow>Paved Road
+Exits: ^East^ ^West^.
+
+o C Move:Slow>e
+
+*an Orc* has arrived from the west riding a hungry warg.
+
+o C Move:Slow>Paved Road
+Exits: ^East^ ^West^.
+
+o C Move:Slow>
+*an Orc* has arrived from the west riding a hungry warg.
+
+o C Move:Slow>
+*an Orc* leaves east riding a hungry warg.
+
+o C Move:Slow>e
+Junction
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+o C Move:Slow>n
+South of Bree
+Exits: North ^South^.
+
+o C Move:Slow>s
+Junction
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+o C Move:Slow>
+*an Orc* nods solemnly.
+
+o C Move:Slow>
+*a dreadful Orc* gurgles 'why did we go here fast?'
+
+o C Move:Slow>
+*a dreadful Orc* giggles.
+
+o C Move:Slow>
+A hungry warg has been kicked out of the group!
+
+o C Move:Slow>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C Move:Slow>
+A hungry warg is now a group member.
+
+o C Move:Slow>
+*a dreadful Orc* leaves west riding a hungry warg.
+*an Orc* leaves west riding a hungry warg.
+*an Orc* leaves west riding a hungry warg.
+
+o C Move:Slow>l
+Junction
+Aleister is standing here.
+
+o C Move:Slow>w
+Paved Road
+Exits: ^East^ ^West^.
+
+o C Move:Slow>w
+Paved Road
+Exits: ^East^ ^West^.
+
+o C Move:Weak>w
+Paved Road
+Exits: ^East^ ^West^.
+
+o C Move:Weak>n
+w
+Alas, you cannot go that way...
+
+o C Move:Weak>n
+Aleister yells 'Eat my pooh!!!!!!'
+Bend in the Road
+Exits: ^North^ ^East^.
+
+o C Move:Weak>Paved Road
+Exits: ^North^ ^South^.
+
+o C Move:Weak>n
+Paved Road
+Exits: ^North^ ^South^.
+
+o C Move:Weak>n
+Connecting Paved Road
+Exits: ^North^ ^South^.
+
+o C Move:Weak>n
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+*a Man* is here, fighting *a dreadful Orc*.
+*a Man* is standing here.
+*a noble Elf* is here trying to concentrate, riding a pack horse.
+*a Hobbit* is here, fighting *a dreadful Orc*.
+*a dreadful Orc* is here, riding a hungry warg, fighting *a Man*.
+*an Orc* is here, riding a hungry warg.
+Exits: ^East^ ^South^ ^West^.
+*a dreadful Orc* panics, and attempts to flee.
+*a dreadful Orc* leaves west riding a hungry warg.
+
+* C Move:Weak>
+*a Man* has arrived from the west riding a trained horse.
+
+* C Move:Weak>
+*a noble Elf* leaves east riding a pack horse.
+*an Orc* leaves west riding a hungry warg.
+*a Man* leaves east riding a trained horse.
+*a Man* leaves east.
+*a Man* leaves east.
+
+* C Move:Weak>1
+
+*an Orc* has arrived from the west riding a hungry warg.
+
+* C Move:Weak>2
+*a Hobbit* leaves east.
+k *elf*
+They aren't here.
+
+o C Move:Weak>3
+k *man*
+They aren't here.
+
+o C Move:Weak>1
+
+*an Orc* has arrived from the west riding a hungry warg.
+
+o C Move:Weak>k *dwarf*
+They aren't here.
+
+o C Move:Weak>k *elf*
+They aren't here.
+
+o C Move:Weak>
+*a Man* has arrived from the east riding a trained horse.
+*a Man* has arrived from the east.
+*a Man* has arrived from the east.
+*an Orc* leaves west riding a hungry warg.
+
+* C Move:Weak>
+*a Man* pounds *an Orc*'s body extremely hard and tickles it.
+
+* C Move:Weak>
+*an Orc* smites *a Man*'s body extremely hard.
+
+* C Move:Weak>close Pendoor
+1
+*a Man* pounds *an Orc*'s right arm extremely hard.
+*a Man* begins some strange incantations...
+You don't see any pendoor here.
+
+* C Move:Weak>2
+2
+k *elf*
+They aren't here.
+
+* C Move:Weak>* C Move:Weak>
+k *man*
+You crush *a Man*'s right foot very hard and tickle it.
+*a Man* panics, and attempts to flee.
+*a Man* leaves west riding a trained horse.
+
+* C Move:Weak>
+*an Orc* panics, and attempts to flee.
+*an Orc* panics, but can't stop fighting to flee.
+
+* C Move:Weak>
+*a noble Elf* has arrived from the east riding a pack horse.
+
+wc
+* C Move:Weak>
+*an Orc* panics, and attempts to flee.
+*a noble Elf* leaves east riding a pack horse.
+
+* C Move:Weak>* C Move:Fainting *a Man*:Fine *an Orc*:Wounded>
+*a Man* has arrived from the west riding a trained horse.
+k *man*
+You approach *a Man*, trying to crush him.
+*a Man* utters the word 'pabraw'
+
+* C Move:Fainting *a Man*:Fine *an Orc*:Wounded>wc
+
+*an Orc* panics, and attempts to flee.
+*an Orc* leaves east riding a hungry warg.
+*a Man* leaves east riding a trained horse.
+*a Man* leaves east.
+*an Orc* has arrived from the east riding a hungry warg.
+
+* C Move:Fainting *a Man*:Fine>
+*an Orc* leaves east riding a hungry warg.
+
+wc
+* C Move:Fainting *a Man*:Fine>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C Move:Fainting *a Man*:Fine>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C Move:Fainting *a Man*:Fine>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+*an Orc* has arrived from the east riding a hungry warg.
+
+* C Move:Fainting *a Man*:Fine>wc
+
+*an Orc* leaves west riding a hungry warg.
+
+* C Move:Fainting *a Man*:Fine>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C Move:Fainting *a Man*:Fine>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C Move:Fainting *a Man*:Fine>
+*a Man* sends you sprawling with a powerful bash.
+
+* C HP:Fine Move:Fainting *a Man*:Fine>
+*a Man* pounds your head extremely hard.
+
+* C HP:Fine Move:Fainting *a Man*:Fine>
+*a Man* panics, and attempts to flee.
+*a Man* panics, but can't stop fighting to flee.
+
+* C HP:Fine Move:Fainting *a Man*:Fine>
+*a Man* panics, and attempts to flee.
+*a Man* panics, but can't stop fighting to flee.
+
+wc
+* C HP:Fine Move:Fainting *a Man*:Fine>
+*a Man* pounds your body extremely hard and shatters it.
+
+1
+* C HP:Hurt Move:Fainting *a Man*:Fine>
+*a Man* panics, and attempts to flee.
+*a Man* leaves east.
+Your head stops stinging.
+
+o C HP:Hurt Move:Fainting>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C HP:Hurt Move:Fainting>k *elf*
+They aren't here.
+
+o C HP:Hurt Move:Fainting>l
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+Aleister is standing here.
+
+o C HP:Hurt Move:Fainting>
+A young ranger yells 'Some Orcs are here at Old East Road Meets Greenway!'
+
+o C HP:Hurt Move:Fainting>s
+Connecting Paved Road
+Exits: ^North^ ^South^.
+
+o C HP:Hurt Move:Fainting>n
+West of Bree
+The corpse of *a Man* is lying here.
+The corpse of a young ranger is lying here.
+The corpse of a young ranger is lying here.
+Exits: ^East^ ^South^ ^West^.
+
+o C HP:Hurt Move:Exhausted>w
+You are too exhausted.
+
+o C HP:Hurt Move:Exhausted>w
+Large Road
+Exits: ^East^ ^West^.
+The clouds suddenly disappear.
+
+o C HP:Hurt Move:Exhausted>
+Your blood freezes as you hear a death cry.
+
+o C HP:Hurt Move:Exhausted>
+*a dreadful Orc* has arrived from the west riding a hungry warg.
+*an Orc* has arrived from the west riding a hungry warg.
+*an Orc* has arrived from the west riding a hungry warg.
+*an Orc* has arrived from the west riding a hungry warg.
+
+o C HP:Hurt Move:Exhausted>w
+
+*a dreadful Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+
+o C HP:Hurt Move:Exhausted>You are too exhausted.
+*a dreadful Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+
+o C HP:Hurt Move:Exhausted>
+*a dreadful Orc* gurgles 'wow'
+
+o C HP:Hurt Move:Fainting>sc
+129/200 hit, and 1/108 moves.
+
+o C HP:Hurt Move:Fainting>wc
+
+*a dreadful Orc* gurgles 'they're pathetic'
+
+o C HP:Hurt Move:Fainting>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C HP:Hurt Move:Fainting>
+*an Orc* giggles.
+
+o C HP:Hurt Move:Fainting>
+*an Orc* bleeds from open wounds.
+*a dreadful Orc* bleeds from open wounds.
+
+o C HP:Hurt Move:Fainting>
+*an Orc* nods solemnly.
+*an Orc* grumbles :  super trolls
+
+o C HP:Hurt Move:Fainting>cac
+You cackle gleefully.
+
+o C HP:Hurt Move:Fainting>
+*an Orc* slurs: me down a lot
+
+o C HP:Hurt Move:Fainting>l
+
+*an Orc* slurs, eheh
+
+o C HP:Hurt Move:Fainting>Large Road
+Aleister is standing here.
+*a dreadful Orc* is here tending wounds, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+
+o C HP:Hurt Move:Fainting>
+*an Orc* slurs, dont sunrip now
+
+o C HP:Hurt Move:Fainting>score
+132/200 hit, and 3/108 moves.
+emote reports:   132/200 hit     3/108 moves
+
+o C HP:Hurt Move:Fainting>Ok.
+
+o C HP:Hurt Move:Fainting>
+*an Orc* pats you on your head.
+
+o C HP:Hurt Move:Fainting>time
+According to the Dúnadan calendar, it is:
+2am on Mersday, the 13th of Blotmath, Year 2859 of the Third Age.
+You don't feel well outside.
+It must be the middle of the night.
+The present Tan Istar, Lord of the Istari Council is Balvan.
+Real time is Sat Dec 30 05:19:51 2000 GMT.
+Last reboot due to a crash at Fri Dec 29 05:58:49 2000 GMT
+
+o C HP:Hurt Move:Fainting>
+*a dreadful Orc* fails to bind his wound.
+
+o C HP:Hurt Move:Fainting>
+*an Orc* begins some strange incantations...
+
+o C HP:Hurt Move:Fainting>
+*an Orc* drinks water from a water skin.
+
+o C HP:Hurt Move:Weak>
+*an Orc* utters the words 'judicandus dies'
+
+o C HP:Hurt Move:Weak>
+*a dreadful Orc* fails to bind his wound.
+
+o C HP:Hurt Move:Weak>
+*an Orc* begins some strange incantations...
+
+o C HP:Hurt Move:Weak>
+*a dreadful Orc* gurgles 'trolls go golden for day?'
+
+o C HP:Hurt Move:Weak>
+*an Orc* utters the words 'judicandus dies'
+
+o C HP:Hurt Move:Weak>w
+Old East Road Meets Greenway
+The corpse of a young ranger is lying here.
+The corpse of a hardened ranger is lying here.
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+o C HP:Hurt Move:Weak>n
+The Lane
+Exits: ^North^ ^East^ ^South^.
+
+o C HP:Hurt Move:Weak>n
+The Lane
+Exits: ^North^ ^East^ ^South^.
+
+o C HP:Hurt Move:Fainting>n
+The Lane
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+o C HP:Hurt Move:Fainting>n
+The Lane
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+o C HP:Hurt Move:Fainting>w
+
+<<< after the day went by >>>
+
+Open Field
+Exits: ^East^ ^South^ ^West^.
+A hooded brass lantern has been left here.
+There are three torches here.
+Exits: South ^Up^.
+
+* C>u
+The Small Hill
+The statue of a troll is here.
+Exits: ^East^ ^South^ Down.
+
+* C>s
+Small Path in the Hills
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+* C>s
+Small Path in the Hills
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+* C>s
+Small Path in the Hills
+Exits: ^North^ ^South^.
+
+* C>s
+Old East Road
+A young man in ranger's attire is here, travelling the roads.
+Exits: ^North^ ^East^ ^South^ ^West^.
+A young ranger yells 'Sume Trolls are here at Old East Road!'
+
+* C>s
+Small path in grassy field
+Exits: ^North^ ^South^.
+
+* C>s
+Old Ruins
+Exits: ^North^ ^West^.
+
+* C>n
+Small path in grassy field
+Exits: ^North^ ^South^.
+
+* C>n
+
+Saving Hercules.
+
+* C>Old East Road
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+* C>e
+Large Road
+Exits: ^East^ ^West^.
+
+* C>e
+Old East Road Meets Greenway
+The corpse of a boar is lying here.
+The corpse of a young ranger is lying here.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+* C>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+* C>
+*a dreadful Orc* licks his mouth and smiles.
+
+* C>
+*an Orc* falls down laughing.
+
+* C>
+*an Orc* throws back his head and cackles with insane glee!
+
+* C>
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+
+* C>
+*a dreadful Orc* gurgles 'stand 1e?'
+
+* C>
+*an Orc* shakes his head.
+
+* C>
+Aleister sayz:  err
+
+* C>
+*an Orc* slurs: let em come
+
+* C>
+*a dreadful Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+
+* C>
+*a dreadful Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+
+* C>
+*a dreadful Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+
+* C>l
+e
+Aleister leaves east.
+*a dreadful Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+Old East Road Meets Greenway
+The corpse of a boar is lying here.
+The corpse of a young ranger is lying here.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+
+* C>Large Road
+The corpse of a young ranger is lying here.
+Aleister is standing here.
+Exits: ^East^ ^West^.
+
+* C>w
+Old East Road Meets Greenway
+The corpse of a boar is lying here.
+The corpse of a young ranger is lying here.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+* C>
+*an Orc* yells 'coma oermg'
+
+* C>pond
+
+*an Orc* giggles.
+
+* C>
+*an Orc* slurs, jesus
+
+* C>You ponder life, the universe, and everything.
+
+* C>
+A young ranger has arrived from the west.
+
+* C>
+*a dreadful Orc* giggles.
+
+* C>
+*an Orc* yells 'wiwpy'
+
+* C>
+*an Orc* yells 'fuckw'
+
+* C>
+*a Man* yells 'no'
+A young ranger fails to slash *a dreadful Orc*.
+
+* C>
+*a dreadful Orc* slashes a young ranger's left arm hard.
+
+* C>
+*an Orc* smites a young ranger's head extremely hard and shatters it.
+
+* C>
+*an Orc* yells 'yeoh sure'
+A young ranger swiftly dodges *an Orc*'s attempt to pound him.
+A young ranger says 'Prepare to die, Gryluk!'
+
+* C>k ranger
+
+*a dreadful Orc* slashes a young ranger's body extremely hard and shatters it.
+
+* C>* C a young ranger:Bad *a dreadful Orc*:Healthy>
+You crush a young ranger's right arm extremely hard and shatter it.
+A young ranger says 'Prepare to die, Hercoles!'
+
+* C a young ranger:Bad *a dreadful Orc*:Healthy>
+*an Orc* yells 'plendale'
+*an Orc* smites a young ranger's right foot extremely hard and shatters it.
+A young ranger is mortally wounded and will die soon if not aided.
+
+* C a young ranger:Dying *a dreadful Orc*:Healthy>
+Aleister hits a young ranger's left arm extremely hard and shatters it.
+You receive your share of experience.
+Congratulations! This is the first time you've killed it!
+Your blood freezes as you hear a young ranger's death cry.
+A young ranger is dead! R.I.P.
+
+* C>
+*an Orc* yells 'get vobz'
+
+* C>
+*a Man* yells 'you come here jackasses'
+
+* C>
+*a dreadful Orc* gurgles 'rotfl'
+
+* C>
+*an Orc* yells 'to do'
+
+* C>
+*an Orc* slurs, they got their callers
+
+* C>stat
+
+*an Orc* yells 'your '
+
+* C>
+The night has begun.
+
+o C>OB: 56%, DB: 22%, PB: 18%, Armour: 0%. Wimpy: 0. Mood: aggressive.
+Needed: 9,004 xp, 0 tp. Gold: 0. Alert: normal.
+Affected by:
+- noquit
+- novoid
+
+o C>
+*an Orc* yells 'work'
+
+o C>
+*a dreadful Orc* nods solemnly.
+
+o C>
+*a dreadful Orc* gurgles 'i know'
+
+o C>
+*an Orc* yells 'y can't'
+
+o C>
+*an Orc* slurs, watch 
+
+o C>
+*a dreadful Orc* yells 'do'
+
+o C>
+*an Orc* yells 'pk'
+
+o C>l
+
+*a dreadful Orc* yells 'zithoat'
+
+o C>Old East Road Meets Greenway
+The corpse of a young ranger is lying here.
+The corpse of a boar is lying here.
+The corpse of a young ranger is lying here.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+Aleister is standing here.
+
+o C>
+*a dreadful Orc* yells 'call?'
+
+o C>
+*an Orc* yells 'for ssip'
+
+o C>
+*an Orc* slurs, wather
+
+o C>
+*an Orc* yells 'ge sit'
+
+o C>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C>
+*an Orc* yells 'gate'
+
+o C>
+Aleister gets a green cloak from the corpse of a young ranger.
+
+o C>
+*a dreadful Orc* gurgles 'am'
+
+o C>
+*an Orc* yells 'for seur'
+
+o C>
+*an Orc* yells 'rl'
+
+o C>
+*an Orc* yells 'hoping'
+
+o C>
+*a dreadful Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+
+o C>
+*an Orc* yells 'mobs'
+
+o C>e
+Large Road
+The corpse of a young ranger is lying here.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+Exits: ^East^ ^West^.
+*a dreadful Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* yells 'do it'
+
+o C>
+Aleister drops a green cloak.
+*a dreadful Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+
+o C>
+*an Orc* yells 'fol ya'
+
+o C>l
+Large Road
+A large piece of green cloth is on the ground.
+The corpse of a young ranger is lying here.
+Aleister is standing here.
+*a dreadful Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+*an Orc* is here, riding a hungry warg.
+
+o C>
+Aleister yells 'Charge! The daggers of the trolls are upon you!!!!!!!!!!!!!!'
+
+o C>
+*a dreadful Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+
+o C>
+*a dreadful Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+
+o C>blinkd
+Arglebargle, glop-glyf!?!
+
+o C>blink
+You blink your eyes innocently.
+
+o C>
+*an Orc* ponders life, the universe, and everything.
+
+o C>wc
+yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+Ok.
+
+o C>
+*a dreadful Orc* gurgles 'lets hit pelf'
+
+o C>l
+
+*a dreadful Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+
+o C>Large Road
+A large piece of green cloth is on the ground.
+The corpse of a young ranger is lying here.
+Aleister is standing here.
+
+o C>
+*a dreadful Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+
+o C>
+*a dreadful Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+
+o C>
+You hear some apparently very close noise coming from the east.
+
+o C>
+*a dreadful Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+
+o C>
+*a Man* has arrived from the east riding a trained horse.
+*a Dwarf* has arrived from the east riding a mountain mule.
+*a Dwarf* has arrived from the east riding a mountain mule.
+*an Elf* has arrived from the east.
+*a Man* has arrived from the east.
+*a Man* has arrived from the east.
+
+* C>
+*an Elf* begins some strange incantations...
+
+*an Orc* leaves west riding a hungry warg.
+*a Man* begins some strange incantations...
+*a dreadful Orc* leaves west riding a hungry warg.
+*an Orc* leaves west riding a hungry warg.
+*an Orc* leaves west riding a hungry warg.
+
+* C>
+*a Man* leaves west riding a trained horse.
+*a Dwarf* leaves west riding a mountain mule.
+*a Dwarf* leaves west riding a mountain mule.
+*an Elf* leaves west.
+*a Man* leaves west.
+*a Man* leaves west.
+You hear some apparently very close noise coming from the west.
+
+o C>
+*a noble Elf* has arrived from the east riding a pack horse.
+
+* C>1
+1
+* C *a noble Elf*:Healthy>
+k *elf*
+*a noble Elf* swiftly dodges your attempt to crush him.
+
+* C *a noble Elf*:Healthy>
+*a noble Elf* pierces your left arm and tickles it.
+
+* C HP:Fine *a noble Elf*:Healthy>
+Aleister leaves west.
+
+o C HP:Fine>
+*a noble Elf* panics, and attempts to flee.
+*a noble Elf* leaves east riding a pack horse.
+
+o C HP:Fine>2
+k *elf*
+They aren't here.
+
+o C HP:Fine>k *man*
+They aren't here.
+
+o C HP:Fine>3
+1
+k *dwarf*
+They aren't here.
+
+o C HP:Fine>l
+k *elf*
+They aren't here.
+
+o C HP:Fine>Large Road
+A large piece of green cloth is on the ground.
+The corpse of a young ranger is lying here.
+
+o C HP:Fine>
+*a noble Elf* has arrived from the east riding a pack horse.
+
+* C HP:Fine>
+*a noble Elf* leaves west riding a pack horse.
+
+o C HP:Fine>1
+2
+k *elf*
+They aren't here.
+
+o C HP:Fine>k *man*
+They aren't here.
+
+o C HP:Fine>w
+Old East Road Meets Greenway
+The corpse of a young ranger is lying here.
+The corpse of a boar is lying here.
+The corpse of a young ranger is lying here.
+*a dreadful Orc* is here, riding a hungry warg, fighting *a Man*.
+*an Orc* is here, riding a hungry warg, fighting *an Elf*.
+*an Orc* is here, sitting on a hungry warg.
+*a Man* is here, sitting on a trained horse.
+*a Dwarf* is here, riding a mountain mule, fighting *a dreadful Orc*.
+*a Dwarf* is here, riding a mountain mule, fighting *an Orc*.
+*an Elf* is here, fighting *an Orc*.
+*a Man* is here, fighting *a dreadful Orc*.
+*a Man* is standing here trying to concentrate.
+Aleister is here, fighting *an Elf*.
+*an Orc* is here, riding a hungry warg, fighting *a Man*.
+*a noble Elf* is here trying to concentrate, riding a pack horse.
+Exits: ^North^ ^East^ ^South^ ^West^.
+
+* C HP:Fine>
+*an Elf* avoids being bashed by *an Orc* who loses his balance and falls.
+
+* C HP:Fine>
+*a Dwarf* pounds *an Orc*'s right hand extremely hard.
+
+* C HP:Fine>
+*a Man* utters the word 'pabraw'
+*a Man* raises his voice and ancient powers make *a dreadful Orc* twist in
+pain.
+
+* C HP:Fine>2
+
+*an Orc* strongly smites *an Elf*'s right arm and tickles it.
+
+* C HP:Fine>
+*a Man* begins some strange incantations...
+*a dreadful Orc* panics, and attempts to flee.
+*a dreadful Orc* leaves west riding a hungry warg.
+
+* C HP:Fine>1
+* C HP:Fine *a Man*:Fine *an Orc*:Healthy>
+k *man*
+You lightly crush *a Man*'s right foot and tickle it.
+*a dreadful Orc* has arrived from the west riding a hungry warg.
+*an Orc* smites *a Man*'s left arm extremely hard and tickles it.
+
+* C HP:Fine *a Man*:Fine *an Orc*:Healthy>1
+
+*an Orc* stops resting, and clambers on his feet.
+
+* C HP:Fine *a Man*:Fine *an Orc*:Healthy>
+*a Dwarf* giggles at *an Orc*'s silly antics.
+*an Orc* seems to have recovered his senses.
+*a Man* utters the words 'eugszr zzur'
+
+* C HP:Fine *a Man*:Fine *an Orc*:Healthy>
+*a dreadful Orc* leaves west riding a hungry warg.
+
+*an Orc* panics, and attempts to flee.
+*an Orc* leaves north riding a hungry warg.
+
+* C HP:Fine *a Man*:Fine>* C HP:Fine *a Man*:Fine>
+k *elf*
+Alas! You failed to reach him through the melee.
+*a Dwarf* joins *a Man*'s fight.
+*a noble Elf* utters the words 'qahijf gsfal'
+*a Dwarf* crushes your right hand extremely hard.
+
+1
+* C HP:Fine *a Man*:Fine>
+*an Orc* leaves west riding a hungry warg.
+
+2
+* C HP:Fine *a Man*:Fine>3
+
+You suddenly notice *a Hobbit*.
+*an Orc* has arrived from the west riding a hungry warg.
+
+* C HP:Fine *a Man*:Fine>* C HP:Fine *a Man*:Fine>
+k *elf*
+Alas! You failed to reach him through the melee.
+
+* C HP:Fine *a Man*:Fine>
+*an Orc* leaves west riding a hungry warg.
+
+1
+* C HP:Fine *a Man*:Fine>
+*a Man* seems to have recovered his senses.
+
+* C HP:Fine *a Man*:Fine>
+*a Hobbit* leaves east.
+*a Man* says 'die'
+*a Dwarf* crushes your left leg hard.
+
+*an Elf* utters the words 'diesilla barh'
+
+* C HP:Fine *a Man*:Fine>* C HP:Fine *a Man*:Fine>
+k *elf*
+Alas! You failed to reach him through the melee.
+
+* C HP:Fine *a Man*:Fine>2
+
+*an Orc* has arrived from the west riding a hungry warg.
+*a noble Elf* utters the words 'qahijf gsfal'
+
+* C HP:Fine *a Man*:Fine>
+*an Orc* smites *a Man*'s head hard and tickles it.
+
+* C HP:Fine *a Man*:Fine>1
+k *man*
+You're already fighting!
+
+* C HP:Fine *a Man*:Fine>k *dwarf*
+
+* C HP:Fine *a Dwarf*:Healthy>b
+* C HP:Fine *a Dwarf*:Healthy>
+k *elf*
+Alas! You failed to reach him through the melee.
+*an Elf* utters the words 'diesilla barh'
+
+* C HP:Fine *a Dwarf*:Healthy>
+*a Man* sends you sprawling with a powerful bash.
+*a noble Elf* utters the words 'qahijf gsfal'
+
+* C HP:Fine *a Dwarf*:Healthy>
+*an Orc* leaves south riding a hungry warg.
+*an Elf* has arrived from the east.
+
+* C HP:Fine *a Dwarf*:Healthy>
+*an Elf* leaves east.
+
+wc
+* C HP:Fine *a Dwarf*:Healthy>wc
+
+*a noble Elf* has arrived from the east riding a pack horse.
+
+wc
+* C HP:Fine *a Dwarf*:Healthy>
+*an Elf* utters the words 'diesilla barh'
+
+wc
+* C HP:Fine *a Dwarf*:Healthy>wc
+
+Aleister leaves south.
+*an Orc* seems to have recovered his senses.
+*a Dwarf* crushes your left foot extremely hard.
+You feel a strong ache there!
+*a Man* pounds your body extremely hard and shatters it.
+
+* C HP:Hurt *a Dwarf*:Healthy>
+*an Orc* leaves west riding a hungry warg.
+
+* C HP:Hurt *a Dwarf*:Healthy>
+You suddenly notice *a Hobbit*.
+*an Orc* has arrived from the west riding a hungry warg.
+*an Orc* has arrived from the south riding a hungry warg.
+*a Hobbit* leaves east.
+
+* C HP:Hurt *a Dwarf*:Healthy>
+*an Elf* has arrived from the east.
+
+* C HP:Hurt *a Dwarf*:Healthy>
+*an Orc* leaves west riding a hungry warg.
+
+* C HP:Hurt *a Dwarf*:Healthy>
+*a Dwarf* crushes your right foot hard.
+
+*a noble Elf* leaves east riding a pack horse.
+Your head stops stinging.
+
+* C HP:Hurt *a Dwarf*:Healthy>You suddenly notice *a Hobbit*.
+*an Orc* has arrived from the west riding a hungry warg.
+k *man*
+
+* C HP:Hurt *a Man*:Fine>* C HP:Hurt *a Man*:Fine>
+*an Orc* leaves west riding a hungry warg.
+k *elf*
+Alas! You failed to reach him through the melee.
+
+* C HP:Hurt *a Man*:Fine>
+*a noble Elf* utters the words 'qahijf gsfal'
+*a Hobbit* leaves west.
+
+f
+* C HP:Hurt *a Man*:Fine>
+*a Man* leaves west.
+
+* C HP:Hurt *a Man*:Fine>bash
+
+Aleister has arrived from the south.
+*an Orc* panics, and attempts to flee.
+*an Orc* leaves west riding a hungry warg.
+
+*a Man* has arrived from the west.
+
+* C HP:Wounded *a Man*:Fine>
+*a Man* sends you sprawling with a powerful bash.
+
+* C HP:Wounded *a Man*:Fine>
+*a Man* leaves west.
+
+* C HP:Wounded *a Man*:Fine>
+*a noble Elf* has arrived from the east riding a pack horse.
+*a Man* pounds your right leg extremely hard and shatters it.
+
+* C HP:Wounded *a Man*:Fine>
+*a Man* pounds your left leg extremely hard and shatters it.
+You feel a strong ache there!
+You wish that your wounds would stop BLEEDING so much!
+
+* C HP:Awful *a Man*:Fine>
+*a noble Elf* utters the word 'abrawajf'          << Hey,,, where are the orcs???>>
+
+* C HP:Awful *a Man*:Fine>
+*an Orc* has arrived from the west riding a hungry warg.
+
+* C HP:Awful *a Man*:Fine>
+Aleister leaves south.
+
+* C HP:Awful *a Man*:Fine>
+*a Dwarf* crushes your left leg very hard and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+
+* C HP:Awful *a Man*:Fine>
+*a Man* has arrived from the west.
+*an Orc* leaves west riding a hungry warg.
+
+* C HP:Awful *a Man*:Fine>
+*a Man* pounds your body extremely hard and shatters it.
+You feel a strong ache there!
+
+You are dead! Sorry...
+
+
+f
+o C HP:Awful>
+Your head stops stinging.
+
+o C HP:Awful>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+You try to yell, but your voice is swallowed by the thick air surrounding you.
+
+o C HP:Awful>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+You try to yell, but your voice is swallowed by the thick air surrounding you.
+
+o C HP:Awful>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+You try to yell, but your voice is swallowed by the thick air surrounding you.
+
+o C HP:Awful>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+You try to yell, but your voice is swallowed by the thick air surrounding you.
+
+o C HP:Awful>yell CHARGE!!! DESTROY THE GOOD!!! PURGE THE LANDS!!!
+You try to yell, but your voice is swallowed by the thick air surrounding you.
+
+o C HP:Awful>Nah... You feel too relaxed to do that..
+
+o C HP:Awful>Nah... You feel too relaxed to do that..
+
+o C HP:Awful>
