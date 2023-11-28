@@ -109,6 +109,7 @@ function displayPercent() {
     document.frn.track.value=Math.round(2.5*inte+3.8*per+16.9);
     //		document.frn.wildernessold.value=20+3.75*str+2.5*wil;
     document.frn.wilderness.value=4.2*str+5.5*wil-22.3;
+    document.frn.darkoath.value=50+1.56*con+wil+0.67*per;
     document.frn.bash.value= 50+1.67*str+dex+0.67*wil;
     document.frn.cleaving.value=50+1.56*str+dex+0.67*wil;
     var consmi = 50+1.56*str+con+0.67*wil;
